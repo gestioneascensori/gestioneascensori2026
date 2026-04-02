@@ -6,7 +6,9 @@
     "status": "funzionante"
   },
   "3": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "4": {
     "status": "funzionante"
