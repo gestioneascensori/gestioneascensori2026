@@ -1,11 +1,9 @@
 {
   "1": {
-    "status": "guasto",
-    "note": ""
+    "status": "funzionante"
   },
   "2": {
-    "status": "guasto",
-    "note": ""
+    "status": "funzionante"
   },
   "3": {
     "status": "funzionante"
