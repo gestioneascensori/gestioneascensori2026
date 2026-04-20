@@ -3,7 +3,9 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "3": {
     "status": "funzionante"
@@ -33,7 +35,9 @@
     "status": "funzionante"
   },
   "14": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "15": {
     "status": "funzionante"
@@ -42,7 +46,9 @@
     "status": "funzionante"
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "18": {
     "status": "funzionante"
