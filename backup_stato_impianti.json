@@ -131,7 +131,9 @@
     "status": "funzionante"
   },
   "46": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Per corto circuito "
   },
   "48": {
     "status": "funzionante"
