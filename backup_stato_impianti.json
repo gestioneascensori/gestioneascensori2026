@@ -27,7 +27,9 @@
     "status": "funzionante"
   },
   "12": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Porte si bloccano "
   },
   "13": {
     "status": "funzionante"
