@@ -97,7 +97,7 @@
     "status": "funzionante"
   },
   "34": {
-    "status": "fermo"
+    "status": "funzionante"
   },
   "35": {
     "status": "guasto",
@@ -107,9 +107,7 @@
     "status": "funzionante"
   },
   "37": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": ""
+    "status": "funzionante"
   },
   "38": {
     "status": "funzionante"
