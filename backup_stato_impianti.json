@@ -42,7 +42,9 @@
     "status": "funzionante"
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Fermo al piano R"
   },
   "18": {
     "status": "funzionante"
