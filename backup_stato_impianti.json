@@ -5,7 +5,7 @@
   "2": {
     "status": "fermo",
     "ticket": "",
-    "motivation": "OPERATORE GUASTO"
+    "motivation": "operatore"
   },
   "3": {
     "status": "funzionante"
