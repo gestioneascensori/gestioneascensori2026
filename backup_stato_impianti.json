@@ -3,7 +3,9 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "OPERATORE GUASTO"
   },
   "3": {
     "status": "funzionante"
