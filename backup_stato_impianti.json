@@ -3,9 +3,7 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "operatore"
+    "status": "funzionante"
   },
   "3": {
     "status": "funzionante"
@@ -173,10 +171,14 @@
     "status": "funzionante"
   },
   "4 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "5 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "6 DEA": {
     "status": "funzionante"
