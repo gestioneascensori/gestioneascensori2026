@@ -106,7 +106,9 @@
     "note": ""
   },
   "36": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "37": {
     "status": "funzionante"
@@ -171,14 +173,10 @@
     "status": "funzionante"
   },
   "4 DEA": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": ""
+    "status": "funzionante"
   },
   "5 DEA": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": ""
+    "status": "funzionante"
   },
   "6 DEA": {
     "status": "funzionante"
