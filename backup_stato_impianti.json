@@ -106,9 +106,7 @@
     "note": ""
   },
   "36": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": ""
+    "status": "funzionante"
   },
   "37": {
     "status": "funzionante"
@@ -136,9 +134,7 @@
     "status": "funzionante"
   },
   "46": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Cortocircuito "
+    "status": "funzionante"
   },
   "48": {
     "status": "funzionante"
