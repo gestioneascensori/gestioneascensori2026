@@ -1,6 +1,8 @@
 {
   "1": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Chiamare kone"
   },
   "2": {
     "status": "funzionante"
