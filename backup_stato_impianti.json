@@ -17,7 +17,9 @@
     "status": "funzionante"
   },
   "6": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "3250645",
+    "motivation": ""
   },
   "7": {
     "status": "funzionante"
