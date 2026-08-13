@@ -111,7 +111,9 @@
     "status": "funzionante"
   },
   "37": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "In attesa di rifacimento"
   },
   "38": {
     "status": "funzionante"
