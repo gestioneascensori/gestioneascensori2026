@@ -61,7 +61,9 @@
     "status": "funzionante"
   },
   "22": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Fotocellule "
   },
   "23": {
     "status": "funzionante"
@@ -81,7 +83,9 @@
     "status": "funzionante"
   },
   "28": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Fotocellule "
   },
   "29": {
     "status": "funzionante"
