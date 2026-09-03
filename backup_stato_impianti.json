@@ -44,7 +44,9 @@
     "status": "funzionante"
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "18": {
     "status": "funzionante"
@@ -59,9 +61,7 @@
     "status": "funzionante"
   },
   "22": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Fotocellule "
+    "status": "funzionante"
   },
   "23": {
     "status": "funzionante"
@@ -81,9 +81,7 @@
     "status": "funzionante"
   },
   "28": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Fotocellule "
+    "status": "funzionante"
   },
   "29": {
     "status": "funzionante"
@@ -113,9 +111,7 @@
     "status": "funzionante"
   },
   "37": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "In attesa di rifacimento"
+    "status": "funzionante"
   },
   "38": {
     "status": "funzionante"
@@ -175,13 +171,17 @@
     "status": "funzionante"
   },
   "4 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "FOTOCELLULA"
   },
   "5 DEA": {
     "status": "funzionante"
   },
   "6 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "OPERATORE ATTESA PREVENTIVO"
   },
   "7 DEA": {
     "status": "funzionante"
