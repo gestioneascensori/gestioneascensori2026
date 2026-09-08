@@ -64,7 +64,7 @@
     "status": "funzionante"
   },
   "23": {
-    "status": "fermo"
+    "status": "funzionante"
   },
   "24": {
     "status": "guasto",
@@ -78,12 +78,10 @@
     "status": "funzionante"
   },
   "27": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": ""
+    "status": "funzionante"
   },
   "28": {
-    "status": "fermo"
+    "status": "funzionante"
   },
   "29": {
     "status": "funzionante"
