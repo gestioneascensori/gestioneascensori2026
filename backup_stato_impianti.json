@@ -41,12 +41,14 @@
     "status": "funzionante"
   },
   "16": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "3273956",
+    "motivation": "Fermo spento "
   },
   "17": {
     "status": "fermo",
-    "ticket": "",
-    "motivation": ""
+    "ticket": "3273953",
+    "motivation": "Tasto 0 mancante "
   },
   "18": {
     "status": "funzionante"
