@@ -3,7 +3,9 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "3273861",
+    "motivation": ""
   },
   "3": {
     "status": "funzionante"
@@ -111,7 +113,9 @@
     "status": "funzionante"
   },
   "38": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "3273938",
+    "motivation": ""
   },
   "39": {
     "status": "funzionante"
