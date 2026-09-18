@@ -3,9 +3,7 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "fermo",
-    "ticket": "3273861",
-    "motivation": ""
+    "status": "funzionante"
   },
   "3": {
     "status": "funzionante"
@@ -41,14 +39,12 @@
     "status": "funzionante"
   },
   "16": {
-    "status": "fermo",
-    "ticket": "3273956",
-    "motivation": "Fermo spento "
+    "status": "funzionante"
   },
   "17": {
     "status": "fermo",
     "ticket": "3273953",
-    "motivation": "Tasto 0 mancante "
+    "motivation": "rifacimento pulegis"
   },
   "18": {
     "status": "funzionante"
@@ -115,9 +111,7 @@
     "status": "funzionante"
   },
   "38": {
-    "status": "fermo",
-    "ticket": "3273938",
-    "motivation": ""
+    "status": "funzionante"
   },
   "39": {
     "status": "funzionante"
@@ -174,9 +168,7 @@
     "status": "funzionante"
   },
   "4 DEA": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "FOTOCELLULA"
+    "status": "funzionante"
   },
   "5 DEA": {
     "status": "funzionante"
