@@ -198,7 +198,9 @@
     "status": "funzionante"
   },
   "13 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "lettura sul posto - 13 DEA - chiave",
+    "ticket": ""
   },
   "14 DEA": {
     "status": "funzionante"
