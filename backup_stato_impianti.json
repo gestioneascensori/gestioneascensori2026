@@ -198,17 +198,13 @@
     "status": "funzionante"
   },
   "13 DEA": {
-    "status": "fermo",
-    "motivation": "lettura sul posto - 13 DEA - chiave",
-    "ticket": ""
+    "status": "funzionante"
   },
   "14 DEA": {
     "status": "funzionante"
   },
   "VIA ASSIETTA - MILANO": {
-    "status": "fermo",
-    "motivation": "lettura sul posto - VIA ASSIETTA - MILANO - erwrtrwtwetwwet chiave ",
-    "ticket": ""
+    "status": "funzionante"
   },
   "VIA EMILIA - BUCCINASCO": {
     "status": "funzionante"
