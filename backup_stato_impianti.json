@@ -204,7 +204,9 @@
     "status": "funzionante"
   },
   "VIA ASSIETTA - MILANO": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "lettura sul posto - VIA ASSIETTA - MILANO - chiaveerwrtrwtwetwwet",
+    "ticket": ""
   },
   "VIA EMILIA - BUCCINASCO": {
     "status": "funzionante"
