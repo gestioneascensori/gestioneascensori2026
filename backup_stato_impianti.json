@@ -153,7 +153,9 @@
     "note": "DISMESSO"
   },
   "58": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "lettura sul posto - 58",
+    "ticket": ""
   },
   "59": {
     "status": "funzionante"
