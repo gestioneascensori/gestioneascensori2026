@@ -30,9 +30,7 @@
     "status": "funzionante"
   },
   "13": {
-    "status": "fermo",
-    "motivation": "lettura sul posto - 4613785219",
-    "ticket": ""
+    "status": "funzionante"
   },
   "14": {
     "status": "funzionante"
@@ -44,9 +42,7 @@
     "status": "funzionante"
   },
   "17": {
-    "status": "fermo",
-    "ticket": "3273953",
-    "motivation": "rifacimento pulegis"
+    "status": "funzionante"
   },
   "18": {
     "status": "funzionante"
@@ -206,9 +202,7 @@
     "status": "funzionante"
   },
   "VIA ASSIETTA - MILANO": {
-    "status": "fermo",
-    "motivation": "lettura sul posto - VIA ASSIETTA - MILANO - erwrtrwtwetwwet",
-    "ticket": ""
+    "status": "funzionante"
   },
   "VIA EMILIA - BUCCINASCO": {
     "status": "funzionante"
