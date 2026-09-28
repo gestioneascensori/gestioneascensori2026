@@ -77,9 +77,7 @@
     "status": "funzionante"
   },
   "28": {
-    "status": "fermo",
-    "motivation": "lettura sul posto - 28",
-    "ticket": ""
+    "status": "funzionante"
   },
   "29": {
     "status": "funzionante"
@@ -99,10 +97,12 @@
     "status": "funzionante"
   },
   "34": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "In gestione "
   },
   "35": {
-    "status": "funzionante"
+    "status": "fermo"
   },
   "36": {
     "status": "funzionante"
