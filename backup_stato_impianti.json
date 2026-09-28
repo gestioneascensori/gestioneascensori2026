@@ -21,7 +21,9 @@
     "status": "funzionante"
   },
   "8": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 8",
+    "ticket": ""
   },
   "9": {
     "status": "funzionante"
@@ -155,7 +157,9 @@
     "note": "DISMESSO"
   },
   "58": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 58",
+    "ticket": ""
   },
   "59": {
     "status": "funzionante"
