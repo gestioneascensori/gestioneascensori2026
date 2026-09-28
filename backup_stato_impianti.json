@@ -21,7 +21,9 @@
     "status": "funzionante"
   },
   "8": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "lettura sul posto - 8",
+    "ticket": ""
   },
   "9": {
     "status": "funzionante"
