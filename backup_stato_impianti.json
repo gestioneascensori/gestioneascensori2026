@@ -21,7 +21,9 @@
     "status": "funzionante"
   },
   "8": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 8 ddd",
+    "ticket": ""
   },
   "9": {
     "status": "funzionante"
@@ -164,7 +166,9 @@
     "status": "funzionante"
   },
   "2 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 2 DEA",
+    "ticket": ""
   },
   "3 DEA": {
     "status": "funzionante"
