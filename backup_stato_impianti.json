@@ -42,7 +42,9 @@
     "status": "funzionante"
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "IN ATTESA DI STRAORDINARIA"
   },
   "18": {
     "status": "funzionante"
@@ -97,14 +99,10 @@
     "status": "funzionante"
   },
   "34": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "In gestione "
+    "status": "funzionante"
   },
   "35": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "In gestione "
+    "status": "funzionante"
   },
   "36": {
     "status": "funzionante"
