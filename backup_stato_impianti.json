@@ -107,7 +107,9 @@
     "motivation": "In gestione "
   },
   "36": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "In gestione "
   },
   "37": {
     "status": "funzionante"
