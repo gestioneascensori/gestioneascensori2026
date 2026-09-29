@@ -225,8 +225,12 @@
     "status": "funzionante"
   },
   "VIA STROMBOLI 19 - ASC.INT. Mat.278054/07": {
-    "status": "fermo",
+    "status": "funzionante",
     "history": [
+      {
+        "date": "29/09/2026, 17:06",
+        "desc": "Stato modificato in: FUNZIONANTE"
+      },
       {
         "date": "29/09/2026, 17:06",
         "desc": "Impianto fermo. Ticket: N/D - Motivazione: Guasto"
@@ -235,9 +239,7 @@
         "date": "29/09/2026, 17:06",
         "desc": "Stato modificato in: FERMO"
       }
-    ],
-    "ticket": "",
-    "motivation": "Guasto"
+    ]
   },
   "VIA STROMBOLI 19 - ASC.INT Mat.335349/08": {
     "status": "fermo",
