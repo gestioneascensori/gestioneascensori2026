@@ -50,7 +50,23 @@
     "status": "funzionante"
   },
   "15": {
-    "status": "funzionante"
+    "status": "fermo",
+    "history": [
+      {
+        "date": "29/09/2026, 17:53",
+        "desc": "Impianto fermo. Ticket: N/D - Motivazione: Lettura sul posto - 15 test"
+      },
+      {
+        "date": "29/09/2026, 17:53",
+        "desc": "Impianto registrato come fermo tramite scansione codice."
+      },
+      {
+        "date": "29/09/2026, 17:53",
+        "desc": "Stato modificato in: FERMO"
+      }
+    ],
+    "motivation": "Lettura sul posto - 15 test",
+    "ticket": ""
   },
   "16": {
     "status": "funzionante"
