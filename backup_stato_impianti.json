@@ -5,7 +5,13 @@
     "motivation": "Aperto ticket perché rumoroso ma impianto funzionante in attesa di riscontro dal tecnico "
   },
   "2": {
-    "status": "funzionante"
+    "status": "fermo",
+    "history": [
+      {
+        "date": "29/09/2026, 17:38",
+        "desc": "Stato modificato in: FERMO"
+      }
+    ]
   },
   "3": {
     "status": "funzionante"
