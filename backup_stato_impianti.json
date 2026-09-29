@@ -225,7 +225,9 @@
     "status": "funzionante"
   },
   "VIA STROMBOLI 19 - ASC.INT. Mat.278054/07": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "In attesa di lavorazione "
   },
   "VIA STROMBOLI 19 - ASC.INT Mat.335349/08": {
     "status": "funzionante"
