@@ -27,7 +27,9 @@
     "status": "funzionante"
   },
   "12": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 12 apre male al piano e trema in partenza",
+    "ticket": ""
   },
   "13": {
     "status": "funzionante"
