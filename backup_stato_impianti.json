@@ -1,8 +1,6 @@
 {
   "1": {
-    "status": "fermo",
-    "ticket": "3282304",
-    "motivation": "Aperto ticket perché rumoroso ma impianto funzionante in attesa di riscontro dal tecnico "
+    "status": "funzionante"
   },
   "2": {
     "status": "funzionante",
@@ -50,7 +48,7 @@
     "status": "funzionante"
   },
   "15": {
-    "status": "fermo",
+    "status": "funzionante",
     "history": [
       {
         "date": "29/09/2026, 17:58",
@@ -68,9 +66,7 @@
         "date": "29/09/2026, 17:53",
         "desc": "Stato modificato in: FERMO"
       }
-    ],
-    "motivation": "Lettura sul posto - 15 test",
-    "ticket": ""
+    ]
   },
   "16": {
     "status": "funzionante"
