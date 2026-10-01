@@ -42,7 +42,9 @@
     "ticket": "3282194"
   },
   "13": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 13 al 4 piano apertura tk",
+    "ticket": ""
   },
   "14": {
     "status": "funzionante"
