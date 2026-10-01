@@ -248,7 +248,9 @@
     "status": "funzionante"
   },
   "VIA MONREALE 13 - MILANO": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Test"
   },
   "VIA STROMBOLI 19 - ASC.INT. Mat.278054/07": {
     "status": "funzionante",
