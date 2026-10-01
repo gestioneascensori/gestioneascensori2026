@@ -1,8 +1,6 @@
 {
   "1": {
-    "status": "fermo",
-    "ticket": "3282304",
-    "motivation": "Aperto ticket perché rumoroso ma impianto funzionante in attesa di riscontro dal tecnico "
+    "status": "funzionante"
   },
   "2": {
     "status": "funzionante",
