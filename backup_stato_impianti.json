@@ -105,7 +105,9 @@
     "note": "DISMESSO "
   },
   "26": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "27": {
     "status": "funzionante"
