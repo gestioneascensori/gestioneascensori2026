@@ -37,9 +37,7 @@
     "status": "funzionante"
   },
   "12": {
-    "status": "fermo",
-    "motivation": "Lettura sul posto - 12 fermo al 7 piano",
-    "ticket": "3283406"
+    "status": "funzionante"
   },
   "13": {
     "status": "fermo",
