@@ -115,8 +115,9 @@
     "status": "funzionante"
   },
   "30": {
-    "status": "guasto",
-    "note": "DISMESSO"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 30 guasti",
+    "ticket": ""
   },
   "31": {
     "status": "guasto",
