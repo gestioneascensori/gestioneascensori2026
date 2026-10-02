@@ -70,7 +70,9 @@
     "status": "funzionante"
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "IN ATTESA DI STRAORDINARIA"
   },
   "18": {
     "status": "funzionante"
@@ -113,9 +115,8 @@
     "status": "funzionante"
   },
   "30": {
-    "status": "fermo",
-    "motivation": "Lettura sul posto - 30 guasti",
-    "ticket": ""
+    "status": "guasto",
+    "note": "DISMESSO "
   },
   "31": {
     "status": "guasto",
