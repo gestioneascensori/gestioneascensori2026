@@ -182,7 +182,8 @@
     "note": "DISMESSO"
   },
   "57": {
-    "status": "funzionante"
+    "status": "guasto",
+    "note": "DISMESSO "
   },
   "58": {
     "status": "funzionante"
