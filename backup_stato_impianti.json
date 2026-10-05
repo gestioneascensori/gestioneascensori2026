@@ -73,7 +73,9 @@
     "status": "funzionante"
   },
   "18": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 18 in attesa di preventivo sostituzione. Pattini ",
+    "ticket": "Fermato sabato dal tecnico "
   },
   "19": {
     "status": "funzionante"
