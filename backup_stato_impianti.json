@@ -191,7 +191,9 @@
     "status": "funzionante"
   },
   "1 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Chiamata reperibile controllo freni "
   },
   "2 DEA": {
     "status": "funzionante"
