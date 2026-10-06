@@ -67,7 +67,9 @@
     ]
   },
   "16": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 16 fermo",
+    "ticket": ""
   },
   "17": {
     "status": "funzionante"
