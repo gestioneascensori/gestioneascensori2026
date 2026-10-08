@@ -3,7 +3,7 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "funzionante",
+    "status": "fermo",
     "history": [
       {
         "date": "29/09/2026, 17:42",
@@ -13,7 +13,9 @@
         "date": "29/09/2026, 17:38",
         "desc": "Stato modificato in: FERMO"
       }
-    ]
+    ],
+    "ticket": "",
+    "motivation": ""
   },
   "3": {
     "status": "funzionante"
