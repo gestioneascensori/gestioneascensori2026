@@ -22,9 +22,7 @@
     "status": "funzionante"
   },
   "5": {
-    "status": "fermo",
-    "motivation": "Lettura sul posto - 5 fermo allo 0 con segnalazione allarme combinatore ",
-    "ticket": "328 746 5"
+    "status": "funzionante"
   },
   "6": {
     "status": "funzionante"
