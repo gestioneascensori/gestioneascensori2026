@@ -1,6 +1,8 @@
 {
   "1": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Spostamento cabina probabile urto macchinario lavapavimenti "
   },
   "2": {
     "status": "funzionante",
