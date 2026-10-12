@@ -72,7 +72,9 @@
     "status": "funzionante"
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 17[cite: 2]",
+    "ticket": "Test"
   },
   "18": {
     "status": "fermo",
