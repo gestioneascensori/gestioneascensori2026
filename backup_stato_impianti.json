@@ -129,7 +129,9 @@
     "status": "funzionante"
   },
   "34": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 34 fermo",
+    "ticket": ""
   },
   "35": {
     "status": "funzionante"
