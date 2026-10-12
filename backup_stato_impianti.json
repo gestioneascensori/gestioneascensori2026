@@ -22,7 +22,9 @@
     "status": "funzionante"
   },
   "5": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 5 fermo",
+    "ticket": ""
   },
   "6": {
     "status": "funzionante"
