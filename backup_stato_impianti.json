@@ -1,6 +1,8 @@
 {
   "1": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 1[cite: 2]",
+    "ticket": "Test"
   },
   "2": {
     "status": "funzionante",
