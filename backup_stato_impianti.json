@@ -1,11 +1,9 @@
 {
   "1": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": ""
+    "status": "funzionante"
   },
   "2": {
-    "status": "fermo",
+    "status": "funzionante",
     "history": [
       {
         "date": "29/09/2026, 17:42",
@@ -15,9 +13,7 @@
         "date": "29/09/2026, 17:38",
         "desc": "Stato modificato in: FERMO"
       }
-    ],
-    "ticket": "",
-    "motivation": ""
+    ]
   },
   "3": {
     "status": "funzionante"
