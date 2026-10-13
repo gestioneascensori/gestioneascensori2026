@@ -23,7 +23,7 @@
   },
   "5": {
     "status": "fermo",
-    "motivation": "Lettura sul posto - 5 fermo\nPer atto vandalico fotocellule ",
+    "motivation": "Lettura sul posto - 5 fermo atto vandalico fotocellule ",
     "ticket": ""
   },
   "6": {
@@ -131,7 +131,9 @@
     "status": "funzionante"
   },
   "34": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 34",
+    "ticket": ""
   },
   "35": {
     "status": "funzionante"
