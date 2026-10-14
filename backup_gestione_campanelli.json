@@ -104,11 +104,11 @@
     },
     {
       "id": 1791984951209,
-      "modello": "SCHRACK",
+      "modello": "DISYSTEM",
       "nome": "Campanello SCHRACK (790441)",
       "reparto": "CH. VASCOLARE 7A",
       "barcode": "790441",
-      "stato": "attivo"
+      "stato": "riparazione"
     },
     {
       "id": 1791984951210,
@@ -143,5 +143,12 @@
       "stato": "attivo"
     }
   ],
-  "storicoSostituzioni": []
+  "storicoSostituzioni": [
+    {
+      "id": 1791985088551,
+      "data": "14/10/2026, 15:38:08",
+      "reparto": "CH. VASCOLARE 7A",
+      "descrizione": "Ritiro (DISYSTEM) - QR: 790441 (In Riparazione)"
+    }
+  ]
 }
