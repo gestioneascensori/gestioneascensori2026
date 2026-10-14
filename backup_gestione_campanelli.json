@@ -1,5 +1,120 @@
 {
-  "barcodes": [],
+  "barcodes": [
+    {
+      "id": 1791984032533,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-01-2532"
+    },
+    {
+      "id": 1791984032555,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-02-2553"
+    },
+    {
+      "id": 1791984032560,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-03-2557"
+    },
+    {
+      "id": 1791984032564,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-04-2560"
+    },
+    {
+      "id": 1791984032568,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-05-2563"
+    },
+    {
+      "id": 1791984227131,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "730651"
+    },
+    {
+      "id": 1791984227171,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "145331"
+    },
+    {
+      "id": 1791984227175,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "260018"
+    },
+    {
+      "id": 1791984227178,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "345085"
+    },
+    {
+      "id": 1791984227181,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "520674"
+    },
+    {
+      "id": 1791984255396,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "541499"
+    },
+    {
+      "id": 1791984255417,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "566390"
+    },
+    {
+      "id": 1791984255420,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "920977"
+    },
+    {
+      "id": 1791984255423,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "533627"
+    },
+    {
+      "id": 1791984255427,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "671663"
+    },
+    {
+      "id": 1791984360235,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "610540"
+    },
+    {
+      "id": 1791984360253,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "845355"
+    },
+    {
+      "id": 1791984360256,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "521689"
+    },
+    {
+      "id": 1791984360259,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "806915"
+    }
+  ],
   "magazzino": [],
   "storicoSostituzioni": []
 }
