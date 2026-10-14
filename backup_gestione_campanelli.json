@@ -89,6 +89,36 @@
       "data": "14/10/2026, 15:24:15",
       "reparto": "AMBULATORI 7B",
       "valore": "671663"
+    },
+    {
+      "id": 1791984360235,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "610540"
+    },
+    {
+      "id": 1791984360253,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "845355"
+    },
+    {
+      "id": 1791984360256,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "521689"
+    },
+    {
+      "id": 1791984360259,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "806915"
+    },
+    {
+      "id": 1791984360262,
+      "data": "14/10/2026, 15:26:00",
+      "reparto": "AMBULATORI 7B",
+      "valore": "731112"
     }
   ],
   "magazzino": [],
