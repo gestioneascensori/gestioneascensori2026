@@ -101,6 +101,12 @@
       "data": "14/10/2026, 11:29:43",
       "reparto": "AMBULATORI 7B",
       "valore": "IMPIANTO: Campanello QR 3 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601252-O69C"
+    },
+    {
+      "id": 1791970422255,
+      "data": "14/10/2026, 11:33:42",
+      "reparto": "AMBULATORI 7B",
+      "valore": "IMPIANTO: Campanello QR 3 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601252-O69C"
     }
   ],
   "magazzino": [
@@ -175,6 +181,22 @@
       "barcode": "QR-1791967601254-BWTI",
       "stato": "attivo",
       "sostituitoDa": "QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791970422253,
+      "nome": "Campanello Guasto (IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B",
+      "stato": "sostituito_in_riparazione",
+      "sostituitoDa": "IMPIANTO: Campanello QR 3 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601252-O69C"
+    },
+    {
+      "id": 1791970422254,
+      "nome": "Campanello Sostituto",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "IMPIANTO: Campanello QR 3 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601252-O69C",
+      "stato": "attivo",
+      "sostituisce": "IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B"
     }
   ]
 }
