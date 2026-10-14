@@ -71,6 +71,12 @@
       "data": "14/10/2026, 10:52:11",
       "reparto": "AMBULATORI 7B",
       "valore": "QR-1791967601254-BWTI"
+    },
+    {
+      "id": 1791968114797,
+      "data": "14/10/2026, 10:55:14",
+      "reparto": "AMBULATORI 7B",
+      "valore": "QR-1791967601251-Q01U"
     }
   ],
   "magazzino": [
@@ -143,15 +149,25 @@
       "nome": "Campanello QR 5 (SCORTA MAGAZZINO CENTRALE)",
       "reparto": "SCORTA MAGAZZINO CENTRALE",
       "barcode": "QR-1791967601254-BWTI",
-      "stato": "attivo"
+      "stato": "sostituito_in_riparazione",
+      "sostituitoDa": "QR-1791967601251-Q01U"
     },
     {
       "id": 1791967931099,
       "nome": "Campanello Sostituto",
       "reparto": "AMBULATORI 7B",
       "barcode": "QR-1791967601254-BWTI",
+      "stato": "sostituito_in_riparazione",
+      "sostituisce": "QR-1791966845847-LRIO",
+      "sostituitoDa": "QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791968114796,
+      "nome": "Campanello Sostituto",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "QR-1791967601251-Q01U",
       "stato": "attivo",
-      "sostituisce": "QR-1791966845847-LRIO"
+      "sostituisce": "QR-1791967601254-BWTI"
     }
   ]
 }
