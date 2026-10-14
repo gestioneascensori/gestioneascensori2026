@@ -149,7 +149,7 @@
       "nome": "Campanello QR 5 (SCORTA MAGAZZINO CENTRALE)",
       "reparto": "SCORTA MAGAZZINO CENTRALE",
       "barcode": "QR-1791967601254-BWTI",
-      "stato": "sostituito_in_riparazione",
+      "stato": "attivo",
       "sostituitoDa": "QR-1791967601251-Q01U"
     },
     {
@@ -157,7 +157,7 @@
       "nome": "Campanello Sostituto",
       "reparto": "AMBULATORI 7B",
       "barcode": "QR-1791967601254-BWTI",
-      "stato": "sostituito_in_riparazione",
+      "stato": "attivo",
       "sostituisce": "QR-1791966845847-LRIO",
       "sostituitoDa": "QR-1791967601251-Q01U"
     },
