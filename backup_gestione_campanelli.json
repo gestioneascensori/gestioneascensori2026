@@ -227,14 +227,6 @@
       "sostituisce": "IMPIANTO: Campanello QR 4 (AMBULATORI 7B) | S/N: QR-1791966845846-QFCN"
     },
     {
-      "id": 1791974190274,
-      "nome": "Campanello Guasto (IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO)",
-      "reparto": "DIALISI 2D",
-      "barcode": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO",
-      "stato": "sostituito_in_riparazione",
-      "sostituitoDa": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
-    },
-    {
       "id": 1791974190275,
       "nome": "Campanello Sostituto",
       "reparto": "AMBULATORI 7B",
@@ -257,6 +249,13 @@
       "barcode": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U",
       "stato": "attivo",
       "sostituisce": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO"
+    },
+    {
+      "id": 1791978282860,
+      "nome": "Campanello Riassegnato (DEA 1P UCC)",
+      "reparto": "DEA 1P UCC",
+      "barcode": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO",
+      "stato": "attivo"
     }
   ],
   "storicoSostituzioni": [
