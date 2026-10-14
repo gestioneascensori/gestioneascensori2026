@@ -271,7 +271,16 @@
       "nome": "Campanello Riassegnato (ONCOLOGIA 4D)",
       "reparto": "ONCOLOGIA 4D",
       "barcode": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO",
-      "stato": "attivo"
+      "stato": "sostituito_in_riparazione",
+      "sostituitoDa": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791978828524,
+      "nome": "Campanello Sostituto",
+      "reparto": "ONCOLOGIA 4D",
+      "barcode": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U",
+      "stato": "attivo",
+      "sostituisce": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO"
     }
   ],
   "storicoSostituzioni": [
@@ -291,6 +300,12 @@
       "id": 1791978497669,
       "data": "14/10/2026, 13:48:17",
       "reparto": "OSTETRICIA 1B",
+      "descrizione": "Sostituzione mobile - Vecchio QR: IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO -> Nuovo QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791978828526,
+      "data": "14/10/2026, 13:53:48",
+      "reparto": "ONCOLOGIA 4D",
       "descrizione": "Sostituzione mobile - Vecchio QR: IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO -> Nuovo QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
     }
   ]
