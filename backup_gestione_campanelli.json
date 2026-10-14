@@ -1,12 +1,5 @@
 {
-  "barcodes": [
-    {
-      "id": 1791984583749,
-      "data": "14/10/2026, 15:29:43",
-      "reparto": "AMBULATORI 7B",
-      "valore": "263585"
-    }
-  ],
+  "barcodes": [],
   "magazzino": [
     {
       "id": 1791984584740,
