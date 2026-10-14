@@ -113,7 +113,7 @@
       "nome": "Campanello QR 5 (AMBULATORI 7B)",
       "reparto": "AMBULATORI 7B",
       "barcode": "QR-1791966845847-LRIO",
-      "stato": "sostituito_in_riparazione",
+      "stato": "attivo",
       "sostituitoDa": "QR-1791967601254-BWTI"
     },
     {
