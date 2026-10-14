@@ -210,6 +210,22 @@
       "barcode": "IMPIANTO: Campanello QR 3 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601252-O69C",
       "stato": "attivo",
       "sostituisce": "IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B"
+    },
+    {
+      "id": 1791971870088,
+      "nome": "Campanello Guasto (IMPIANTO: Campanello QR 4 (AMBULATORI 7B) | S/N: QR-1791966845846-QFCN)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "IMPIANTO: Campanello QR 4 (AMBULATORI 7B) | S/N: QR-1791966845846-QFCN",
+      "stato": "sostituito_in_riparazione",
+      "sostituitoDa": "IMPIANTO: Campanello QR 2 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791971870089,
+      "nome": "Campanello Sostituto",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "IMPIANTO: Campanello QR 2 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601251-Q01U",
+      "stato": "attivo",
+      "sostituisce": "IMPIANTO: Campanello QR 4 (AMBULATORI 7B) | S/N: QR-1791966845846-QFCN"
     }
   ]
 }
