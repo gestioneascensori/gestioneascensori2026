@@ -159,15 +159,6 @@
       "sostituitoDa": "QR-1791967601251-Q01U"
     },
     {
-      "id": 1791967931099,
-      "nome": "Campanello Sostituto",
-      "reparto": "AMBULATORI 7B",
-      "barcode": "QR-1791967601254-BWTI",
-      "stato": "attivo",
-      "sostituisce": "QR-1791966845847-LRIO",
-      "sostituitoDa": "QR-1791967601251-Q01U"
-    },
-    {
       "id": 1791968480652,
       "nome": "Campanello Sostituto",
       "reparto": "AMBULATORI 7B",
