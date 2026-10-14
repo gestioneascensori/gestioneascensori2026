@@ -139,7 +139,9 @@
     "status": "funzionante"
   },
   "36": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Problema chiave "
   },
   "37": {
     "status": "fermo",
