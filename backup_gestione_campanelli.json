@@ -103,14 +103,6 @@
       "stato": "attivo"
     },
     {
-      "id": 1791984951209,
-      "modello": "DISYSTEM",
-      "nome": "Campanello SCHRACK (790441)",
-      "reparto": "CH. VASCOLARE 7A",
-      "barcode": "790441",
-      "stato": "riparazione"
-    },
-    {
       "id": 1791984951210,
       "modello": "SCHRACK",
       "nome": "Campanello SCHRACK (241487)",
@@ -140,6 +132,14 @@
       "nome": "Campanello SCHRACK (745556)",
       "reparto": "CH. VASCOLARE 7A",
       "barcode": "745556",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791985187806,
+      "nome": "[SCHRACK] Campanello Riassegnato (DEA 1P UCC)",
+      "modello": "SCHRACK",
+      "reparto": "DEA 1P UCC",
+      "barcode": "790441",
       "stato": "attivo"
     }
   ],
