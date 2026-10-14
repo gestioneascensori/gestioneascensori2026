@@ -29,6 +29,36 @@
       "data": "14/10/2026, 15:35:35",
       "reparto": "AMBULATORI 7B",
       "valore": "193782"
+    },
+    {
+      "id": 1791984950209,
+      "data": "14/10/2026, 15:35:50",
+      "reparto": "CH. VASCOLARE 7A",
+      "valore": "790441"
+    },
+    {
+      "id": 1791984950210,
+      "data": "14/10/2026, 15:35:50",
+      "reparto": "CH. VASCOLARE 7A",
+      "valore": "241487"
+    },
+    {
+      "id": 1791984950211,
+      "data": "14/10/2026, 15:35:50",
+      "reparto": "CH. VASCOLARE 7A",
+      "valore": "419207"
+    },
+    {
+      "id": 1791984950212,
+      "data": "14/10/2026, 15:35:50",
+      "reparto": "CH. VASCOLARE 7A",
+      "valore": "834746"
+    },
+    {
+      "id": 1791984950213,
+      "data": "14/10/2026, 15:35:50",
+      "reparto": "CH. VASCOLARE 7A",
+      "valore": "745556"
     }
   ],
   "magazzino": [
@@ -70,6 +100,46 @@
       "nome": "Campanello DISYSTEM (193782)",
       "reparto": "AMBULATORI 7B",
       "barcode": "193782",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984951209,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (790441)",
+      "reparto": "CH. VASCOLARE 7A",
+      "barcode": "790441",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984951210,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (241487)",
+      "reparto": "CH. VASCOLARE 7A",
+      "barcode": "241487",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984951211,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (419207)",
+      "reparto": "CH. VASCOLARE 7A",
+      "barcode": "419207",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984951212,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (834746)",
+      "reparto": "CH. VASCOLARE 7A",
+      "barcode": "834746",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984951213,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (745556)",
+      "reparto": "CH. VASCOLARE 7A",
+      "barcode": "745556",
       "stato": "attivo"
     }
   ],
