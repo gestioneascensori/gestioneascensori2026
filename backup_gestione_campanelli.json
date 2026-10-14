@@ -294,7 +294,7 @@
       "modello": "SCHRACK",
       "reparto": "CHIRURGIA 3' 9A",
       "barcode": "IMPIANTO: Campanello QR 2 (AMBULATORI 7B) | S/N: QR-1791966845844-RDO0",
-      "stato": "attivo"
+      "stato": "riparazione"
     }
   ],
   "storicoSostituzioni": [
@@ -327,6 +327,12 @@
       "data": "14/10/2026, 14:04:07",
       "reparto": "AMBULATORI 7B",
       "descrizione": "Ritiro campanello guasto - QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601254-BWTI (In Riparazione)"
+    },
+    {
+      "id": 1791980012523,
+      "data": "14/10/2026, 14:13:32",
+      "reparto": "DEA 1P UCC",
+      "descrizione": "Ritiro (SCHRACK) - QR: IMPIANTO: Campanello QR 2 (AMBULATORI 7B) | S/N: QR-1791966845844-RDO0 (In Riparazione)"
     }
   ]
 }
