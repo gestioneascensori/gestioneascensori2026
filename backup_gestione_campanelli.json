@@ -280,6 +280,13 @@
       "reparto": "GASTROENTER. EPATOLOGIA 8A",
       "barcode": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO",
       "stato": "attivo"
+    },
+    {
+      "id": 1791979447956,
+      "nome": "Campanello Ritirato (IMPIANTO: Campanello Sostituto | S/N: QR-1791967601254-BWTI)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601254-BWTI",
+      "stato": "riparazione"
     }
   ],
   "storicoSostituzioni": [
@@ -306,6 +313,12 @@
       "data": "14/10/2026, 13:53:48",
       "reparto": "ONCOLOGIA 4D",
       "descrizione": "Sostituzione mobile - Vecchio QR: IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO -> Nuovo QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791979447957,
+      "data": "14/10/2026, 14:04:07",
+      "reparto": "AMBULATORI 7B",
+      "descrizione": "Ritiro campanello guasto - QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601254-BWTI (In Riparazione)"
     }
   ]
 }
