@@ -1,30 +1,5 @@
 {
   "barcodes": [],
-  "magazzino": [
-    {
-      "id": 1791984584740,
-      "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (983452)",
-      "reparto": "AMBULATORI 7B",
-      "barcode": "983452",
-      "stato": "attivo"
-    },
-    {
-      "id": 1791984584749,
-      "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (263585)",
-      "reparto": "AMBULATORI 7B",
-      "barcode": "263585",
-      "stato": "attivo"
-    },
-    {
-      "id": 1791984584753,
-      "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (158026)",
-      "reparto": "AMBULATORI 7B",
-      "barcode": "158026",
-      "stato": "attivo"
-    }
-  ],
+  "magazzino": [],
   "storicoSostituzioni": []
 }
