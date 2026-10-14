@@ -289,12 +289,12 @@
       "stato": "riparazione"
     },
     {
-      "id": 1791979895347,
-      "nome": "[SCHRACK] Campanello Riassegnato (CHIRURGIA 3' 9A)",
+      "id": 1791980111020,
+      "nome": "[SCHRACK] Campanello Riassegnato (DAY SURGERY 5B)",
       "modello": "SCHRACK",
-      "reparto": "CHIRURGIA 3' 9A",
+      "reparto": "DAY SURGERY 5B",
       "barcode": "IMPIANTO: Campanello QR 2 (AMBULATORI 7B) | S/N: QR-1791966845844-RDO0",
-      "stato": "riparazione"
+      "stato": "attivo"
     }
   ],
   "storicoSostituzioni": [
