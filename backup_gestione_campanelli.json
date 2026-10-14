@@ -1,5 +1,77 @@
 {
-  "barcodes": [],
-  "magazzino": [],
+  "barcodes": [
+    {
+      "id": 1791984935481,
+      "data": "14/10/2026, 15:35:35",
+      "reparto": "AMBULATORI 7B",
+      "valore": "708207"
+    },
+    {
+      "id": 1791984935497,
+      "data": "14/10/2026, 15:35:35",
+      "reparto": "AMBULATORI 7B",
+      "valore": "303818"
+    },
+    {
+      "id": 1791984935498,
+      "data": "14/10/2026, 15:35:35",
+      "reparto": "AMBULATORI 7B",
+      "valore": "756380"
+    },
+    {
+      "id": 1791984935499,
+      "data": "14/10/2026, 15:35:35",
+      "reparto": "AMBULATORI 7B",
+      "valore": "815302"
+    },
+    {
+      "id": 1791984935500,
+      "data": "14/10/2026, 15:35:35",
+      "reparto": "AMBULATORI 7B",
+      "valore": "193782"
+    }
+  ],
+  "magazzino": [
+    {
+      "id": 1791984936496,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (708207)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "708207",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984936497,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (303818)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "303818",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984936498,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (756380)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "756380",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984936499,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (815302)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "815302",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791984936500,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (193782)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "193782",
+      "stato": "attivo"
+    }
+  ],
   "storicoSostituzioni": []
 }
