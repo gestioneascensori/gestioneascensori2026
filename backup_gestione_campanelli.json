@@ -108,7 +108,7 @@
       "nome": "Campanello SCHRACK (241487)",
       "reparto": "CH. VASCOLARE 7A",
       "barcode": "241487",
-      "stato": "attivo"
+      "stato": "riparazione"
     },
     {
       "id": 1791984951211,
@@ -149,6 +149,12 @@
       "data": "14/10/2026, 15:38:08",
       "reparto": "CH. VASCOLARE 7A",
       "descrizione": "Ritiro (DISYSTEM) - QR: 790441 (In Riparazione)"
+    },
+    {
+      "id": 1791985343731,
+      "data": "14/10/2026, 15:42:23",
+      "reparto": "CH. VASCOLARE 7A",
+      "descrizione": "Ritiro (SCHRACK) - QR: 241487 (In Riparazione)"
     }
   ]
 }
