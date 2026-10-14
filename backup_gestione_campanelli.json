@@ -32,14 +32,6 @@
       "reparto": "AMBULATORI 7B",
       "barcode": "817447",
       "stato": "attivo"
-    },
-    {
-      "id": 1791984584759,
-      "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (261126)",
-      "reparto": "AMBULATORI 7B",
-      "barcode": "261126",
-      "stato": "attivo"
     }
   ],
   "storicoSostituzioni": []
