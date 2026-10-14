@@ -48,7 +48,7 @@
     "status": "funzionante"
   },
   "15": {
-    "status": "fermo",
+    "status": "funzionante",
     "history": [
       {
         "date": "29/09/2026, 17:58",
@@ -66,9 +66,7 @@
         "date": "29/09/2026, 17:53",
         "desc": "Stato modificato in: FERMO"
       }
-    ],
-    "motivation": "Lettura sul posto - 15[cite: 2]",
-    "ticket": "Test"
+    ]
   },
   "16": {
     "status": "funzionante"
