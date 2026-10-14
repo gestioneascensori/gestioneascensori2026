@@ -199,10 +199,9 @@
     {
       "id": 1791970917310,
       "nome": "Campanello Guasto (IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B)",
-      "reparto": "AMBULATORI 7B",
+      "reparto": "CH. VASCOLARE 7A",
       "barcode": "IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B",
-      "stato": "attivo",
-      "sostituitoDa": "IMPIANTO: Campanello QR 3 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601252-O69C"
+      "stato": "attivo"
     },
     {
       "id": 1791970917311,
