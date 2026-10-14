@@ -201,7 +201,7 @@
       "nome": "Campanello Guasto (IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B)",
       "reparto": "AMBULATORI 7B",
       "barcode": "IMPIANTO: Campanello QR 1 (AMBULATORI 7B) | S/N: QR-1791966845843-IW8B",
-      "stato": "sostituito_in_riparazione",
+      "stato": "attivo",
       "sostituitoDa": "IMPIANTO: Campanello QR 3 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601252-O69C"
     },
     {
