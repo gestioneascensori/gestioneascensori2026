@@ -29,6 +29,36 @@
       "data": "14/10/2026, 15:20:32",
       "reparto": "AMBULATORI 7B",
       "valore": "CAMP-AMBULATORI7B-05-2563"
+    },
+    {
+      "id": 1791984227131,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "730651"
+    },
+    {
+      "id": 1791984227171,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "145331"
+    },
+    {
+      "id": 1791984227175,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "260018"
+    },
+    {
+      "id": 1791984227178,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "345085"
+    },
+    {
+      "id": 1791984227181,
+      "data": "14/10/2026, 15:23:47",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "520674"
     }
   ],
   "magazzino": [],
