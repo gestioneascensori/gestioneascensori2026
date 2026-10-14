@@ -229,10 +229,9 @@
     {
       "id": 1791974190274,
       "nome": "Campanello Guasto (IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO)",
-      "reparto": "AMBULATORI 7B",
+      "reparto": "DEA 1P UCC",
       "barcode": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO",
-      "stato": "sostituito_in_riparazione",
-      "sostituitoDa": "IMPIANTO: Campanello QR 4 (SCORTA MAGAZZINO CENTRALE) | S/N: QR-1791967601253-E8XK"
+      "stato": "attivo"
     },
     {
       "id": 1791974190275,
