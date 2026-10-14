@@ -263,7 +263,16 @@
       "nome": "Campanello Riassegnato (OSTETRICIA 1B)",
       "reparto": "OSTETRICIA 1B",
       "barcode": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO",
-      "stato": "attivo"
+      "stato": "sostituito_in_riparazione",
+      "sostituitoDa": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791978497667,
+      "nome": "Campanello Sostituto",
+      "reparto": "OSTETRICIA 1B",
+      "barcode": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U",
+      "stato": "attivo",
+      "sostituisce": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO"
     }
   ],
   "storicoSostituzioni": [
@@ -277,6 +286,12 @@
       "id": 1791978344773,
       "data": "14/10/2026, 13:45:44",
       "reparto": "DIALISI 2D",
+      "descrizione": "Sostituzione mobile - Vecchio QR: IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO -> Nuovo QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791978497669,
+      "data": "14/10/2026, 13:48:17",
+      "reparto": "OSTETRICIA 1B",
       "descrizione": "Sostituzione mobile - Vecchio QR: IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO -> Nuovo QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
     }
   ]
