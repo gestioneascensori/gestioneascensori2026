@@ -1,4 +1,77 @@
 {
-  "barcodes": [],
-  "magazzino": []
+  "barcodes": [
+    {
+      "id": 1791966845843,
+      "data": "14/10/2026, 10:34:05",
+      "reparto": "AMBULATORI 7B",
+      "valore": "QR-1791966845843-IW8B"
+    },
+    {
+      "id": 1791966845844,
+      "data": "14/10/2026, 10:34:05",
+      "reparto": "AMBULATORI 7B",
+      "valore": "QR-1791966845844-RDO0"
+    },
+    {
+      "id": 1791966845845,
+      "data": "14/10/2026, 10:34:05",
+      "reparto": "AMBULATORI 7B",
+      "valore": "QR-1791966845845-SZ6N"
+    },
+    {
+      "id": 1791966845846,
+      "data": "14/10/2026, 10:34:05",
+      "reparto": "AMBULATORI 7B",
+      "valore": "QR-1791966845846-QFCN"
+    },
+    {
+      "id": 1791966845847,
+      "data": "14/10/2026, 10:34:05",
+      "reparto": "AMBULATORI 7B",
+      "valore": "QR-1791966845847-LRIO"
+    },
+    {
+      "id": 1791966870010,
+      "data": "14/10/2026, 10:34:30",
+      "reparto": "Non specificato",
+      "valore": "scorta 01"
+    }
+  ],
+  "magazzino": [
+    {
+      "id": 1791966846843,
+      "nome": "Campanello QR 1 (AMBULATORI 7B)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "QR-1791966845843-IW8B",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791966846844,
+      "nome": "Campanello QR 2 (AMBULATORI 7B)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "QR-1791966845844-RDO0",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791966846845,
+      "nome": "Campanello QR 3 (AMBULATORI 7B)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "QR-1791966845845-SZ6N",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791966846846,
+      "nome": "Campanello QR 4 (AMBULATORI 7B)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "QR-1791966845846-QFCN",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791966846847,
+      "nome": "Campanello QR 5 (AMBULATORI 7B)",
+      "reparto": "AMBULATORI 7B",
+      "barcode": "QR-1791966845847-LRIO",
+      "stato": "attivo"
+    }
+  ]
 }
