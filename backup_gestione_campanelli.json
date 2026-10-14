@@ -35,6 +35,36 @@
       "data": "14/10/2026, 10:34:30",
       "reparto": "Non specificato",
       "valore": "scorta 01"
+    },
+    {
+      "id": 1791967601250,
+      "data": "14/10/2026, 10:46:41",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "QR-1791967601250-H3AK"
+    },
+    {
+      "id": 1791967601251,
+      "data": "14/10/2026, 10:46:41",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791967601252,
+      "data": "14/10/2026, 10:46:41",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "QR-1791967601252-O69C"
+    },
+    {
+      "id": 1791967601253,
+      "data": "14/10/2026, 10:46:41",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "QR-1791967601253-E8XK"
+    },
+    {
+      "id": 1791967601254,
+      "data": "14/10/2026, 10:46:41",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "QR-1791967601254-BWTI"
     }
   ],
   "magazzino": [
@@ -71,6 +101,41 @@
       "nome": "Campanello QR 5 (AMBULATORI 7B)",
       "reparto": "AMBULATORI 7B",
       "barcode": "QR-1791966845847-LRIO",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791967602250,
+      "nome": "Campanello QR 1 (SCORTA MAGAZZINO CENTRALE)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "QR-1791967601250-H3AK",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791967602251,
+      "nome": "Campanello QR 2 (SCORTA MAGAZZINO CENTRALE)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "QR-1791967601251-Q01U",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791967602252,
+      "nome": "Campanello QR 3 (SCORTA MAGAZZINO CENTRALE)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "QR-1791967601252-O69C",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791967602253,
+      "nome": "Campanello QR 4 (SCORTA MAGAZZINO CENTRALE)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "QR-1791967601253-E8XK",
+      "stato": "attivo"
+    },
+    {
+      "id": 1791967602254,
+      "nome": "Campanello QR 5 (SCORTA MAGAZZINO CENTRALE)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "QR-1791967601254-BWTI",
       "stato": "attivo"
     }
   ]
