@@ -103,9 +103,7 @@
     "note": "DISMESSO "
   },
   "26": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "In gestione del tecnico "
+    "status": "funzionante"
   },
   "27": {
     "status": "funzionante"
