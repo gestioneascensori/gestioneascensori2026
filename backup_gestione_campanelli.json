@@ -269,6 +269,12 @@
       "data": "14/10/2026, 10:14:53",
       "reparto": "CARDIOLOGIA 3D",
       "valore": "QR-SCAN-691197"
+    },
+    {
+      "id": 1791966474050,
+      "data": "14/10/2026, 10:27:54",
+      "reparto": "CARDIOLOGIA 3D",
+      "valore": "QR-SCAN-472292"
     }
   ],
   "magazzino": [
@@ -586,6 +592,14 @@
       "reparto": "CARDIOLOGIA 3D",
       "barcode": "QR-SCAN-691197",
       "stato": "attivo"
+    },
+    {
+      "id": 1791966474049,
+      "nome": "Campanello Sostituto (CARDIOLOGIA 3D)",
+      "reparto": "CARDIOLOGIA 3D",
+      "barcode": "QR-SCAN-472292",
+      "stato": "attivo",
+      "sostituisce": "QR-SCAN-459697"
     }
   ]
 }
