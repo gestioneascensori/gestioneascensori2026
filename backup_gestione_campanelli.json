@@ -59,6 +59,36 @@
       "data": "14/10/2026, 15:23:47",
       "reparto": "AMBULATORIO PEDIATRICO 2B",
       "valore": "520674"
+    },
+    {
+      "id": 1791984255396,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "541499"
+    },
+    {
+      "id": 1791984255417,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "566390"
+    },
+    {
+      "id": 1791984255420,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "920977"
+    },
+    {
+      "id": 1791984255423,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "533627"
+    },
+    {
+      "id": 1791984255427,
+      "data": "14/10/2026, 15:24:15",
+      "reparto": "AMBULATORI 7B",
+      "valore": "671663"
     }
   ],
   "magazzino": [],
