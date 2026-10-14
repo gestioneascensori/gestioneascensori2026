@@ -255,13 +255,28 @@
       "nome": "Campanello Riassegnato (DEA 1P UCC)",
       "reparto": "DEA 1P UCC",
       "barcode": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO",
-      "stato": "attivo"
+      "stato": "sostituito_in_riparazione",
+      "sostituitoDa": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791978344771,
+      "nome": "Campanello Sostituto",
+      "reparto": "DIALISI 2D",
+      "barcode": "IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U",
+      "stato": "attivo",
+      "sostituisce": "IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO"
     }
   ],
   "storicoSostituzioni": [
     {
       "id": 1791978255540,
       "data": "14/10/2026, 13:44:15",
+      "reparto": "DIALISI 2D",
+      "descrizione": "Sostituzione mobile - Vecchio QR: IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO -> Nuovo QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
+    },
+    {
+      "id": 1791978344773,
+      "data": "14/10/2026, 13:45:44",
       "reparto": "DIALISI 2D",
       "descrizione": "Sostituzione mobile - Vecchio QR: IMPIANTO: Campanello QR 5 (AMBULATORI 7B) | S/N: QR-1791966845847-LRIO -> Nuovo QR: IMPIANTO: Campanello Sostituto | S/N: QR-1791967601251-Q01U"
     }
