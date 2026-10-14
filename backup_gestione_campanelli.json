@@ -263,6 +263,12 @@
       "data": "14/10/2026, 09:48:22",
       "reparto": "AMBULATORIO PEDIATRICO 2B",
       "valore": "QR-1791964102606-BQ8G"
+    },
+    {
+      "id": 1791965693279,
+      "data": "14/10/2026, 10:14:53",
+      "reparto": "CARDIOLOGIA 3D",
+      "valore": "QR-SCAN-691197"
     }
   ],
   "magazzino": [
@@ -573,6 +579,13 @@
       "reparto": "AMBULATORIO PEDIATRICO 2B",
       "barcode": "QR-1791964102606-BQ8G",
       "stato": "sostituito_in_riparazione"
+    },
+    {
+      "id": 1791965693278,
+      "nome": "Campanello Sostituto (CARDIOLOGIA 3D)",
+      "reparto": "CARDIOLOGIA 3D",
+      "barcode": "QR-SCAN-691197",
+      "stato": "attivo"
     }
   ]
 }
