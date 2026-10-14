@@ -1,5 +1,36 @@
 {
-  "barcodes": [],
+  "barcodes": [
+    {
+      "id": 1791984032533,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-01-2532"
+    },
+    {
+      "id": 1791984032555,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-02-2553"
+    },
+    {
+      "id": 1791984032560,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-03-2557"
+    },
+    {
+      "id": 1791984032564,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-04-2560"
+    },
+    {
+      "id": 1791984032568,
+      "data": "14/10/2026, 15:20:32",
+      "reparto": "AMBULATORI 7B",
+      "valore": "CAMP-AMBULATORI7B-05-2563"
+    }
+  ],
   "magazzino": [],
   "storicoSostituzioni": []
 }
