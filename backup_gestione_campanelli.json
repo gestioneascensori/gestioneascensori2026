@@ -135,12 +135,12 @@
       "stato": "attivo"
     },
     {
-      "id": 1792057259010,
+      "id": 1792057363273,
+      "nome": "[DISYSTEM] Campanello Riassegnato (AMBULATORI 7B)",
       "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (000010)",
-      "reparto": "SCORTA URGENZE TECNICHE",
+      "reparto": "AMBULATORI 7B",
       "barcode": "000010",
-      "stato": "riparazione"
+      "stato": "attivo"
     }
   ],
   "storicoSostituzioni": [
