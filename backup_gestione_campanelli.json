@@ -131,6 +131,78 @@
       "data": "15/10/2026, 11:27:35",
       "reparto": "SCORTA MAGAZZINO CENTRALE",
       "valore": "947357"
+    },
+    {
+      "id": 1792057024133,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947358"
+    },
+    {
+      "id": 1792057024147,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947359"
+    },
+    {
+      "id": 1792057024148,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947360"
+    },
+    {
+      "id": 1792057024149,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947361"
+    },
+    {
+      "id": 1792057024150,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947362"
+    },
+    {
+      "id": 1792057024151,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947363"
+    },
+    {
+      "id": 1792057024152,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947364"
+    },
+    {
+      "id": 1792057024153,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947365"
+    },
+    {
+      "id": 1792057024154,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947366"
+    },
+    {
+      "id": 1792057024155,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947367"
+    },
+    {
+      "id": 1792057024156,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947368"
+    },
+    {
+      "id": 1792057024157,
+      "data": "15/10/2026, 11:37:04",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947369"
     }
   ],
   "magazzino": [
@@ -308,6 +380,102 @@
       "nome": "Campanello DISYSTEM (947357)",
       "reparto": "SCORTA MAGAZZINO CENTRALE",
       "barcode": "947357",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025146,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947358)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947358",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025147,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947359)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947359",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025148,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947360)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947360",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025149,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947361)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947361",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025150,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947362)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947362",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025151,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947363)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947363",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025152,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947364)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947364",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025153,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947365)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947365",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025154,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947366)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947366",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025155,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947367)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947367",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025156,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947368)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947368",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792057025157,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947369)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947369",
       "stato": "attivo"
     }
   ],
