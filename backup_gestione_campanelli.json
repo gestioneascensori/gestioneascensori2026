@@ -132,7 +132,17 @@
       "nome": "Campanello DISYSTEM (000009)",
       "reparto": "SCORTA URGENZE TECNICHE",
       "barcode": "000009",
-      "stato": "attivo"
+      "stato": "sostituito_in_riparazione",
+      "sostituitoDa": "000002"
+    },
+    {
+      "id": 1792058248409,
+      "nome": "[DISYSTEM] Campanello Sostituto",
+      "modello": "DISYSTEM",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "000002",
+      "stato": "attivo",
+      "sostituisce": "000009"
     }
   ],
   "storicoSostituzioni": [
@@ -141,6 +151,12 @@
       "data": "15/10/2026, 11:42:14",
       "reparto": "SCORTA URGENZE TECNICHE",
       "descrizione": "Ritiro (DISYSTEM) - QR: 000010 (In Riparazione)"
+    },
+    {
+      "id": 1792058248411,
+      "data": "15/10/2026, 11:57:28",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "descrizione": "Sostituzione (DISYSTEM) - Vecchio QR: 000009 -> Nuovo QR: 000002"
     }
   ]
 }
