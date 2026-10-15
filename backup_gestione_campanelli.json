@@ -89,6 +89,12 @@
       "data": "15/10/2026, 12:50:19",
       "reparto": "SCORTA URGENZE TECNICHE",
       "valore": "000015"
+    },
+    {
+      "id": 1792061516081,
+      "data": "15/10/2026, 12:51:56",
+      "reparto": "NUOVA STROKE UNIT DEA 2P",
+      "valore": "000012"
     }
   ],
   "magazzino": [
