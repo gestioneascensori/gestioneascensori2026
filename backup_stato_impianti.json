@@ -126,9 +126,7 @@
     "status": "funzionante"
   },
   "33": {
-    "status": "fermo",
-    "motivation": "Lettura sul posto - 33[cite: 2] impianto spento ",
-    "ticket": ""
+    "status": "funzionante"
   },
   "34": {
     "status": "fermo",
