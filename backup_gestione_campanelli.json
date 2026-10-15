@@ -65,10 +65,10 @@
       "stato": "attivo"
     },
     {
-      "id": 1792064302978,
-      "nome": "[DISYSTEM] Campanello Riassegnato (DEA - Piano (0) Pronto Soccorso)",
+      "id": 1792064370051,
+      "nome": "[DISYSTEM] Campanello Riassegnato (DAY SURGERY 5B)",
       "modello": "DISYSTEM",
-      "reparto": "DEA - Piano (0) Pronto Soccorso",
+      "reparto": "DAY SURGERY 5B",
       "barcode": "000002",
       "stato": "attivo"
     }
