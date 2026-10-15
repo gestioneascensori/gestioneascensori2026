@@ -47,6 +47,36 @@
       "data": "15/10/2026, 11:23:38",
       "reparto": "SCORTA URGENZE TECNICHE",
       "valore": "100007"
+    },
+    {
+      "id": 1792056240206,
+      "data": "15/10/2026, 11:24:00",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "166658"
+    },
+    {
+      "id": 1792056240221,
+      "data": "15/10/2026, 11:24:00",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "392313"
+    },
+    {
+      "id": 1792056240222,
+      "data": "15/10/2026, 11:24:00",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "196697"
+    },
+    {
+      "id": 1792056240223,
+      "data": "15/10/2026, 11:24:00",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "179094"
+    },
+    {
+      "id": 1792056240224,
+      "data": "15/10/2026, 11:24:00",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "749082"
     }
   ],
   "magazzino": [
@@ -112,6 +142,46 @@
       "nome": "Campanello DISYSTEM (100007)",
       "reparto": "SCORTA URGENZE TECNICHE",
       "barcode": "100007",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056241220,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (166658)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "166658",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056241221,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (392313)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "392313",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056241222,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (196697)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "196697",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056241223,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (179094)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "179094",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056241224,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (749082)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "749082",
       "stato": "attivo"
     }
   ],
