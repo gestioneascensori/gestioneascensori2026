@@ -77,6 +77,30 @@
       "data": "15/10/2026, 11:24:00",
       "reparto": "SCORTA URGENZE TECNICHE",
       "valore": "749082"
+    },
+    {
+      "id": 1792056311885,
+      "data": "15/10/2026, 11:25:11",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "218126"
+    },
+    {
+      "id": 1792056311900,
+      "data": "15/10/2026, 11:25:11",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "220251"
+    },
+    {
+      "id": 1792056311901,
+      "data": "15/10/2026, 11:25:11",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "947352"
+    },
+    {
+      "id": 1792056311902,
+      "data": "15/10/2026, 11:25:11",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "valore": "673816"
     }
   ],
   "magazzino": [
@@ -182,6 +206,38 @@
       "nome": "Campanello DISYSTEM (749082)",
       "reparto": "SCORTA URGENZE TECNICHE",
       "barcode": "749082",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056312899,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (218126)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "218126",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056312900,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (220251)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "220251",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056312901,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947352)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "947352",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056312902,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (673816)",
+      "reparto": "AMBULATORIO PEDIATRICO 2B",
+      "barcode": "673816",
       "stato": "attivo"
     }
   ],
