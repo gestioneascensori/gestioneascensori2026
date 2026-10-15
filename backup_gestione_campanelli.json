@@ -1,5 +1,119 @@
 {
-  "barcodes": [],
-  "magazzino": [],
+  "barcodes": [
+    {
+      "id": 1792056218430,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100000"
+    },
+    {
+      "id": 1792056218443,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100001"
+    },
+    {
+      "id": 1792056218444,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100002"
+    },
+    {
+      "id": 1792056218445,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100003"
+    },
+    {
+      "id": 1792056218446,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100004"
+    },
+    {
+      "id": 1792056218447,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100005"
+    },
+    {
+      "id": 1792056218448,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100006"
+    },
+    {
+      "id": 1792056218449,
+      "data": "15/10/2026, 11:23:38",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "100007"
+    }
+  ],
+  "magazzino": [
+    {
+      "id": 1792056219442,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100000)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100000",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056219443,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100001)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100001",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056219444,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100002)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100002",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056219445,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100003)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100003",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056219446,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100004)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100004",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056219447,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100005)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100005",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056219448,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100006)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100006",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056219449,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100007)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "100007",
+      "stato": "attivo"
+    }
+  ],
   "storicoSostituzioni": []
 }
