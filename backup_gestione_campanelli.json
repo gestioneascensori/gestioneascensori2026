@@ -127,15 +127,6 @@
       "stato": "attivo"
     },
     {
-      "id": 1792057259009,
-      "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (000009)",
-      "reparto": "SCORTA URGENZE TECNICHE",
-      "barcode": "000009",
-      "stato": "sostituito_in_riparazione",
-      "sostituitoDa": "000002"
-    },
-    {
       "id": 1792058248409,
       "nome": "[DISYSTEM] Campanello Sostituto",
       "modello": "DISYSTEM",
@@ -143,6 +134,14 @@
       "barcode": "000002",
       "stato": "attivo",
       "sostituisce": "000009"
+    },
+    {
+      "id": 1792058339651,
+      "nome": "[DISYSTEM] Campanello Riassegnato (DIALISI 2D)",
+      "modello": "DISYSTEM",
+      "reparto": "DIALISI 2D",
+      "barcode": "000009",
+      "stato": "attivo"
     }
   ],
   "storicoSostituzioni": [
