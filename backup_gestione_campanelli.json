@@ -95,14 +95,6 @@
       "stato": "attivo"
     },
     {
-      "id": 1792057259005,
-      "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (000005)",
-      "reparto": "SCORTA URGENZE TECNICHE",
-      "barcode": "000005",
-      "stato": "riparazione"
-    },
-    {
       "id": 1792057259006,
       "modello": "DISYSTEM",
       "nome": "Campanello DISYSTEM (000006)",
@@ -141,6 +133,14 @@
       "modello": "DISYSTEM",
       "reparto": "DIALISI 2D",
       "barcode": "000009",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792058442415,
+      "nome": "[DISYSTEM] Campanello Riassegnato (GASTROENTER. EPATOLOGIA 8A)",
+      "modello": "DISYSTEM",
+      "reparto": "GASTROENTER. EPATOLOGIA 8A",
+      "barcode": "000005",
       "stato": "attivo"
     }
   ],
