@@ -33,14 +33,6 @@
   ],
   "magazzino": [
     {
-      "id": 1792063843470,
-      "modello": "DISYSTEM",
-      "nome": "Campanello DISYSTEM (000002)",
-      "reparto": "SCORTA MAGAZZINO CENTRALE",
-      "barcode": "000002",
-      "stato": "attivo"
-    },
-    {
       "id": 1792063843471,
       "modello": "DISYSTEM",
       "nome": "Campanello DISYSTEM (000003)",
@@ -70,6 +62,14 @@
       "modello": "DISYSTEM",
       "reparto": "SCORTA MAGAZZINO CENTRALE",
       "barcode": "000001",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792064302978,
+      "nome": "[DISYSTEM] Campanello Riassegnato (DEA - Piano (0) Pronto Soccorso)",
+      "modello": "DISYSTEM",
+      "reparto": "DEA - Piano (0) Pronto Soccorso",
+      "barcode": "000002",
       "stato": "attivo"
     }
   ],
