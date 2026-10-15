@@ -140,7 +140,7 @@
       "modello": "DISYSTEM",
       "reparto": "SCORTA URGENZE TECNICHE",
       "barcode": "000010",
-      "stato": "attivo"
+      "stato": "sostituito_in_riparazione"
     }
   ],
   "storicoSostituzioni": [
