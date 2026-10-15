@@ -140,8 +140,15 @@
       "nome": "Campanello DISYSTEM (000010)",
       "reparto": "SCORTA URGENZE TECNICHE",
       "barcode": "000010",
-      "stato": "attivo"
+      "stato": "riparazione"
     }
   ],
-  "storicoSostituzioni": []
+  "storicoSostituzioni": [
+    {
+      "id": 1792057334837,
+      "data": "15/10/2026, 11:42:14",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "descrizione": "Ritiro (DISYSTEM) - QR: 000010 (In Riparazione)"
+    }
+  ]
 }
