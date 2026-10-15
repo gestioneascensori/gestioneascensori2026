@@ -1,5 +1,77 @@
 {
-  "barcodes": [],
-  "magazzino": [],
+  "barcodes": [
+    {
+      "id": 1792055969430,
+      "data": "15/10/2026, 11:19:29",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "871004"
+    },
+    {
+      "id": 1792055969444,
+      "data": "15/10/2026, 11:19:29",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "837734"
+    },
+    {
+      "id": 1792055969445,
+      "data": "15/10/2026, 11:19:29",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "396681"
+    },
+    {
+      "id": 1792055969446,
+      "data": "15/10/2026, 11:19:29",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "816127"
+    },
+    {
+      "id": 1792055969447,
+      "data": "15/10/2026, 11:19:29",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "497729"
+    }
+  ],
+  "magazzino": [
+    {
+      "id": 1792055970443,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (871004)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "871004",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792055970444,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (837734)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "837734",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792055970445,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (396681)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "396681",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792055970446,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (816127)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "816127",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792055970447,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (497729)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "497729",
+      "stato": "attivo"
+    }
+  ],
   "storicoSostituzioni": []
 }
