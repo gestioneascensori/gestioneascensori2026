@@ -1,5 +1,77 @@
 {
-  "barcodes": [],
-  "magazzino": [],
+  "barcodes": [
+    {
+      "id": 1792054548842,
+      "data": "15/10/2026, 10:55:48",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "valore": "100001"
+    },
+    {
+      "id": 1792054548855,
+      "data": "15/10/2026, 10:55:48",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "valore": "100002"
+    },
+    {
+      "id": 1792054548856,
+      "data": "15/10/2026, 10:55:48",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "valore": "100003"
+    },
+    {
+      "id": 1792054548857,
+      "data": "15/10/2026, 10:55:48",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "valore": "100004"
+    },
+    {
+      "id": 1792054548858,
+      "data": "15/10/2026, 10:55:48",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "valore": "100005"
+    }
+  ],
+  "magazzino": [
+    {
+      "id": 1792054549854,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100001)",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "barcode": "100001",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792054549855,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100002)",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "barcode": "100002",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792054549856,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100003)",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "barcode": "100003",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792054549857,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100004)",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "barcode": "100004",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792054549858,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (100005)",
+      "reparto": "SENZA ASSOCIAZIONE",
+      "barcode": "100005",
+      "stato": "attivo"
+    }
+  ],
   "storicoSostituzioni": []
 }
