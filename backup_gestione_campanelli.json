@@ -101,6 +101,36 @@
       "data": "15/10/2026, 11:25:11",
       "reparto": "AMBULATORIO PEDIATRICO 2B",
       "valore": "673816"
+    },
+    {
+      "id": 1792056455621,
+      "data": "15/10/2026, 11:27:35",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "947353"
+    },
+    {
+      "id": 1792056455635,
+      "data": "15/10/2026, 11:27:35",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "947354"
+    },
+    {
+      "id": 1792056455636,
+      "data": "15/10/2026, 11:27:35",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "947355"
+    },
+    {
+      "id": 1792056455637,
+      "data": "15/10/2026, 11:27:35",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "947356"
+    },
+    {
+      "id": 1792056455638,
+      "data": "15/10/2026, 11:27:35",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "947357"
     }
   ],
   "magazzino": [
@@ -238,6 +268,46 @@
       "nome": "Campanello DISYSTEM (673816)",
       "reparto": "AMBULATORIO PEDIATRICO 2B",
       "barcode": "673816",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056456634,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947353)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "947353",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056456635,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947354)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "947354",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056456636,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947355)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "947355",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056456637,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947356)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "947356",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792056456638,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (947357)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "947357",
       "stato": "attivo"
     }
   ],
