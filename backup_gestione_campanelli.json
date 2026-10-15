@@ -70,8 +70,15 @@
       "modello": "DISYSTEM",
       "reparto": "CHIRURGIA 3' 9A",
       "barcode": "000001",
-      "stato": "attivo"
+      "stato": "riparazione"
     }
   ],
-  "storicoSostituzioni": []
+  "storicoSostituzioni": [
+    {
+      "id": 1792064117717,
+      "data": "15/10/2026, 13:35:17",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "descrizione": "Ritiro (DISYSTEM) - QR: 000001 (In Riparazione)"
+    }
+  ]
 }
