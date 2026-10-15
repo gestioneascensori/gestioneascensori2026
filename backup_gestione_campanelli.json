@@ -92,7 +92,7 @@
       "nome": "Campanello DISYSTEM (815302)",
       "reparto": "AMBULATORI 7B",
       "barcode": "815302",
-      "stato": "attivo"
+      "stato": "riparazione"
     },
     {
       "id": 1791984936500,
@@ -155,6 +155,12 @@
       "data": "14/10/2026, 15:42:23",
       "reparto": "CH. VASCOLARE 7A",
       "descrizione": "Ritiro (SCHRACK) - QR: 241487 (In Riparazione)"
+    },
+    {
+      "id": 1792054170107,
+      "data": "15/10/2026, 10:49:30",
+      "reparto": "AMBULATORI 7B",
+      "descrizione": "Ritiro (DISYSTEM) - QR: 815302 (In Riparazione)"
     }
   ]
 }
