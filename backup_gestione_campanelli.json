@@ -59,6 +59,36 @@
       "data": "15/10/2026, 11:40:58",
       "reparto": "SCORTA URGENZE TECNICHE",
       "valore": "000010"
+    },
+    {
+      "id": 1792061419105,
+      "data": "15/10/2026, 12:50:19",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "000011"
+    },
+    {
+      "id": 1792061419119,
+      "data": "15/10/2026, 12:50:19",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "000012"
+    },
+    {
+      "id": 1792061419120,
+      "data": "15/10/2026, 12:50:19",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "000013"
+    },
+    {
+      "id": 1792061419121,
+      "data": "15/10/2026, 12:50:19",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "000014"
+    },
+    {
+      "id": 1792061419122,
+      "data": "15/10/2026, 12:50:19",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "valore": "000015"
     }
   ],
   "magazzino": [
@@ -141,6 +171,46 @@
       "modello": "DISYSTEM",
       "reparto": "GASTROENTER. EPATOLOGIA 8A",
       "barcode": "000005",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792061420118,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (000011)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "000011",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792061420119,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (000012)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "000012",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792061420120,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (000013)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "000013",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792061420121,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (000014)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "000014",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792061420122,
+      "modello": "SCHRACK",
+      "nome": "Campanello SCHRACK (000015)",
+      "reparto": "SCORTA URGENZE TECNICHE",
+      "barcode": "000015",
       "stato": "attivo"
     }
   ],
