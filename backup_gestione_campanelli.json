@@ -4806,7 +4806,7 @@
       "id": 1792130421490,
       "modello": "DISYSTEM",
       "nome": "Campanello DISYSTEM (000001)",
-      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "reparto": "MED. GENERALE I 6A",
       "barcode": "000001",
       "stato": "attivo"
     },
@@ -11203,5 +11203,12 @@
       "stato": "attivo"
     }
   ],
-  "storicoSostituzioni": []
+  "storicoSostituzioni": [
+    {
+      "id": 1792134391221,
+      "data": "16/10/2026, 09:06:31",
+      "reparto": "MED. GENERALE I 6A",
+      "descrizione": "Modifica destinazione [DISYSTEM - QR: 000001] da \"SCORTA MAGAZZINO CENTRALE\" a \"MED. GENERALE I 6A\""
+    }
+  ]
 }
