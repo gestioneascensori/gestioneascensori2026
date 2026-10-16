@@ -129,7 +129,9 @@
     "motivation": "Problemi porte "
   },
   "34": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "3292295",
+    "motivation": "Problema portre"
   },
   "35": {
     "status": "funzionante"
