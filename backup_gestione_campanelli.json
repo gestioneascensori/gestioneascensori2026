@@ -4799,6 +4799,12 @@
       "data": "16/10/2026, 08:02:10",
       "reparto": "SCORTA MAGAZZINO CENTRALE",
       "valore": "000800"
+    },
+    {
+      "id": 1792135101876,
+      "data": "16/10/2026, 09:18:21",
+      "reparto": "CHIRURGIA 3' 9A",
+      "valore": "IMPIANTO: DISYSTEM | S/N: 1"
     }
   ],
   "magazzino": [
@@ -11201,6 +11207,14 @@
       "reparto": "SCORTA MAGAZZINO CENTRALE",
       "barcode": "000800",
       "stato": "attivo"
+    },
+    {
+      "id": 1792135101875,
+      "nome": "Campanello DISYSTEM (CHIRURGIA 3' 9A)",
+      "modello": "DISYSTEM",
+      "reparto": "CHIRURGIA 3' 9A",
+      "barcode": "IMPIANTO: DISYSTEM | S/N: 1",
+      "stato": "attivo"
     }
   ],
   "storicoSostituzioni": [
@@ -11209,6 +11223,12 @@
       "data": "16/10/2026, 09:06:31",
       "reparto": "MED. GENERALE I 6A",
       "descrizione": "Modifica destinazione [DISYSTEM - QR: 000001] da \"SCORTA MAGAZZINO CENTRALE\" a \"MED. GENERALE I 6A\""
+    },
+    {
+      "id": 1792135101858,
+      "data": "16/10/2026, 09:18:21",
+      "reparto": "CHIRURGIA 3' 9A",
+      "descrizione": "Riassegnazione [DISYSTEM] QR: IMPIANTO: DISYSTEM | S/N: 1 da \"MAGAZZINO\" a nuovo reparto \"CHIRURGIA 3' 9A\""
     }
   ]
 }
