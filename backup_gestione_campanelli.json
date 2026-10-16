@@ -1,5 +1,5607 @@
 {
-  "barcodes": [],
-  "magazzino": [],
+  "barcodes": [
+    {
+      "id": 1792130420476,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000001"
+    },
+    {
+      "id": 1792130420491,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000002"
+    },
+    {
+      "id": 1792130420492,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000003"
+    },
+    {
+      "id": 1792130420493,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000004"
+    },
+    {
+      "id": 1792130420494,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000005"
+    },
+    {
+      "id": 1792130420495,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000006"
+    },
+    {
+      "id": 1792130420496,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000007"
+    },
+    {
+      "id": 1792130420497,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000008"
+    },
+    {
+      "id": 1792130420498,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000009"
+    },
+    {
+      "id": 1792130420499,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000010"
+    },
+    {
+      "id": 1792130420500,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000011"
+    },
+    {
+      "id": 1792130420501,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000012"
+    },
+    {
+      "id": 1792130420502,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000013"
+    },
+    {
+      "id": 1792130420503,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000014"
+    },
+    {
+      "id": 1792130420504,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000015"
+    },
+    {
+      "id": 1792130420505,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000016"
+    },
+    {
+      "id": 1792130420506,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000017"
+    },
+    {
+      "id": 1792130420507,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000018"
+    },
+    {
+      "id": 1792130420508,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000019"
+    },
+    {
+      "id": 1792130420509,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000020"
+    },
+    {
+      "id": 1792130420510,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000021"
+    },
+    {
+      "id": 1792130420511,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000022"
+    },
+    {
+      "id": 1792130420512,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000023"
+    },
+    {
+      "id": 1792130420513,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000024"
+    },
+    {
+      "id": 1792130420514,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000025"
+    },
+    {
+      "id": 1792130420515,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000026"
+    },
+    {
+      "id": 1792130420516,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000027"
+    },
+    {
+      "id": 1792130420517,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000028"
+    },
+    {
+      "id": 1792130420518,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000029"
+    },
+    {
+      "id": 1792130420519,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000030"
+    },
+    {
+      "id": 1792130420520,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000031"
+    },
+    {
+      "id": 1792130420521,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000032"
+    },
+    {
+      "id": 1792130420522,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000033"
+    },
+    {
+      "id": 1792130420523,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000034"
+    },
+    {
+      "id": 1792130420524,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000035"
+    },
+    {
+      "id": 1792130420525,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000036"
+    },
+    {
+      "id": 1792130420526,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000037"
+    },
+    {
+      "id": 1792130420527,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000038"
+    },
+    {
+      "id": 1792130420528,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000039"
+    },
+    {
+      "id": 1792130420529,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000040"
+    },
+    {
+      "id": 1792130420530,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000041"
+    },
+    {
+      "id": 1792130420531,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000042"
+    },
+    {
+      "id": 1792130420532,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000043"
+    },
+    {
+      "id": 1792130420533,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000044"
+    },
+    {
+      "id": 1792130420534,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000045"
+    },
+    {
+      "id": 1792130420535,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000046"
+    },
+    {
+      "id": 1792130420536,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000047"
+    },
+    {
+      "id": 1792130420537,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000048"
+    },
+    {
+      "id": 1792130420538,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000049"
+    },
+    {
+      "id": 1792130420539,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000050"
+    },
+    {
+      "id": 1792130420540,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000051"
+    },
+    {
+      "id": 1792130420541,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000052"
+    },
+    {
+      "id": 1792130420542,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000053"
+    },
+    {
+      "id": 1792130420543,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000054"
+    },
+    {
+      "id": 1792130420544,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000055"
+    },
+    {
+      "id": 1792130420545,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000056"
+    },
+    {
+      "id": 1792130420546,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000057"
+    },
+    {
+      "id": 1792130420547,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000058"
+    },
+    {
+      "id": 1792130420548,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000059"
+    },
+    {
+      "id": 1792130420549,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000060"
+    },
+    {
+      "id": 1792130420550,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000061"
+    },
+    {
+      "id": 1792130420551,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000062"
+    },
+    {
+      "id": 1792130420552,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000063"
+    },
+    {
+      "id": 1792130420553,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000064"
+    },
+    {
+      "id": 1792130420554,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000065"
+    },
+    {
+      "id": 1792130420555,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000066"
+    },
+    {
+      "id": 1792130420556,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000067"
+    },
+    {
+      "id": 1792130420557,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000068"
+    },
+    {
+      "id": 1792130420558,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000069"
+    },
+    {
+      "id": 1792130420559,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000070"
+    },
+    {
+      "id": 1792130420560,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000071"
+    },
+    {
+      "id": 1792130420561,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000072"
+    },
+    {
+      "id": 1792130420562,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000073"
+    },
+    {
+      "id": 1792130420563,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000074"
+    },
+    {
+      "id": 1792130420564,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000075"
+    },
+    {
+      "id": 1792130420565,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000076"
+    },
+    {
+      "id": 1792130420566,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000077"
+    },
+    {
+      "id": 1792130420567,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000078"
+    },
+    {
+      "id": 1792130420568,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000079"
+    },
+    {
+      "id": 1792130420569,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000080"
+    },
+    {
+      "id": 1792130420570,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000081"
+    },
+    {
+      "id": 1792130420571,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000082"
+    },
+    {
+      "id": 1792130420572,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000083"
+    },
+    {
+      "id": 1792130420573,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000084"
+    },
+    {
+      "id": 1792130420574,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000085"
+    },
+    {
+      "id": 1792130420575,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000086"
+    },
+    {
+      "id": 1792130420576,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000087"
+    },
+    {
+      "id": 1792130420577,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000088"
+    },
+    {
+      "id": 1792130420578,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000089"
+    },
+    {
+      "id": 1792130420579,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000090"
+    },
+    {
+      "id": 1792130420580,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000091"
+    },
+    {
+      "id": 1792130420581,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000092"
+    },
+    {
+      "id": 1792130420582,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000093"
+    },
+    {
+      "id": 1792130420583,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000094"
+    },
+    {
+      "id": 1792130420584,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000095"
+    },
+    {
+      "id": 1792130420585,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000096"
+    },
+    {
+      "id": 1792130420586,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000097"
+    },
+    {
+      "id": 1792130420587,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000098"
+    },
+    {
+      "id": 1792130420588,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000099"
+    },
+    {
+      "id": 1792130420589,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000100"
+    },
+    {
+      "id": 1792130420590,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000101"
+    },
+    {
+      "id": 1792130420591,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000102"
+    },
+    {
+      "id": 1792130420592,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000103"
+    },
+    {
+      "id": 1792130420593,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000104"
+    },
+    {
+      "id": 1792130420594,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000105"
+    },
+    {
+      "id": 1792130420595,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000106"
+    },
+    {
+      "id": 1792130420596,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000107"
+    },
+    {
+      "id": 1792130420597,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000108"
+    },
+    {
+      "id": 1792130420598,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000109"
+    },
+    {
+      "id": 1792130420599,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000110"
+    },
+    {
+      "id": 1792130420600,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000111"
+    },
+    {
+      "id": 1792130420601,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000112"
+    },
+    {
+      "id": 1792130420602,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000113"
+    },
+    {
+      "id": 1792130420603,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000114"
+    },
+    {
+      "id": 1792130420604,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000115"
+    },
+    {
+      "id": 1792130420605,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000116"
+    },
+    {
+      "id": 1792130420606,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000117"
+    },
+    {
+      "id": 1792130420607,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000118"
+    },
+    {
+      "id": 1792130420608,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000119"
+    },
+    {
+      "id": 1792130420609,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000120"
+    },
+    {
+      "id": 1792130420610,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000121"
+    },
+    {
+      "id": 1792130420611,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000122"
+    },
+    {
+      "id": 1792130420612,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000123"
+    },
+    {
+      "id": 1792130420613,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000124"
+    },
+    {
+      "id": 1792130420614,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000125"
+    },
+    {
+      "id": 1792130420615,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000126"
+    },
+    {
+      "id": 1792130420616,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000127"
+    },
+    {
+      "id": 1792130420617,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000128"
+    },
+    {
+      "id": 1792130420618,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000129"
+    },
+    {
+      "id": 1792130420619,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000130"
+    },
+    {
+      "id": 1792130420620,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000131"
+    },
+    {
+      "id": 1792130420621,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000132"
+    },
+    {
+      "id": 1792130420622,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000133"
+    },
+    {
+      "id": 1792130420623,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000134"
+    },
+    {
+      "id": 1792130420624,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000135"
+    },
+    {
+      "id": 1792130420625,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000136"
+    },
+    {
+      "id": 1792130420626,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000137"
+    },
+    {
+      "id": 1792130420627,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000138"
+    },
+    {
+      "id": 1792130420628,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000139"
+    },
+    {
+      "id": 1792130420629,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000140"
+    },
+    {
+      "id": 1792130420630,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000141"
+    },
+    {
+      "id": 1792130420631,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000142"
+    },
+    {
+      "id": 1792130420632,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000143"
+    },
+    {
+      "id": 1792130420633,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000144"
+    },
+    {
+      "id": 1792130420634,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000145"
+    },
+    {
+      "id": 1792130420635,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000146"
+    },
+    {
+      "id": 1792130420636,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000147"
+    },
+    {
+      "id": 1792130420637,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000148"
+    },
+    {
+      "id": 1792130420638,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000149"
+    },
+    {
+      "id": 1792130420639,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000150"
+    },
+    {
+      "id": 1792130420640,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000151"
+    },
+    {
+      "id": 1792130420641,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000152"
+    },
+    {
+      "id": 1792130420642,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000153"
+    },
+    {
+      "id": 1792130420643,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000154"
+    },
+    {
+      "id": 1792130420644,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000155"
+    },
+    {
+      "id": 1792130420645,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000156"
+    },
+    {
+      "id": 1792130420646,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000157"
+    },
+    {
+      "id": 1792130420647,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000158"
+    },
+    {
+      "id": 1792130420648,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000159"
+    },
+    {
+      "id": 1792130420649,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000160"
+    },
+    {
+      "id": 1792130420650,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000161"
+    },
+    {
+      "id": 1792130420651,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000162"
+    },
+    {
+      "id": 1792130420652,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000163"
+    },
+    {
+      "id": 1792130420653,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000164"
+    },
+    {
+      "id": 1792130420654,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000165"
+    },
+    {
+      "id": 1792130420655,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000166"
+    },
+    {
+      "id": 1792130420656,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000167"
+    },
+    {
+      "id": 1792130420657,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000168"
+    },
+    {
+      "id": 1792130420658,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000169"
+    },
+    {
+      "id": 1792130420659,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000170"
+    },
+    {
+      "id": 1792130420660,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000171"
+    },
+    {
+      "id": 1792130420661,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000172"
+    },
+    {
+      "id": 1792130420662,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000173"
+    },
+    {
+      "id": 1792130420663,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000174"
+    },
+    {
+      "id": 1792130420664,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000175"
+    },
+    {
+      "id": 1792130420665,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000176"
+    },
+    {
+      "id": 1792130420666,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000177"
+    },
+    {
+      "id": 1792130420667,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000178"
+    },
+    {
+      "id": 1792130420668,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000179"
+    },
+    {
+      "id": 1792130420669,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000180"
+    },
+    {
+      "id": 1792130420670,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000181"
+    },
+    {
+      "id": 1792130420671,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000182"
+    },
+    {
+      "id": 1792130420672,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000183"
+    },
+    {
+      "id": 1792130420673,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000184"
+    },
+    {
+      "id": 1792130420674,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000185"
+    },
+    {
+      "id": 1792130420675,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000186"
+    },
+    {
+      "id": 1792130420676,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000187"
+    },
+    {
+      "id": 1792130420677,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000188"
+    },
+    {
+      "id": 1792130420678,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000189"
+    },
+    {
+      "id": 1792130420679,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000190"
+    },
+    {
+      "id": 1792130420680,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000191"
+    },
+    {
+      "id": 1792130420681,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000192"
+    },
+    {
+      "id": 1792130420683,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000193"
+    },
+    {
+      "id": 1792130420684,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000194"
+    },
+    {
+      "id": 1792130420685,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000195"
+    },
+    {
+      "id": 1792130420686,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000196"
+    },
+    {
+      "id": 1792130420687,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000197"
+    },
+    {
+      "id": 1792130420688,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000198"
+    },
+    {
+      "id": 1792130420689,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000199"
+    },
+    {
+      "id": 1792130420690,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000200"
+    },
+    {
+      "id": 1792130420691,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000201"
+    },
+    {
+      "id": 1792130420692,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000202"
+    },
+    {
+      "id": 1792130420693,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000203"
+    },
+    {
+      "id": 1792130420694,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000204"
+    },
+    {
+      "id": 1792130420695,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000205"
+    },
+    {
+      "id": 1792130420696,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000206"
+    },
+    {
+      "id": 1792130420697,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000207"
+    },
+    {
+      "id": 1792130420698,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000208"
+    },
+    {
+      "id": 1792130420699,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000209"
+    },
+    {
+      "id": 1792130420700,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000210"
+    },
+    {
+      "id": 1792130420701,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000211"
+    },
+    {
+      "id": 1792130420702,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000212"
+    },
+    {
+      "id": 1792130420703,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000213"
+    },
+    {
+      "id": 1792130420704,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000214"
+    },
+    {
+      "id": 1792130420705,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000215"
+    },
+    {
+      "id": 1792130420706,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000216"
+    },
+    {
+      "id": 1792130420707,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000217"
+    },
+    {
+      "id": 1792130420708,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000218"
+    },
+    {
+      "id": 1792130420709,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000219"
+    },
+    {
+      "id": 1792130420710,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000220"
+    },
+    {
+      "id": 1792130420711,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000221"
+    },
+    {
+      "id": 1792130420712,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000222"
+    },
+    {
+      "id": 1792130420713,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000223"
+    },
+    {
+      "id": 1792130420714,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000224"
+    },
+    {
+      "id": 1792130420715,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000225"
+    },
+    {
+      "id": 1792130420716,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000226"
+    },
+    {
+      "id": 1792130420717,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000227"
+    },
+    {
+      "id": 1792130420718,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000228"
+    },
+    {
+      "id": 1792130420719,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000229"
+    },
+    {
+      "id": 1792130420720,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000230"
+    },
+    {
+      "id": 1792130420721,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000231"
+    },
+    {
+      "id": 1792130420722,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000232"
+    },
+    {
+      "id": 1792130420723,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000233"
+    },
+    {
+      "id": 1792130420724,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000234"
+    },
+    {
+      "id": 1792130420725,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000235"
+    },
+    {
+      "id": 1792130420726,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000236"
+    },
+    {
+      "id": 1792130420727,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000237"
+    },
+    {
+      "id": 1792130420728,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000238"
+    },
+    {
+      "id": 1792130420729,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000239"
+    },
+    {
+      "id": 1792130420730,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000240"
+    },
+    {
+      "id": 1792130420731,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000241"
+    },
+    {
+      "id": 1792130420732,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000242"
+    },
+    {
+      "id": 1792130420733,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000243"
+    },
+    {
+      "id": 1792130420734,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000244"
+    },
+    {
+      "id": 1792130420735,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000245"
+    },
+    {
+      "id": 1792130420736,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000246"
+    },
+    {
+      "id": 1792130420737,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000247"
+    },
+    {
+      "id": 1792130420738,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000248"
+    },
+    {
+      "id": 1792130420739,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000249"
+    },
+    {
+      "id": 1792130420740,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000250"
+    },
+    {
+      "id": 1792130420741,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000251"
+    },
+    {
+      "id": 1792130420742,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000252"
+    },
+    {
+      "id": 1792130420743,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000253"
+    },
+    {
+      "id": 1792130420744,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000254"
+    },
+    {
+      "id": 1792130420745,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000255"
+    },
+    {
+      "id": 1792130420746,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000256"
+    },
+    {
+      "id": 1792130420747,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000257"
+    },
+    {
+      "id": 1792130420748,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000258"
+    },
+    {
+      "id": 1792130420749,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000259"
+    },
+    {
+      "id": 1792130420750,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000260"
+    },
+    {
+      "id": 1792130420751,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000261"
+    },
+    {
+      "id": 1792130420752,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000262"
+    },
+    {
+      "id": 1792130420753,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000263"
+    },
+    {
+      "id": 1792130420754,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000264"
+    },
+    {
+      "id": 1792130420755,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000265"
+    },
+    {
+      "id": 1792130420756,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000266"
+    },
+    {
+      "id": 1792130420757,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000267"
+    },
+    {
+      "id": 1792130420758,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000268"
+    },
+    {
+      "id": 1792130420759,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000269"
+    },
+    {
+      "id": 1792130420760,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000270"
+    },
+    {
+      "id": 1792130420761,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000271"
+    },
+    {
+      "id": 1792130420762,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000272"
+    },
+    {
+      "id": 1792130420763,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000273"
+    },
+    {
+      "id": 1792130420764,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000274"
+    },
+    {
+      "id": 1792130420765,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000275"
+    },
+    {
+      "id": 1792130420766,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000276"
+    },
+    {
+      "id": 1792130420767,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000277"
+    },
+    {
+      "id": 1792130420768,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000278"
+    },
+    {
+      "id": 1792130420769,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000279"
+    },
+    {
+      "id": 1792130420770,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000280"
+    },
+    {
+      "id": 1792130420771,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000281"
+    },
+    {
+      "id": 1792130420772,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000282"
+    },
+    {
+      "id": 1792130420773,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000283"
+    },
+    {
+      "id": 1792130420774,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000284"
+    },
+    {
+      "id": 1792130420775,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000285"
+    },
+    {
+      "id": 1792130420776,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000286"
+    },
+    {
+      "id": 1792130420777,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000287"
+    },
+    {
+      "id": 1792130420778,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000288"
+    },
+    {
+      "id": 1792130420779,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000289"
+    },
+    {
+      "id": 1792130420780,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000290"
+    },
+    {
+      "id": 1792130420781,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000291"
+    },
+    {
+      "id": 1792130420782,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000292"
+    },
+    {
+      "id": 1792130420783,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000293"
+    },
+    {
+      "id": 1792130420784,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000294"
+    },
+    {
+      "id": 1792130420785,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000295"
+    },
+    {
+      "id": 1792130420786,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000296"
+    },
+    {
+      "id": 1792130420787,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000297"
+    },
+    {
+      "id": 1792130420788,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000298"
+    },
+    {
+      "id": 1792130420789,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000299"
+    },
+    {
+      "id": 1792130420790,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000300"
+    },
+    {
+      "id": 1792130420791,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000301"
+    },
+    {
+      "id": 1792130420792,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000302"
+    },
+    {
+      "id": 1792130420793,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000303"
+    },
+    {
+      "id": 1792130420794,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000304"
+    },
+    {
+      "id": 1792130420795,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000305"
+    },
+    {
+      "id": 1792130420796,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000306"
+    },
+    {
+      "id": 1792130420797,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000307"
+    },
+    {
+      "id": 1792130420798,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000308"
+    },
+    {
+      "id": 1792130420799,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000309"
+    },
+    {
+      "id": 1792130420800,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000310"
+    },
+    {
+      "id": 1792130420801,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000311"
+    },
+    {
+      "id": 1792130420802,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000312"
+    },
+    {
+      "id": 1792130420803,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000313"
+    },
+    {
+      "id": 1792130420804,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000314"
+    },
+    {
+      "id": 1792130420805,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000315"
+    },
+    {
+      "id": 1792130420806,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000316"
+    },
+    {
+      "id": 1792130420807,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000317"
+    },
+    {
+      "id": 1792130420808,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000318"
+    },
+    {
+      "id": 1792130420809,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000319"
+    },
+    {
+      "id": 1792130420810,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000320"
+    },
+    {
+      "id": 1792130420811,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000321"
+    },
+    {
+      "id": 1792130420812,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000322"
+    },
+    {
+      "id": 1792130420813,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000323"
+    },
+    {
+      "id": 1792130420814,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000324"
+    },
+    {
+      "id": 1792130420815,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000325"
+    },
+    {
+      "id": 1792130420816,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000326"
+    },
+    {
+      "id": 1792130420817,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000327"
+    },
+    {
+      "id": 1792130420818,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000328"
+    },
+    {
+      "id": 1792130420819,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000329"
+    },
+    {
+      "id": 1792130420820,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000330"
+    },
+    {
+      "id": 1792130420821,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000331"
+    },
+    {
+      "id": 1792130420822,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000332"
+    },
+    {
+      "id": 1792130420823,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000333"
+    },
+    {
+      "id": 1792130420824,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000334"
+    },
+    {
+      "id": 1792130420825,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000335"
+    },
+    {
+      "id": 1792130420826,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000336"
+    },
+    {
+      "id": 1792130420827,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000337"
+    },
+    {
+      "id": 1792130420828,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000338"
+    },
+    {
+      "id": 1792130420829,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000339"
+    },
+    {
+      "id": 1792130420830,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000340"
+    },
+    {
+      "id": 1792130420831,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000341"
+    },
+    {
+      "id": 1792130420832,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000342"
+    },
+    {
+      "id": 1792130420833,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000343"
+    },
+    {
+      "id": 1792130420834,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000344"
+    },
+    {
+      "id": 1792130420835,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000345"
+    },
+    {
+      "id": 1792130420836,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000346"
+    },
+    {
+      "id": 1792130420837,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000347"
+    },
+    {
+      "id": 1792130420838,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000348"
+    },
+    {
+      "id": 1792130420839,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000349"
+    },
+    {
+      "id": 1792130420840,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000350"
+    },
+    {
+      "id": 1792130420841,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000351"
+    },
+    {
+      "id": 1792130420842,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000352"
+    },
+    {
+      "id": 1792130420843,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000353"
+    },
+    {
+      "id": 1792130420844,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000354"
+    },
+    {
+      "id": 1792130420845,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000355"
+    },
+    {
+      "id": 1792130420846,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000356"
+    },
+    {
+      "id": 1792130420847,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000357"
+    },
+    {
+      "id": 1792130420848,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000358"
+    },
+    {
+      "id": 1792130420849,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000359"
+    },
+    {
+      "id": 1792130420850,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000360"
+    },
+    {
+      "id": 1792130420851,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000361"
+    },
+    {
+      "id": 1792130420852,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000362"
+    },
+    {
+      "id": 1792130420853,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000363"
+    },
+    {
+      "id": 1792130420854,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000364"
+    },
+    {
+      "id": 1792130420855,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000365"
+    },
+    {
+      "id": 1792130420856,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000366"
+    },
+    {
+      "id": 1792130420857,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000367"
+    },
+    {
+      "id": 1792130420858,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000368"
+    },
+    {
+      "id": 1792130420859,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000369"
+    },
+    {
+      "id": 1792130420860,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000370"
+    },
+    {
+      "id": 1792130420861,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000371"
+    },
+    {
+      "id": 1792130420862,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000372"
+    },
+    {
+      "id": 1792130420863,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000373"
+    },
+    {
+      "id": 1792130420864,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000374"
+    },
+    {
+      "id": 1792130420865,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000375"
+    },
+    {
+      "id": 1792130420866,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000376"
+    },
+    {
+      "id": 1792130420867,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000377"
+    },
+    {
+      "id": 1792130420868,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000378"
+    },
+    {
+      "id": 1792130420869,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000379"
+    },
+    {
+      "id": 1792130420870,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000380"
+    },
+    {
+      "id": 1792130420871,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000381"
+    },
+    {
+      "id": 1792130420872,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000382"
+    },
+    {
+      "id": 1792130420873,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000383"
+    },
+    {
+      "id": 1792130420874,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000384"
+    },
+    {
+      "id": 1792130420875,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000385"
+    },
+    {
+      "id": 1792130420876,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000386"
+    },
+    {
+      "id": 1792130420877,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000387"
+    },
+    {
+      "id": 1792130420878,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000388"
+    },
+    {
+      "id": 1792130420879,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000389"
+    },
+    {
+      "id": 1792130420880,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000390"
+    },
+    {
+      "id": 1792130420881,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000391"
+    },
+    {
+      "id": 1792130420882,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000392"
+    },
+    {
+      "id": 1792130420883,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000393"
+    },
+    {
+      "id": 1792130420884,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000394"
+    },
+    {
+      "id": 1792130420885,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000395"
+    },
+    {
+      "id": 1792130420886,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000396"
+    },
+    {
+      "id": 1792130420887,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000397"
+    },
+    {
+      "id": 1792130420888,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000398"
+    },
+    {
+      "id": 1792130420889,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000399"
+    },
+    {
+      "id": 1792130420890,
+      "data": "16/10/2026, 08:00:20",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "valore": "000400"
+    }
+  ],
+  "magazzino": [
+    {
+      "id": 1792130421490,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000001)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000001",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421491,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000002)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000002",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421492,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000003)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000003",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421493,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000004)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000004",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421494,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000005)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000005",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421495,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000006)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000006",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421496,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000007)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000007",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421497,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000008)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000008",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421498,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000009)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000009",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421499,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000010)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000010",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421500,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000011)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000011",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421501,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000012)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000012",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421502,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000013)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000013",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421503,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000014)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000014",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421504,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000015)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000015",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421505,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000016)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000016",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421506,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000017)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000017",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421507,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000018)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000018",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421508,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000019)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000019",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421509,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000020)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000020",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421510,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000021)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000021",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421511,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000022)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000022",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421512,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000023)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000023",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421513,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000024)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000024",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421514,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000025)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000025",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421515,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000026)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000026",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421516,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000027)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000027",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421517,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000028)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000028",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421518,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000029)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000029",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421519,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000030)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000030",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421520,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000031)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000031",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421521,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000032)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000032",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421522,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000033)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000033",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421523,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000034)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000034",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421524,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000035)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000035",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421525,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000036)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000036",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421526,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000037)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000037",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421527,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000038)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000038",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421528,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000039)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000039",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421529,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000040)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000040",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421530,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000041)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000041",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421531,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000042)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000042",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421532,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000043)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000043",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421533,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000044)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000044",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421534,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000045)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000045",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421535,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000046)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000046",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421536,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000047)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000047",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421537,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000048)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000048",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421538,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000049)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000049",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421539,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000050)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000050",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421540,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000051)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000051",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421541,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000052)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000052",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421542,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000053)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000053",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421543,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000054)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000054",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421544,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000055)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000055",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421545,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000056)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000056",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421546,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000057)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000057",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421547,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000058)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000058",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421548,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000059)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000059",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421549,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000060)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000060",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421550,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000061)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000061",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421551,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000062)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000062",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421552,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000063)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000063",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421553,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000064)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000064",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421554,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000065)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000065",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421555,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000066)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000066",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421556,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000067)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000067",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421557,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000068)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000068",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421558,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000069)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000069",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421559,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000070)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000070",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421560,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000071)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000071",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421561,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000072)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000072",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421562,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000073)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000073",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421563,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000074)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000074",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421564,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000075)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000075",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421565,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000076)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000076",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421566,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000077)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000077",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421567,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000078)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000078",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421568,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000079)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000079",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421569,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000080)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000080",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421570,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000081)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000081",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421571,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000082)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000082",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421572,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000083)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000083",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421573,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000084)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000084",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421574,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000085)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000085",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421575,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000086)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000086",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421576,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000087)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000087",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421577,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000088)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000088",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421578,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000089)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000089",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421579,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000090)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000090",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421580,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000091)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000091",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421581,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000092)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000092",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421582,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000093)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000093",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421583,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000094)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000094",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421584,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000095)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000095",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421585,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000096)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000096",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421586,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000097)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000097",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421587,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000098)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000098",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421588,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000099)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000099",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421589,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000100)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000100",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421590,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000101)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000101",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421591,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000102)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000102",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421592,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000103)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000103",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421593,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000104)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000104",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421594,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000105)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000105",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421595,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000106)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000106",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421596,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000107)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000107",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421597,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000108)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000108",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421598,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000109)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000109",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421599,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000110)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000110",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421600,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000111)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000111",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421601,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000112)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000112",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421602,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000113)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000113",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421603,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000114)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000114",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421604,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000115)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000115",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421605,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000116)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000116",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421606,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000117)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000117",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421607,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000118)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000118",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421608,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000119)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000119",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421609,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000120)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000120",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421610,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000121)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000121",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421611,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000122)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000122",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421612,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000123)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000123",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421613,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000124)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000124",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421614,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000125)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000125",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421615,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000126)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000126",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421616,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000127)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000127",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421617,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000128)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000128",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421618,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000129)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000129",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421619,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000130)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000130",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421620,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000131)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000131",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421621,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000132)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000132",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421622,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000133)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000133",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421623,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000134)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000134",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421624,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000135)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000135",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421625,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000136)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000136",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421626,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000137)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000137",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421627,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000138)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000138",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421628,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000139)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000139",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421629,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000140)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000140",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421630,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000141)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000141",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421631,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000142)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000142",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421632,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000143)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000143",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421633,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000144)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000144",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421634,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000145)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000145",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421635,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000146)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000146",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421636,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000147)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000147",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421637,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000148)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000148",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421638,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000149)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000149",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421639,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000150)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000150",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421640,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000151)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000151",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421641,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000152)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000152",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421642,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000153)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000153",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421643,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000154)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000154",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421644,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000155)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000155",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421645,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000156)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000156",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421646,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000157)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000157",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421647,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000158)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000158",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421648,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000159)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000159",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421649,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000160)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000160",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421650,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000161)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000161",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421651,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000162)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000162",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421652,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000163)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000163",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421653,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000164)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000164",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421654,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000165)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000165",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421655,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000166)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000166",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421656,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000167)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000167",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421657,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000168)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000168",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421658,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000169)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000169",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421659,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000170)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000170",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421660,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000171)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000171",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421661,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000172)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000172",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421662,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000173)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000173",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421663,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000174)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000174",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421664,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000175)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000175",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421665,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000176)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000176",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421666,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000177)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000177",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421667,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000178)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000178",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421668,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000179)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000179",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421669,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000180)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000180",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421670,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000181)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000181",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421671,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000182)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000182",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421672,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000183)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000183",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421673,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000184)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000184",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421674,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000185)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000185",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421675,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000186)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000186",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421676,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000187)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000187",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421677,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000188)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000188",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421678,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000189)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000189",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421679,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000190)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000190",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421680,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000191)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000191",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421682,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000192)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000192",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421683,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000193)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000193",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421684,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000194)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000194",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421685,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000195)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000195",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421686,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000196)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000196",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421687,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000197)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000197",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421688,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000198)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000198",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421689,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000199)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000199",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421690,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000200)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000200",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421691,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000201)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000201",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421692,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000202)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000202",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421693,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000203)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000203",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421694,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000204)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000204",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421695,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000205)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000205",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421696,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000206)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000206",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421697,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000207)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000207",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421698,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000208)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000208",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421699,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000209)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000209",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421700,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000210)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000210",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421701,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000211)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000211",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421702,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000212)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000212",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421703,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000213)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000213",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421704,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000214)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000214",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421705,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000215)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000215",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421706,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000216)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000216",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421707,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000217)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000217",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421708,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000218)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000218",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421709,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000219)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000219",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421710,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000220)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000220",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421711,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000221)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000221",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421712,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000222)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000222",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421713,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000223)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000223",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421714,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000224)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000224",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421715,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000225)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000225",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421716,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000226)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000226",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421717,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000227)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000227",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421718,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000228)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000228",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421719,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000229)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000229",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421720,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000230)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000230",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421721,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000231)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000231",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421722,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000232)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000232",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421723,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000233)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000233",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421724,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000234)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000234",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421725,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000235)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000235",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421726,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000236)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000236",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421727,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000237)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000237",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421728,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000238)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000238",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421729,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000239)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000239",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421730,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000240)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000240",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421731,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000241)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000241",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421732,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000242)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000242",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421733,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000243)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000243",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421734,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000244)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000244",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421735,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000245)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000245",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421736,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000246)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000246",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421737,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000247)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000247",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421738,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000248)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000248",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421739,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000249)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000249",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421740,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000250)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000250",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421741,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000251)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000251",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421742,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000252)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000252",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421743,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000253)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000253",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421744,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000254)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000254",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421745,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000255)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000255",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421746,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000256)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000256",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421747,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000257)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000257",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421748,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000258)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000258",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421749,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000259)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000259",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421750,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000260)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000260",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421751,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000261)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000261",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421752,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000262)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000262",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421753,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000263)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000263",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421754,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000264)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000264",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421755,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000265)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000265",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421756,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000266)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000266",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421757,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000267)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000267",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421758,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000268)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000268",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421759,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000269)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000269",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421760,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000270)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000270",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421761,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000271)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000271",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421762,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000272)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000272",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421763,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000273)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000273",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421764,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000274)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000274",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421765,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000275)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000275",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421766,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000276)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000276",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421767,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000277)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000277",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421768,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000278)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000278",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421769,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000279)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000279",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421770,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000280)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000280",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421771,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000281)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000281",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421772,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000282)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000282",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421773,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000283)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000283",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421774,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000284)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000284",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421775,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000285)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000285",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421776,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000286)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000286",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421777,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000287)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000287",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421778,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000288)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000288",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421779,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000289)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000289",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421780,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000290)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000290",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421781,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000291)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000291",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421782,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000292)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000292",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421783,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000293)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000293",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421784,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000294)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000294",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421785,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000295)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000295",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421786,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000296)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000296",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421787,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000297)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000297",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421788,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000298)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000298",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421789,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000299)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000299",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421790,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000300)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000300",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421791,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000301)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000301",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421792,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000302)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000302",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421793,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000303)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000303",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421794,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000304)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000304",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421795,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000305)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000305",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421796,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000306)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000306",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421797,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000307)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000307",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421798,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000308)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000308",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421799,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000309)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000309",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421800,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000310)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000310",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421801,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000311)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000311",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421802,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000312)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000312",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421803,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000313)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000313",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421804,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000314)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000314",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421805,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000315)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000315",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421806,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000316)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000316",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421807,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000317)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000317",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421808,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000318)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000318",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421809,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000319)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000319",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421810,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000320)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000320",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421811,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000321)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000321",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421812,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000322)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000322",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421813,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000323)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000323",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421814,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000324)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000324",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421815,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000325)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000325",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421816,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000326)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000326",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421817,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000327)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000327",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421818,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000328)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000328",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421819,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000329)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000329",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421820,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000330)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000330",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421821,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000331)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000331",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421822,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000332)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000332",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421823,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000333)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000333",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421824,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000334)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000334",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421825,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000335)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000335",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421826,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000336)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000336",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421827,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000337)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000337",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421828,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000338)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000338",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421829,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000339)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000339",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421830,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000340)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000340",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421831,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000341)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000341",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421832,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000342)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000342",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421833,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000343)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000343",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421834,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000344)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000344",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421835,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000345)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000345",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421836,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000346)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000346",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421837,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000347)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000347",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421838,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000348)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000348",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421839,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000349)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000349",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421840,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000350)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000350",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421841,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000351)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000351",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421842,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000352)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000352",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421843,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000353)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000353",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421844,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000354)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000354",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421845,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000355)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000355",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421846,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000356)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000356",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421847,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000357)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000357",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421848,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000358)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000358",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421849,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000359)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000359",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421850,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000360)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000360",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421851,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000361)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000361",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421852,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000362)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000362",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421853,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000363)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000363",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421854,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000364)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000364",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421855,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000365)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000365",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421856,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000366)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000366",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421857,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000367)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000367",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421858,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000368)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000368",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421859,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000369)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000369",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421860,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000370)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000370",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421861,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000371)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000371",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421862,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000372)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000372",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421863,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000373)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000373",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421864,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000374)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000374",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421865,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000375)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000375",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421866,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000376)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000376",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421867,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000377)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000377",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421868,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000378)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000378",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421869,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000379)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000379",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421870,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000380)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000380",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421871,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000381)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000381",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421872,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000382)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000382",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421873,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000383)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000383",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421874,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000384)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000384",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421875,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000385)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000385",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421876,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000386)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000386",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421877,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000387)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000387",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421878,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000388)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000388",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421879,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000389)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000389",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421880,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000390)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000390",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421881,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000391)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000391",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421882,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000392)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000392",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421883,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000393)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000393",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421884,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000394)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000394",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421885,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000395)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000395",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421886,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000396)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000396",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421887,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000397)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000397",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421888,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000398)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000398",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421889,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000399)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000399",
+      "stato": "attivo"
+    },
+    {
+      "id": 1792130421890,
+      "modello": "DISYSTEM",
+      "nome": "Campanello DISYSTEM (000400)",
+      "reparto": "SCORTA MAGAZZINO CENTRALE",
+      "barcode": "000400",
+      "stato": "attivo"
+    }
+  ],
   "storicoSostituzioni": []
 }
