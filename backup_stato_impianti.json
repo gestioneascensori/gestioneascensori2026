@@ -127,7 +127,9 @@
     "status": "funzionante"
   },
   "34": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Lettura sul posto non legge chiave "
   },
   "35": {
     "status": "funzionante"
