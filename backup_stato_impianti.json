@@ -37,12 +37,12 @@
     "status": "funzionante"
   },
   "12": {
-    "status": "funzionante"
-  },
-  "13": {
     "status": "fermo",
     "ticket": "",
     "motivation": ""
+  },
+  "13": {
+    "status": "funzionante"
   },
   "14": {
     "status": "funzionante"
