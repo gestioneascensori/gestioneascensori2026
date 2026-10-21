@@ -67,7 +67,9 @@
     ]
   },
   "16": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Guasto importante sul limitatore "
   },
   "17": {
     "status": "funzionante"
