@@ -130,7 +130,9 @@
     "status": "funzionante"
   },
   "35": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 35[cite: 2]non legge  chiave elettronica ",
+    "ticket": ""
   },
   "36": {
     "status": "funzionante"
