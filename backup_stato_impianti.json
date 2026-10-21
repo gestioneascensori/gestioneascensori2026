@@ -42,7 +42,9 @@
     "motivation": ""
   },
   "13": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "14": {
     "status": "funzionante"
