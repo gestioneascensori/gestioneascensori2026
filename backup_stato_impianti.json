@@ -186,7 +186,9 @@
     "status": "funzionante"
   },
   "59": {
-    "status": "funzionante"
+    "status": "fermo",
+    "motivation": "Lettura sul posto - 59[cite: 2] per acqua ",
+    "ticket": ""
   },
   "1 DEA": {
     "status": "fermo",
