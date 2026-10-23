@@ -126,10 +126,12 @@
     "status": "funzionante"
   },
   "33": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "34": {
-    "status": "funzionante"
+    "status": "fermo"
   },
   "35": {
     "status": "funzionante"
