@@ -131,7 +131,9 @@
     "motivation": ""
   },
   "34": {
-    "status": "fermo"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "35": {
     "status": "funzionante"
