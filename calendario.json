@@ -33,6 +33,20 @@
       "attachments": [],
       "isTrash": true,
       "date": "25/10/2026"
+    },
+    {
+      "id": 1792885503139,
+      "title": "tets",
+      "category": "Generale",
+      "type": "text",
+      "content": "",
+      "checklist": [],
+      "execDate": "2026-10-25",
+      "execTime": "09:00",
+      "recurrence": "none",
+      "attachments": [],
+      "isTrash": false,
+      "date": "25/10/2026"
     }
   ]
 }
