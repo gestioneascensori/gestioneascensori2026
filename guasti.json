@@ -5,6 +5,7 @@
     "title": "Ufficio tecnico",
     "priority": "Bassa",
     "description": "Manca corrente",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   }
 ]
