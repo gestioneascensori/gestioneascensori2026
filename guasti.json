@@ -6,7 +6,8 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Guasto ups",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   },
   {
     "id": 1792867930834,
