@@ -19,6 +19,20 @@
       "attachments": [],
       "isTrash": true,
       "date": "25/10/2026"
+    },
+    {
+      "id": 1792880167849,
+      "title": "VISITA PAPA'",
+      "category": "Generale",
+      "type": "text",
+      "content": "Visita a Magenta ore 15.00",
+      "checklist": [],
+      "execDate": "2026-10-27",
+      "execTime": "14:00",
+      "recurrence": "none",
+      "attachments": [],
+      "isTrash": false,
+      "date": "25/10/2026"
     }
   ]
 }
