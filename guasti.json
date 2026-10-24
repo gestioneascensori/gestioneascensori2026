@@ -14,6 +14,7 @@
     "title": "oncologia",
     "priority": "Media",
     "description": "problema idraulico",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto in data odierna"
   }
 ]
