@@ -6,7 +6,8 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Manca corrente",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "manca odl"
   },
   {
     "id": 1792867263036,
