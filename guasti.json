@@ -6,6 +6,7 @@
     "ambito": "Fabbro",
     "priority": "Media",
     "description": "Gfff",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   }
 ]
