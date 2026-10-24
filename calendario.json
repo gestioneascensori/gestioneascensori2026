@@ -47,6 +47,20 @@
       "attachments": [],
       "isTrash": false,
       "date": "25/10/2026"
+    },
+    {
+      "id": 1792886160577,
+      "title": "Visita Papà",
+      "category": "Generale",
+      "type": "text",
+      "content": "",
+      "checklist": [],
+      "execDate": "2026-10-27",
+      "execTime": "15:00",
+      "recurrence": "none",
+      "attachments": [],
+      "isTrash": false,
+      "date": "25/10/2026"
     }
   ]
 }
