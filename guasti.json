@@ -6,7 +6,8 @@
     "ambito": "Fabbro",
     "priority": "Critica",
     "description": "Porta rotta",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "non so"
   },
   {
     "id": 1792867930834,
