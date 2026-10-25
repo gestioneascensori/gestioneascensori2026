@@ -41,6 +41,20 @@
       "attachments": [],
       "isTrash": false,
       "date": "25/10/2026"
+    },
+    {
+      "id": 1792929110925,
+      "title": "Uscita anticipata ore 12.00",
+      "category": "Generale",
+      "type": "text",
+      "content": "Permesso L104/92",
+      "checklist": [],
+      "execDate": "2026-10-31",
+      "execTime": "08:00",
+      "recurrence": "none",
+      "attachments": [],
+      "isTrash": false,
+      "date": "25/10/2026"
     }
   ]
 }
