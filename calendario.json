@@ -19,5 +19,20 @@
     "attachment": null,
     "isTrash": false,
     "updatedAt": 1792960622254
+  },
+  {
+    "id": "id_1792960690083_2_drh425aq4",
+    "title": "Uscita anticipata ore 11.30",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "L104/92",
+    "checklist": [],
+    "execDate": "2026-10-30",
+    "execTime": "",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792960690083
   }
 ]
