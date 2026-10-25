@@ -185,5 +185,20 @@
     },
     "isTrash": false,
     "updatedAt": 1792969714167
+  },
+  {
+    "id": "id_1792969772594_0j8j1e5bm",
+    "title": "VISITA PAPA'",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "VISITA MAGENTA",
+    "checklist": [],
+    "execDate": "2026-10-27",
+    "execTime": "15:00",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792969772594
   }
 ]
