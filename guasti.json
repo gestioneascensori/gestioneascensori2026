@@ -6,6 +6,7 @@
     "ambito": "Idraulico",
     "priority": "Alta",
     "description": "fer, o tutto",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   }
 ]
