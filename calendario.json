@@ -13,5 +13,20 @@
     "attachment": null,
     "isTrash": false,
     "updatedAt": 1792945967407
+  },
+  {
+    "id": "id_1792945999898_87v13o656",
+    "title": "Seco",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "",
+    "checklist": [],
+    "execDate": "2026-10-25",
+    "execTime": "18:33",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792945999898
   }
 ]
