@@ -19,5 +19,20 @@
     "attachment": null,
     "isTrash": true,
     "updatedAt": 1792943623194
+  },
+  {
+    "id": "id_1792943666389_tqkhk46bb",
+    "title": "etst&",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "reerzre",
+    "checklist": [],
+    "execDate": "2026-10-27",
+    "execTime": "",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792943666389
   }
 ]
