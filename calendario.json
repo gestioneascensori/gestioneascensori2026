@@ -34,5 +34,20 @@
     "attachment": null,
     "isTrash": false,
     "updatedAt": 1792960690083
+  },
+  {
+    "id": "id_1792960723576_3_2e5d7h6jg",
+    "title": "Uscita anticipata ore 12",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "L104/92",
+    "checklist": [],
+    "execDate": "2026-10-31",
+    "execTime": "08:00",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792960723576
   }
 ]
