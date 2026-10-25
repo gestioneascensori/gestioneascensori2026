@@ -19,5 +19,20 @@
     "attachment": null,
     "isTrash": true,
     "updatedAt": 1792943727386
+  },
+  {
+    "id": "id_1792945264462_uowlrv3q0",
+    "title": "Uscita anticipata ore 11:30",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "Ho chiesto l'uscita anticipata con la legge 104 del 92",
+    "checklist": [],
+    "execDate": "2026-10-30",
+    "execTime": "09:00",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792945264462
   }
 ]
