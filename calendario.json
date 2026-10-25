@@ -32,7 +32,7 @@
     "recurrence": "Nessuna",
     "audioNotes": [],
     "attachment": null,
-    "isTrash": true,
+    "isTrash": false,
     "updatedAt": 1792943666389
   },
   {
@@ -53,7 +53,7 @@
       }
     ],
     "attachment": null,
-    "isTrash": true,
+    "isTrash": false,
     "updatedAt": 1792943704682
   },
   {
