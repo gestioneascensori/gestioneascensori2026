@@ -41,20 +41,6 @@
       "attachments": [],
       "isTrash": false,
       "date": "25/10/2026"
-    },
-    {
-      "id": 1792921216874,
-      "title": "Test",
-      "category": "Generale",
-      "type": "text",
-      "content": "Prova  dico",
-      "checklist": [],
-      "execDate": "2026-10-26",
-      "execTime": "09:00",
-      "recurrence": "none",
-      "attachments": [],
-      "isTrash": true,
-      "date": "25/10/2026"
     }
   ]
 }
