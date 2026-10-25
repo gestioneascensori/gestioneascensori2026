@@ -1,5 +1,20 @@
 [
   {
+    "id": "id_1792945967407_xhfd3zwiw",
+    "title": "Promo ",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "",
+    "checklist": [],
+    "execDate": "2026-10-25",
+    "execTime": "17:32",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792945967407
+  },
+  {
     "id": "id_1792945999898_87v13o656",
     "title": "Seco",
     "category": "Generale",
@@ -11,7 +26,7 @@
     "recurrence": "Nessuna",
     "audioNotes": [],
     "attachment": null,
-    "isTrash": true,
+    "isTrash": false,
     "updatedAt": 1792945999898
   },
   {
