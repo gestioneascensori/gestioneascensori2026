@@ -19,5 +19,20 @@
     "attachment": null,
     "isTrash": false,
     "updatedAt": 1792950934545
+  },
+  {
+    "id": "id_1792951015365_l9y30ojzj",
+    "title": "ferie",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "",
+    "checklist": [],
+    "execDate": "2026-10-31",
+    "execTime": "",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792951015365
   }
 ]
