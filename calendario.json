@@ -1,20 +1,6 @@
 {
   "notes": [
     {
-      "id": 1792879761502,
-      "title": "test",
-      "category": "Lavoro",
-      "type": "text",
-      "content": "prova",
-      "checklist": [],
-      "execDate": "2026-10-04",
-      "execTime": "09:00",
-      "recurrence": "none",
-      "attachments": [],
-      "isTrash": true,
-      "date": "25/10/2026"
-    },
-    {
       "id": 1792880167849,
       "title": "VISITA PAPA'",
       "category": "Generale",
