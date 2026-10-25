@@ -1,20 +1,5 @@
 [
   {
-    "id": "id_1792954141978_1_hiwfjakw5",
-    "title": "Test",
-    "category": "Generale",
-    "type": "Testo",
-    "content": "",
-    "checklist": [],
-    "execDate": "2026-10-27",
-    "execTime": "",
-    "recurrence": "Nessuna",
-    "audioNotes": [],
-    "attachment": null,
-    "isTrash": true,
-    "updatedAt": 1792954232089
-  },
-  {
     "id": "id_1792953564665_0tm2bmg3s",
     "title": "test",
     "category": "Generale",
@@ -112,7 +97,22 @@
       "type": "application/pdf",
       "name": "INFORMATIVA SULLA SICUREZZA.pdf"
     },
-    "isTrash": false,
-    "updatedAt": 1792954369081
+    "isTrash": true,
+    "updatedAt": 1792954986993
+  },
+  {
+    "id": "id_1792954141978_1_hiwfjakw5",
+    "title": "Test",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "",
+    "checklist": [],
+    "execDate": "2026-10-27",
+    "execTime": "",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": true,
+    "updatedAt": 1792954232089
   }
 ]
