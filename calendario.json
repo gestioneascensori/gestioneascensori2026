@@ -138,5 +138,20 @@
     "attachment": null,
     "isTrash": false,
     "updatedAt": 1792942780426
+  },
+  {
+    "id": "id_1792943069020_asp2falnl",
+    "title": "sdqqsd",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "qsqsd",
+    "checklist": [],
+    "execDate": "2026-10-29",
+    "execTime": "",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1792943069020
   }
 ]
