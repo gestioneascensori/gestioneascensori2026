@@ -19,20 +19,5 @@
     "attachment": null,
     "isTrash": false,
     "updatedAt": 1793016884092
-  },
-  {
-    "id": "id_1793000509745_1_0jlmqo8an",
-    "title": "sdasd",
-    "category": "Manutenzione",
-    "type": "Testo",
-    "content": "",
-    "checklist": [],
-    "execDate": "2026-10-27",
-    "execTime": "",
-    "recurrence": "Nessuna",
-    "audioNotes": [],
-    "attachment": null,
-    "isTrash": true,
-    "updatedAt": 1793028940899
   }
 ]
