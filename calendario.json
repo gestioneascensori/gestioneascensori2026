@@ -32,5 +32,20 @@
     },
     "isTrash": true,
     "updatedAt": 1793042714901
+  },
+  {
+    "id": "id_1793042793250_1_qxsv1vsm3",
+    "title": "Uscita anticipata  12.00",
+    "category": "Generale",
+    "type": "Testo",
+    "content": "L104/92",
+    "checklist": [],
+    "execDate": "2026-10-30",
+    "execTime": "08:00",
+    "recurrence": "Nessuna",
+    "audioNotes": [],
+    "attachment": null,
+    "isTrash": false,
+    "updatedAt": 1793042793250
   }
 ]
