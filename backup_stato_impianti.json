@@ -1,6 +1,7 @@
 {
   "1": {
-    "status": "funzionante"
+    "status": "guasto",
+    "note": "Tk 3298152 L impianto non e fermo ma non apre dall'interno le porte col pulsante dopo intervento del bo'"
   },
   "2": {
     "status": "funzionante",
