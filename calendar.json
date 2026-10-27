@@ -10,7 +10,8 @@
    "color": "#0a84ff",
    "notes": "zezrzrze",
    "updatedAt": 1793062648487,
-   "deleted": false
+   "deleted": false,
+   "files": []
   },
   {
    "id": "mvpz1syqisahyd",
@@ -21,7 +22,8 @@
    "color": "#0a84ff",
    "notes": "",
    "updatedAt": 1793062656118,
-   "deleted": false
+   "deleted": false,
+   "files": []
   },
   {
    "id": "mvpz7w84p3t3uh",
@@ -32,7 +34,8 @@
    "color": "#0a84ff",
    "notes": "",
    "updatedAt": 1793062671844,
-   "deleted": false
+   "deleted": false,
+   "files": []
   }
  ]
 }
