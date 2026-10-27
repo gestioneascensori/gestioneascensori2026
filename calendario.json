@@ -44,6 +44,18 @@
      "up": true
     }
    ]
+  },
+  {
+   "id": "mvq03q8jx73v70",
+   "title": "Tribunale con Andrea",
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "12:00",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1793064157075,
+   "deleted": false,
+   "files": []
   }
  ]
 }
