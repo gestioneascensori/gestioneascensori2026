@@ -33,7 +33,7 @@
    "end": "",
    "color": "#0a84ff",
    "notes": "",
-   "updatedAt": 1793062703228,
+   "updatedAt": 1793062729975,
    "deleted": false,
    "files": [
     {
@@ -41,6 +41,13 @@
      "name": "Nota vocale 01:58.webm",
      "type": "audio/webm",
      "size": 30424,
+     "up": true
+    },
+    {
+     "id": "mvpz945avmcg8l",
+     "name": "6 Progetto Pausa Emozionale (1).pdf",
+     "type": "application/pdf",
+     "size": 335339,
      "up": true
     }
    ]
