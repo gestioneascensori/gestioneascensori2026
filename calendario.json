@@ -2,47 +2,6 @@
  "version": 1,
  "events": [
   {
-   "id": "mvpza71cekhlds",
-   "title": "Visita papà",
-   "date": "2026-10-27",
-   "start": "15:00",
-   "end": "16:00",
-   "color": "#0a84ff",
-   "notes": "Visita a Magenta",
-   "updatedAt": 1793063323570,
-   "deleted": false,
-   "files": [
-    {
-     "id": "mvpz9odsiq6eiq",
-     "name": "Nota vocale 01:59.webm",
-     "type": "audio/webm",
-     "size": 41301,
-     "up": true
-    },
-    {
-     "id": "mvpza5xsbepb29",
-     "name": "IMG_20261025_214104402.jpg",
-     "type": "image/jpeg",
-     "size": 1148926,
-     "up": true
-    },
-    {
-     "id": "mvpzhxqrh36kvt",
-     "name": "Screenshot_20261027-004629.png",
-     "type": "image/png",
-     "size": 1875380,
-     "up": true
-    },
-    {
-     "id": "mvpzlt7eyr5fmc",
-     "name": "Nota vocale 02:08.webm",
-     "type": "audio/webm",
-     "size": 33834,
-     "up": true
-    }
-   ]
-  },
-  {
    "id": "mvpzmsxf22tbfr",
    "title": "Uscita anticipata",
    "date": "2026-10-30",
@@ -65,6 +24,40 @@
    "updatedAt": 1793063391746,
    "deleted": false,
    "files": []
+  },
+  {
+   "id": "mvpza71cekhlds",
+   "title": "Visita papà",
+   "date": "2026-10-27",
+   "start": "15:00",
+   "end": "16:00",
+   "color": "#0a84ff",
+   "notes": "Visita a Magenta",
+   "updatedAt": 1793063410770,
+   "deleted": false,
+   "files": [
+    {
+     "id": "mvpz9odsiq6eiq",
+     "name": "Nota vocale 01:59.webm",
+     "type": "audio/webm",
+     "size": 41301,
+     "up": true
+    },
+    {
+     "id": "mvpza5xsbepb29",
+     "name": "IMG_20261025_214104402.jpg",
+     "type": "image/jpeg",
+     "size": 1148926,
+     "up": true
+    },
+    {
+     "id": "mvpzlt7eyr5fmc",
+     "name": "Nota vocale 02:08.webm",
+     "type": "audio/webm",
+     "size": 33834,
+     "up": true
+    }
+   ]
   }
  ]
 }
