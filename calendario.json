@@ -9,7 +9,7 @@
    "end": "16:00",
    "color": "#0a84ff",
    "notes": "Visita a Magenta",
-   "updatedAt": 1793062779168,
+   "updatedAt": 1793063142037,
    "deleted": false,
    "files": [
     {
@@ -24,6 +24,13 @@
      "name": "IMG_20261025_214104402.jpg",
      "type": "image/jpeg",
      "size": 1148926,
+     "up": true
+    },
+    {
+     "id": "mvpzhxqrh36kvt",
+     "name": "Screenshot_20261027-004629.png",
+     "type": "image/png",
+     "size": 1875380,
      "up": true
     }
    ]
