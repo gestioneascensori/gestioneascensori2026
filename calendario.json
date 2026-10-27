@@ -11,7 +11,8 @@
    "notes": "L104/92",
    "updatedAt": 1793063367411,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": -1
   },
   {
    "id": "mvpznbpe8pqjbp",
@@ -23,7 +24,8 @@
    "notes": "L104/92",
    "updatedAt": 1793063391746,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": -1
   },
   {
    "id": "mvpza71cekhlds",
@@ -43,7 +45,8 @@
      "size": 1148926,
      "up": true
     }
-   ]
+   ],
+   "remind": -1
   },
   {
    "id": "mvq03q8jx73v70",
@@ -55,7 +58,8 @@
    "notes": "",
    "updatedAt": 1793064163114,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": -1
   },
   {
    "id": "mvq05sa83xyz55",
@@ -67,7 +71,21 @@
    "notes": "",
    "updatedAt": 1793064287679,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": -1
+  },
+  {
+   "id": "mvqgttuh0lua71",
+   "title": "prova",
+   "date": "2026-10-27",
+   "start": "10:12",
+   "end": "11:00",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1793092248665,
+   "deleted": false,
+   "files": [],
+   "remind": 0
   }
  ]
 }
