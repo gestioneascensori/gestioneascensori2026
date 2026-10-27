@@ -1,4 +1,32 @@
 {
  "version": 1,
- "events": []
+ "events": [
+  {
+   "id": "mvpza71cekhlds",
+   "title": "Visita papà",
+   "date": "2026-10-27",
+   "start": "15:00",
+   "end": "16:00",
+   "color": "#0a84ff",
+   "notes": "Visita a Magenta",
+   "updatedAt": 1793062779168,
+   "deleted": false,
+   "files": [
+    {
+     "id": "mvpz9odsiq6eiq",
+     "name": "Nota vocale 01:59.webm",
+     "type": "audio/webm",
+     "size": 41301,
+     "up": true
+    },
+    {
+     "id": "mvpza5xsbepb29",
+     "name": "IMG_20261025_214104402.jpg",
+     "type": "image/jpeg",
+     "size": 1148926,
+     "up": true
+    }
+   ]
+  }
+ ]
 }
