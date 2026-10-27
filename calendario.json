@@ -116,14 +116,14 @@
      "name": "Nota vocale 10:25.webm",
      "type": "audio/webm",
      "size": 22605,
-     "up": false
+     "up": true
     },
     {
      "id": "mvqhd3l87z914d",
      "name": "Screenshot_20261027-004629.png",
      "type": "image/png",
      "size": 1875380,
-     "up": false
+     "up": true
     }
    ],
    "remind": 0
