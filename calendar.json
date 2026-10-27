@@ -33,9 +33,17 @@
    "end": "",
    "color": "#0a84ff",
    "notes": "",
-   "updatedAt": 1793062671844,
+   "updatedAt": 1793062703228,
    "deleted": false,
-   "files": []
+   "files": [
+    {
+     "id": "mvpz8j4czr2k5b",
+     "name": "Nota vocale 01:58.webm",
+     "type": "audio/webm",
+     "size": 30424,
+     "up": true
+    }
+   ]
   }
  ]
 }
