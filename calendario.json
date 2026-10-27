@@ -9,7 +9,7 @@
    "end": "16:00",
    "color": "#0a84ff",
    "notes": "Visita a Magenta",
-   "updatedAt": 1793063142037,
+   "updatedAt": 1793063323570,
    "deleted": false,
    "files": [
     {
@@ -31,6 +31,13 @@
      "name": "Screenshot_20261027-004629.png",
      "type": "image/png",
      "size": 1875380,
+     "up": true
+    },
+    {
+     "id": "mvpzlt7eyr5fmc",
+     "name": "Nota vocale 02:08.webm",
+     "type": "audio/webm",
+     "size": 33834,
      "up": true
     }
    ]
