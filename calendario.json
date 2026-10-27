@@ -41,6 +41,18 @@
      "up": true
     }
    ]
+  },
+  {
+   "id": "mvpzmsxf22tbfr",
+   "title": "Uscita anticipata",
+   "date": "2026-10-30",
+   "start": "12:00",
+   "end": "12:00",
+   "color": "#0a84ff",
+   "notes": "L104/92",
+   "updatedAt": 1793063367411,
+   "deleted": false,
+   "files": []
   }
  ]
 }
