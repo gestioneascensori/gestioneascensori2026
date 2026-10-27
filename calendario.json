@@ -53,6 +53,18 @@
    "updatedAt": 1793063367411,
    "deleted": false,
    "files": []
+  },
+  {
+   "id": "mvpznbpe8pqjbp",
+   "title": "Uscita anticipata",
+   "date": "2026-10-31",
+   "start": "11:30",
+   "end": "11:30",
+   "color": "#0a84ff",
+   "notes": "L104/92",
+   "updatedAt": 1793063391746,
+   "deleted": false,
+   "files": []
   }
  ]
 }
