@@ -240,9 +240,8 @@
     "status": "funzionante"
   },
   "14 DEA": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Uomo intrappolato"
+    "status": "guasto",
+    "note": ""
   },
   "VIA ASSIETTA - MILANO": {
     "status": "funzionante"
