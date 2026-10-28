@@ -6,6 +6,7 @@
     "ambito": "Elettrico",
     "priority": "Alta",
     "description": "Tutto fermo",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   }
 ]
