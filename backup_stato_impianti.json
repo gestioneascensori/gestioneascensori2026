@@ -230,7 +230,9 @@
     "motivation": "fermo per\nriparazione (blocco meccanico (--1)\nrotto, pattini scorrimento anta veloce\ncabina fuori binario."
   },
   "11 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Fermo chiamata aperta "
   },
   "12 DEA ": {
     "status": "funzionante"
