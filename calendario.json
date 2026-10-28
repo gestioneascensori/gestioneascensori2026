@@ -163,8 +163,8 @@
    "start": "08:00",
    "end": "09:00",
    "color": "#0a84ff",
-   "notes": "",
-   "updatedAt": 1793184877412,
+   "notes": "Test",
+   "updatedAt": 1793187314513,
    "deleted": false,
    "files": [],
    "remind": -1
