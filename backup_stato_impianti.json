@@ -228,9 +228,7 @@
     "motivation": "fermo per\nriparazione (blocco meccanico (--1)\nrotto, pattini scorrimento anta veloce\ncabina fuori binario."
   },
   "11 DEA": {
-    "status": "fermo",
-    "ticket": "3299355",
-    "motivation": "Fermo chiamata aperta "
+    "status": "funzionante"
   },
   "12 DEA ": {
     "status": "funzionante"
