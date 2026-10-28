@@ -144,19 +144,6 @@
    "remind": -1
   },
   {
-   "id": "mvpznbpe8pqjbp",
-   "title": "Uscita anticipata ore 14.24",
-   "date": "2026-10-31",
-   "start": "11:30",
-   "end": "11:30",
-   "color": "#0a84ff",
-   "notes": "L104/92",
-   "updatedAt": 1793184812243,
-   "deleted": false,
-   "files": [],
-   "remind": -1
-  },
-  {
    "id": "mvq05sa83xyz55",
    "title": "Mandare mail rettifica orario 31/10",
    "date": "2026-10-27",
@@ -165,6 +152,19 @@
    "color": "#0a84ff",
    "notes": "Test",
    "updatedAt": 1793187314513,
+   "deleted": false,
+   "files": [],
+   "remind": -1
+  },
+  {
+   "id": "mvpznbpe8pqjbp",
+   "title": "Uscita anticipata ore 14.24",
+   "date": "2026-10-31",
+   "start": "11:30",
+   "end": "11:30",
+   "color": "#0a84ff",
+   "notes": "L104/92 verificare",
+   "updatedAt": 1793196085591,
    "deleted": false,
    "files": [],
    "remind": -1
