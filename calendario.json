@@ -1,0 +1,145 @@
+{
+ "version": 1,
+ "events": [
+  {
+   "id": "mvpzmsxf22tbfr",
+   "title": "Uscita anticipata",
+   "date": "2026-10-30",
+   "start": "12:00",
+   "end": "12:00",
+   "color": "#0a84ff",
+   "notes": "L104/92",
+   "updatedAt": 1793063367411,
+   "deleted": false,
+   "files": [],
+   "remind": -1
+  },
+  {
+   "id": "mvpznbpe8pqjbp",
+   "title": "Uscita anticipata",
+   "date": "2026-10-31",
+   "start": "11:30",
+   "end": "11:30",
+   "color": "#0a84ff",
+   "notes": "L104/92",
+   "updatedAt": 1793063391746,
+   "deleted": false,
+   "files": [],
+   "remind": -1
+  },
+  {
+   "id": "mvq03q8jx73v70",
+   "title": "Tribunale con Andrea",
+   "date": "2026-11-11",
+   "start": "08:00",
+   "end": "12:00",
+   "color": "#ff453a",
+   "notes": "",
+   "updatedAt": 1793064163114,
+   "deleted": false,
+   "files": [],
+   "remind": -1
+  },
+  {
+   "id": "mvq05sa83xyz55",
+   "title": "Mandare mail rettifica orario 31/10",
+   "date": "2026-10-27",
+   "start": "08:00",
+   "end": "09:00",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1793064287679,
+   "deleted": false,
+   "files": [],
+   "remind": -1
+  },
+  {
+   "id": "mvqgttuh0lua71",
+   "title": "prova",
+   "date": "2026-10-27",
+   "start": "10:24",
+   "end": "11:00",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1793093075512,
+   "deleted": true,
+   "files": [],
+   "remind": 0
+  },
+  {
+   "id": "mvqh8v64wf3hq9",
+   "title": "Prova evento",
+   "date": "2026-10-27",
+   "start": "10:24",
+   "end": "10:30",
+   "color": "#0a84ff",
+   "notes": "Test",
+   "updatedAt": 1793093097191,
+   "deleted": true,
+   "files": [],
+   "remind": 0
+  },
+  {
+   "id": "mvqhd5id3ujxv3",
+   "title": "Prova",
+   "date": "2026-10-27",
+   "start": "11:14",
+   "end": "10:31",
+   "color": "#ff453a",
+   "notes": "Test prova",
+   "updatedAt": 1793099016741,
+   "deleted": true,
+   "files": [
+    {
+     "id": "mvqhcvvx7oy695",
+     "name": "Nota vocale 10:25.webm",
+     "type": "audio/webm",
+     "size": 22605,
+     "up": true
+    },
+    {
+     "id": "mvqhd3l87z914d",
+     "name": "Screenshot_20261027-004629.png",
+     "type": "image/png",
+     "size": 1875380,
+     "up": true
+    }
+   ],
+   "remind": 0
+  },
+  {
+   "id": "mvpza71cekhlds",
+   "title": "Visita papà da riprogrammare",
+   "date": "2026-10-27",
+   "start": "15:00",
+   "end": "16:00",
+   "color": "#0a84ff",
+   "notes": "Visita a Magenta rotta macchina ecografica",
+   "updatedAt": 1793109992605,
+   "deleted": false,
+   "files": [
+    {
+     "id": "mvpza5xsbepb29",
+     "name": "IMG_20261025_214104402.jpg",
+     "type": "image/jpeg",
+     "size": 1148926,
+     "up": true
+    }
+   ],
+   "remind": -1
+  },
+  {
+   "id": "mvrr75ngm5re38",
+   "title": "Rest",
+   "date": "2026-10-28",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1793170175666,
+   "deleted": true,
+   "files": [],
+   "remind": 10
+  }
+ ]
+}
