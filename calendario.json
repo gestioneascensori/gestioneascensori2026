@@ -2,27 +2,6 @@
  "version": 1,
  "events": [
   {
-   "id": "mvpza71cekhlds",
-   "title": "Visita papà",
-   "date": "2026-10-27",
-   "start": "15:00",
-   "end": "16:00",
-   "color": "#0a84ff",
-   "notes": "Visita a Magenta",
-   "updatedAt": 1793169873420,
-   "deleted": true,
-   "files": [
-    {
-     "id": "mvpza5xsbepb29",
-     "name": "IMG_20261025_214104402.jpg",
-     "type": "image/jpeg",
-     "size": 1148926,
-     "up": true
-    }
-   ],
-   "remind": -1
-  },
-  {
    "id": "mvpzmsxf22tbfr",
    "title": "Uscita anticipata",
    "date": "2026-10-30",
@@ -62,6 +41,34 @@
    "remind": -1
   },
   {
+   "id": "mvq05sa83xyz55",
+   "title": "Mandare mail rettifica orario 31/10",
+   "date": "2026-10-27",
+   "start": "08:00",
+   "end": "09:00",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1793184533978,
+   "deleted": false,
+   "files": [
+    {
+     "id": "mvrzroba0m9udo",
+     "name": "Nota vocale 11:48.webm",
+     "type": "audio/webm",
+     "size": 17067,
+     "up": true
+    },
+    {
+     "id": "mvrzrsutx4edxq",
+     "name": "Documento di Outlook.pdf",
+     "type": "application/pdf",
+     "size": 1933565,
+     "up": true
+    }
+   ],
+   "remind": -1
+  },
+  {
    "id": "mvqgttuh0lua71",
    "title": "prova",
    "date": "2026-10-27",
@@ -72,7 +79,7 @@
    "updatedAt": 1793093075512,
    "deleted": true,
    "files": [],
-   "remind": -1
+   "remind": 0
   },
   {
    "id": "mvqh8v64wf3hq9",
@@ -85,7 +92,7 @@
    "updatedAt": 1793093097191,
    "deleted": true,
    "files": [],
-   "remind": -1
+   "remind": 0
   },
   {
    "id": "mvqhd5id3ujxv3",
@@ -113,6 +120,27 @@
      "up": true
     }
    ],
+   "remind": 0
+  },
+  {
+   "id": "mvpza71cekhlds",
+   "title": "Visita papà",
+   "date": "2026-10-27",
+   "start": "15:00",
+   "end": "16:00",
+   "color": "#0a84ff",
+   "notes": "Visita a Magenta",
+   "updatedAt": 1793169873420,
+   "deleted": true,
+   "files": [
+    {
+     "id": "mvpza5xsbepb29",
+     "name": "IMG_20261025_214104402.jpg",
+     "type": "image/jpeg",
+     "size": 1148926,
+     "up": true
+    }
+   ],
    "remind": -1
   },
   {
@@ -126,35 +154,7 @@
    "updatedAt": 1793170175666,
    "deleted": true,
    "files": [],
-   "remind": -1
-  },
-  {
-   "id": "mvq05sa83xyz55",
-   "title": "Mandare mail rettifica orario 31/10",
-   "date": "2026-10-27",
-   "start": "08:00",
-   "end": "09:00",
-   "color": "#0a84ff",
-   "notes": "",
-   "updatedAt": 1793184533978,
-   "deleted": false,
-   "files": [
-    {
-     "id": "mvrzroba0m9udo",
-     "name": "Nota vocale 11:48.webm",
-     "type": "audio/webm",
-     "size": 17067,
-     "up": true
-    },
-    {
-     "id": "mvrzrsutx4edxq",
-     "name": "Documento di Outlook.pdf",
-     "type": "application/pdf",
-     "size": 1933565,
-     "up": true
-    }
-   ],
-   "remind": -1
+   "remind": 10
   },
   {
    "id": "mvrzt34aaya5rq",
