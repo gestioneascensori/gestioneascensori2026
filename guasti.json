@@ -6,7 +6,8 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "protooottoto",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   },
   {
     "id": 1793187372086,
