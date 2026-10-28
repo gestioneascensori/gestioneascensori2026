@@ -6,6 +6,7 @@
     "ambito": "Fabbro",
     "priority": "Media",
     "description": "Prova",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "prova"
   }
 ]
