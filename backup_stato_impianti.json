@@ -195,9 +195,7 @@
     "status": "funzionante"
   },
   "1 DEA": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Impianto funzionante richesta intervento pulsante 2 piano"
+    "status": "funzionante"
   },
   "2 DEA": {
     "status": "funzionante"
