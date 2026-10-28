@@ -6,6 +6,7 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "PROBLEMA GENERICO",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "TEST"
   }
 ]
