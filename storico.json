@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "28/10/2026, 14:32:49",
+    "action": "Stato -> SOSPESO",
+    "title": "GUASTO"
+  },
+  {
     "timestamp": "28/10/2026, 14:32:46",
     "action": "Aggiornamento Manuale",
     "title": "Sincronizzazione eseguita"
