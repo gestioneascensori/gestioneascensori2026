@@ -2,6 +2,26 @@
  "version": 1,
  "events": [
   {
+   "id": "mvpza71cekhlds",
+   "title": "Visita papà",
+   "date": "2026-10-27",
+   "start": "15:00",
+   "end": "16:00",
+   "color": "#0a84ff",
+   "notes": "Visita a Magenta",
+   "updatedAt": 1793169873420,
+   "deleted": true,
+   "files": [
+    {
+     "id": "mvpza5xsbepb29",
+     "name": "IMG_20261025_214104402.jpg",
+     "type": "image/jpeg",
+     "size": 1148926,
+     "up": true
+    }
+   ]
+  },
+  {
    "id": "mvpzmsxf22tbfr",
    "title": "Uscita anticipata",
    "date": "2026-10-30",
@@ -11,8 +31,7 @@
    "notes": "L104/92",
    "updatedAt": 1793063367411,
    "deleted": false,
-   "files": [],
-   "remind": -1
+   "files": []
   },
   {
    "id": "mvpznbpe8pqjbp",
@@ -24,8 +43,7 @@
    "notes": "L104/92",
    "updatedAt": 1793063391746,
    "deleted": false,
-   "files": [],
-   "remind": -1
+   "files": []
   },
   {
    "id": "mvq03q8jx73v70",
@@ -37,8 +55,7 @@
    "notes": "",
    "updatedAt": 1793064163114,
    "deleted": false,
-   "files": [],
-   "remind": -1
+   "files": []
   },
   {
    "id": "mvq05sa83xyz55",
@@ -50,8 +67,7 @@
    "notes": "",
    "updatedAt": 1793064287679,
    "deleted": false,
-   "files": [],
-   "remind": -1
+   "files": []
   },
   {
    "id": "mvqgttuh0lua71",
@@ -63,8 +79,7 @@
    "notes": "",
    "updatedAt": 1793093075512,
    "deleted": true,
-   "files": [],
-   "remind": 0
+   "files": []
   },
   {
    "id": "mvqh8v64wf3hq9",
@@ -76,8 +91,7 @@
    "notes": "Test",
    "updatedAt": 1793093097191,
    "deleted": true,
-   "files": [],
-   "remind": 0
+   "files": []
   },
   {
    "id": "mvqhd5id3ujxv3",
@@ -104,29 +118,7 @@
      "size": 1875380,
      "up": true
     }
-   ],
-   "remind": 0
-  },
-  {
-   "id": "mvpza71cekhlds",
-   "title": "Visita papà da riprogrammare",
-   "date": "2026-10-27",
-   "start": "15:00",
-   "end": "16:00",
-   "color": "#0a84ff",
-   "notes": "Visita a Magenta rotta macchina ecografica",
-   "updatedAt": 1793109992605,
-   "deleted": false,
-   "files": [
-    {
-     "id": "mvpza5xsbepb29",
-     "name": "IMG_20261025_214104402.jpg",
-     "type": "image/jpeg",
-     "size": 1148926,
-     "up": true
-    }
-   ],
-   "remind": -1
+   ]
   },
   {
    "id": "mvrr75ngm5re38",
@@ -138,8 +130,7 @@
    "notes": "",
    "updatedAt": 1793170175666,
    "deleted": true,
-   "files": [],
-   "remind": 10
+   "files": []
   }
  ]
 }
