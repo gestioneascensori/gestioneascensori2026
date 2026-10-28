@@ -9,9 +9,17 @@
    "end": "11:24",
    "color": "#ff453a",
    "notes": "Prova",
-   "updatedAt": 1793175892460,
+   "updatedAt": 1793175904794,
    "deleted": false,
-   "files": [],
+   "files": [
+    {
+     "id": "mvrumslm2q49x0",
+     "name": "Documento di Outlook.pdf",
+     "type": "application/pdf",
+     "size": 1933565,
+     "up": true
+    }
+   ],
    "remind": 10
   }
  ]
