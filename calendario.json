@@ -144,34 +144,6 @@
    "remind": -1
   },
   {
-   "id": "mvq05sa83xyz55",
-   "title": "Mandare mail rettifica orario 31/10",
-   "date": "2026-10-27",
-   "start": "08:00",
-   "end": "09:00",
-   "color": "#0a84ff",
-   "notes": "",
-   "updatedAt": 1793184709925,
-   "deleted": false,
-   "files": [
-    {
-     "id": "mvrzroba0m9udo",
-     "name": "Nota vocale 11:48.webm",
-     "type": "audio/webm",
-     "size": 17067,
-     "up": true
-    },
-    {
-     "id": "mvrzvkmrcrnhr6",
-     "name": "export_1793184670647.pdf",
-     "type": "application/pdf",
-     "size": 132852,
-     "up": true
-    }
-   ],
-   "remind": -1
-  },
-  {
    "id": "mvpznbpe8pqjbp",
    "title": "Uscita anticipata ore 14.24",
    "date": "2026-10-31",
@@ -180,6 +152,19 @@
    "color": "#0a84ff",
    "notes": "L104/92",
    "updatedAt": 1793184812243,
+   "deleted": false,
+   "files": [],
+   "remind": -1
+  },
+  {
+   "id": "mvq05sa83xyz55",
+   "title": "Mandare mail rettifica orario 31/10",
+   "date": "2026-10-27",
+   "start": "08:00",
+   "end": "09:00",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1793184877412,
    "deleted": false,
    "files": [],
    "remind": -1
