@@ -15,19 +15,6 @@
    "remind": -1
   },
   {
-   "id": "mvpznbpe8pqjbp",
-   "title": "Uscita anticipata",
-   "date": "2026-10-31",
-   "start": "11:30",
-   "end": "11:30",
-   "color": "#0a84ff",
-   "notes": "L104/92",
-   "updatedAt": 1793063391746,
-   "deleted": false,
-   "files": [],
-   "remind": -1
-  },
-  {
    "id": "mvq03q8jx73v70",
    "title": "Tribunale con Andrea",
    "date": "2026-11-11",
@@ -182,6 +169,19 @@
      "up": true
     }
    ],
+   "remind": -1
+  },
+  {
+   "id": "mvpznbpe8pqjbp",
+   "title": "Uscita anticipata ore 14.24",
+   "date": "2026-10-31",
+   "start": "11:30",
+   "end": "11:30",
+   "color": "#0a84ff",
+   "notes": "L104/92",
+   "updatedAt": 1793184812243,
+   "deleted": false,
+   "files": [],
    "remind": -1
   }
  ]
