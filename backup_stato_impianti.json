@@ -25,7 +25,9 @@
     "status": "funzionante"
   },
   "5": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Porte con problema "
   },
   "6": {
     "status": "funzionante"
