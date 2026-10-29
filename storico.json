@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "29/10/2026, 10:31:15",
+    "action": "Eliminazione",
+    "title": "Guasto"
+  },
+  {
     "timestamp": "28/10/2026, 14:38:04",
     "action": "Stato -> RISOLTO",
     "title": "Guasto"
