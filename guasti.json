@@ -6,6 +6,7 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Frigor fermo",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   }
 ]
