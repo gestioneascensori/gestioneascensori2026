@@ -75,7 +75,9 @@
     "motivation": "Guasto importante sul limitatore valutazione preventivo "
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Problema porte "
   },
   "18": {
     "status": "funzionante"
