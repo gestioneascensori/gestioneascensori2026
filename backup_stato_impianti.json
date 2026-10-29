@@ -211,7 +211,7 @@
   "6 DEA": {
     "status": "fermo",
     "ticket": "",
-    "motivation": "OPERATORE ATTESA PREVENTIVO"
+    "motivation": "OPERATORE Valutazione preventivo "
   },
   "7 DEA": {
     "status": "funzionante"
