@@ -164,17 +164,9 @@
    "end": "11:30",
    "color": "#0a84ff",
    "notes": "L104/92 verificare",
-   "updatedAt": 1793196097063,
+   "updatedAt": 1793260070595,
    "deleted": false,
-   "files": [
-    {
-     "id": "mvs6nmnyug05d7",
-     "name": "Nota vocale 15:01.webm",
-     "type": "audio/webm",
-     "size": 42800,
-     "up": true
-    }
-   ],
+   "files": [],
    "remind": -1
   }
  ]
