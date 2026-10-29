@@ -24,9 +24,8 @@
     "status": "funzionante"
   },
   "5": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Porte con problema "
+    "status": "guasto",
+    "note": "Impianto funzionante ma con problema porte interno cabina "
   },
   "6": {
     "status": "funzionante"
