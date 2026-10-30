@@ -168,6 +168,34 @@
    "deleted": false,
    "files": [],
    "remind": -1
+  },
+  {
+   "id": "mvuzgdz77ydxjl",
+   "title": "Visita",
+   "date": "2026-10-30",
+   "start": "17:02",
+   "end": "18:25",
+   "color": "#0a84ff",
+   "notes": "Fgggg",
+   "updatedAt": 1793365398979,
+   "deleted": false,
+   "files": [
+    {
+     "id": "mvuzg8hvo639fm",
+     "name": "Nota vocale 14:03.webm",
+     "type": "audio/webm",
+     "size": 47630,
+     "up": true
+    },
+    {
+     "id": "mvuzgdakvnvobj",
+     "name": "5298944.pdf",
+     "type": "application/pdf",
+     "size": 248962,
+     "up": true
+    }
+   ],
+   "remind": 10
   }
  ]
 }
