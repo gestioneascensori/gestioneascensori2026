@@ -6,6 +6,7 @@
     "ambito": "Idraulico",
     "priority": "Critica",
     "description": "Bisogna intraprendere azioni urgenti",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   }
 ]
