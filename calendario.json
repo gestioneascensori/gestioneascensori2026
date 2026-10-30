@@ -196,6 +196,19 @@
     }
    ],
    "remind": 10
+  },
+  {
+   "id": "mvv3pe5cw0aw4h",
+   "title": "Appuntamento con avvocato Rsu",
+   "date": "2026-11-02",
+   "start": "09:00",
+   "end": "10:00",
+   "color": "#ff453a",
+   "notes": "",
+   "updatedAt": 1793372537568,
+   "deleted": false,
+   "files": [],
+   "remind": 60
   }
  ]
 }
