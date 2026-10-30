@@ -295,5 +295,11 @@
   },
   "12 DEA": {
     "status": "funzionante"
+  },
+  "VIA STROMBOLI 19": {
+    "status": "funzionante"
+  },
+  "VIA MASANIELLO 23": {
+    "status": "funzionante"
   }
 }
