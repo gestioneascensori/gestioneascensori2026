@@ -227,9 +227,7 @@
     "motivation": "fermo per\nriparazione (blocco meccanico (--1)\nrotto, pattini scorrimento anta veloce\ncabina fuori binario."
   },
   "11 DEA": {
-    "status": "fermo",
-    "ticket": "3300097",
-    "motivation": "Impianto funzionante ma richiesta abilitazione piano -1S"
+    "status": "funzionante"
   },
   "12 DEA ": {
     "status": "funzionante"
