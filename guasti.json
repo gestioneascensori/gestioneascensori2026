@@ -7,15 +7,5 @@
     "priority": "Bassa",
     "description": "problema cancello",
     "status": "APERTO"
-  },
-  {
-    "id": 1793266350641,
-    "timestamp": "10:32:30 - 29/10/2026",
-    "title": "Ingegneria Clinica",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "Frigor fermo",
-    "status": "RISOLTO",
-    "note": "Risolto e testato regolarmente"
   }
 ]
