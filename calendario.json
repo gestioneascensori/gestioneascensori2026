@@ -205,9 +205,17 @@
    "end": "10:00",
    "color": "#ff453a",
    "notes": "",
-   "updatedAt": 1793372537568,
+   "updatedAt": 1793372556950,
    "deleted": false,
-   "files": [],
+   "files": [
+    {
+     "id": "mvv3ph7ohim9vz",
+     "name": "Nota vocale 16:02.webm",
+     "type": "audio/webm",
+     "size": 73469,
+     "up": true
+    }
+   ],
    "remind": 60
   }
  ]
