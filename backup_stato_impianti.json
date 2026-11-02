@@ -125,8 +125,7 @@
     "status": "funzionante"
   },
   "33": {
-    "status": "guasto",
-    "note": "Impianto funzionante con porte che sbattono "
+    "status": "funzionante"
   },
   "34": {
     "status": "fermo",
