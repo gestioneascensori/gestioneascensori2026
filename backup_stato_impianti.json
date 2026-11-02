@@ -129,7 +129,8 @@
     "status": "funzionante"
   },
   "33": {
-    "status": "funzionante"
+    "status": "guasto",
+    "note": "Impianto funzionante con porte che sbattono "
   },
   "34": {
     "status": "fermo",
