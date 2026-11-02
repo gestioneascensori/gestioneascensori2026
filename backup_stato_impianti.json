@@ -196,8 +196,7 @@
     "status": "funzionante"
   },
   "2 DEA": {
-    "status": "guasto",
-    "note": "Tk 3302512 Impianto funzionante con problemi selettore con chiave interna per 3 piano"
+    "status": "funzionante"
   },
   "3 DEA": {
     "status": "funzionante"
