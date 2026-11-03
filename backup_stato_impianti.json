@@ -174,7 +174,9 @@
     "status": "funzionante"
   },
   "50": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "3303191",
+    "motivation": "IMPIANTO FERMO"
   },
   "52": {
     "status": "funzionante"
