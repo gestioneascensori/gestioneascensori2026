@@ -6,6 +6,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "TUTTO FERMO",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   }
 ]
