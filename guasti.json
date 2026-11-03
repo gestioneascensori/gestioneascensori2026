@@ -6,7 +6,8 @@
     "ambito": "Idraulico",
     "priority": "Critica",
     "description": "Perfetto tutto",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "attesa tecnico"
   },
   {
     "id": 1793693601084,
