@@ -8,15 +8,5 @@
     "description": "perde acqua",
     "status": "RISOLTO",
     "note": "Risolto e collaudato regolarmente"
-  },
-  {
-    "id": 1793693487357,
-    "timestamp": "09:11:27 - 03/11/2026",
-    "title": "GUASTO GINECOLOGIA",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "TUTTO FERMO",
-    "status": "RISOLTO",
-    "note": "Risolto e testato regolarmente"
   }
 ]
