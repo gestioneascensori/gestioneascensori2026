@@ -6,7 +6,8 @@
     "ambito": "Idraulico",
     "priority": "Media",
     "description": "perde acqua",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In attesa di ricambi / verifiche"
   },
   {
     "id": 1793693487357,
