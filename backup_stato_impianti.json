@@ -109,8 +109,8 @@
   },
   "28": {
     "status": "fermo",
-    "ticket": "",
-    "motivation": "Impianto feemo"
+    "ticket": "3303190",
+    "motivation": "Impianto fermo"
   },
   "29": {
     "status": "funzionante"
