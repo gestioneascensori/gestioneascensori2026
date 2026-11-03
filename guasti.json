@@ -6,6 +6,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Maca corrente",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "Chiamato reperibile"
   }
 ]
