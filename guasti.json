@@ -6,7 +6,8 @@
     "ambito": "Idraulico",
     "priority": "Alta",
     "description": "Tubo rotto",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793696171791,
