@@ -1,15 +1,5 @@
 [
   {
-    "id": 1793694997084,
-    "timestamp": "09:36:37 - 03/11/2026",
-    "title": "Oncologia",
-    "ambito": "Idraulico",
-    "priority": "Critica",
-    "description": "Perfetto tutto",
-    "status": "RISOLTO",
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1793693601084,
     "timestamp": "09:13:21 - 03/11/2026",
     "title": "guasto",
