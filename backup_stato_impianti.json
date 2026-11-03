@@ -108,7 +108,9 @@
     "status": "funzionante"
   },
   "28": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Impianto feemo"
   },
   "29": {
     "status": "funzionante"
