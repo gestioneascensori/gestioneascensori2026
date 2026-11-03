@@ -6,8 +6,8 @@
     "ambito": "Idraulico",
     "priority": "Media",
     "description": "perde acqua",
-    "status": "SOSPESO",
-    "note": "TECNICO ARRIVATO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato regolarmente"
   },
   {
     "id": 1793693487357,
