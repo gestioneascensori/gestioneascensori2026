@@ -18,7 +18,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Impianto fermo avvisato Veolia",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793798240408,
