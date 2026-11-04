@@ -17,7 +17,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Avvisato reperibile",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793797498035,
