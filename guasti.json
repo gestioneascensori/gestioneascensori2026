@@ -7,6 +7,7 @@
     "ambito": "Altro",
     "priority": "Media",
     "description": "Porta rotta",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "attesa tecnico"
   }
 ]
