@@ -1,5 +1,15 @@
 [
   {
+    "id": 1793799008231,
+    "timestamp": "14:30:08 - 04/11/2026",
+    "reparto": "Oncologia",
+    "title": "Tgard",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Impianto fermo avvisato Veolia",
+    "status": "APERTO"
+  },
+  {
     "id": 1793798240408,
     "timestamp": "14:17:20 - 04/11/2026",
     "reparto": "Oncologia",
