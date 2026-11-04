@@ -1,5 +1,15 @@
 [
   {
+    "id": 1793798240408,
+    "timestamp": "14:17:20 - 04/11/2026",
+    "reparto": "Oncologia",
+    "title": "UPS",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Fermo",
+    "status": "APERTO"
+  },
+  {
     "id": 1793798050315,
     "timestamp": "14:14:10 - 04/11/2026",
     "reparto": "Ginecologa",
