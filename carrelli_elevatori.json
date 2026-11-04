@@ -8,16 +8,5 @@
     "inviataMail": "No",
     "description": "EFFETTUATA CHIAMATA TELEFONICA",
     "status": "APERTO"
-  },
-  {
-    "id": 1793784902938,
-    "timestamp": "10:35:02 - 04/11/2026",
-    "carrello": "MAGAZZINO MOBILI - MAT.6772616",
-    "title": "test",
-    "priority": "Media",
-    "inviataMail": "No",
-    "description": "test",
-    "status": "RISOLTO",
-    "note": "Risolto e collaudato"
   }
 ]
