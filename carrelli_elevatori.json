@@ -7,7 +7,8 @@
     "priority": "Critica",
     "inviataMail": "Si",
     "description": "",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793784902938,
