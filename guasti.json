@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Non va",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In attesa di ricambi / verifiche"
   },
   {
     "id": 1793799008231,
