@@ -1,5 +1,15 @@
 [
   {
+    "id": 1793798050315,
+    "timestamp": "14:14:10 - 04/11/2026",
+    "reparto": "Ginecologa",
+    "title": "Mancanza di corrente",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Avvisato reperibile",
+    "status": "APERTO"
+  },
+  {
     "id": 1793797498035,
     "timestamp": "14:04:58 - 04/11/2026",
     "reparto": "Test",
