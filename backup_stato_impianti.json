@@ -19,7 +19,9 @@
     "status": "funzionante"
   },
   "4": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Fs"
   },
   "5": {
     "status": "guasto",
