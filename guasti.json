@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793889590154,
-    "timestamp": "15:39:50 - 05/11/2026",
-    "reparto": "Laboratorio",
-    "title": "Controllo Accessi",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Hhh",
-    "status": "RISOLTO",
-    "note": "Risolto e testato regolarmente"
-  },
-  {
     "id": 1793889473759,
     "timestamp": "15:37:53 - 05/11/2026",
     "reparto": "Diabe",
