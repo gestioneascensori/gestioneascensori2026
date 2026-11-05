@@ -40,7 +40,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Non apre porta",
-    "status": "SOSPESO",
-    "note": "Chiamato reperibile "
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   }
 ]
