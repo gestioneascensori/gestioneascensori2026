@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Tutto",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In attesa di ricambi / verifiche"
   },
   {
     "id": 1793884035749,
