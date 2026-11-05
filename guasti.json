@@ -42,16 +42,5 @@
     "description": "Impianto fermo avvisato Veolia",
     "status": "RISOLTO",
     "note": "Risolto e collaudato"
-  },
-  {
-    "id": 1793798240408,
-    "timestamp": "14:17:20 - 04/11/2026",
-    "reparto": "Oncologia",
-    "title": "UPS",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Fermo",
-    "status": "RISOLTO",
-    "note": "Ok"
   }
 ]
