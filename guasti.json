@@ -1,15 +1,5 @@
 [
   {
-    "id": 1793889436690,
-    "timestamp": "15:37:16 - 05/11/2026",
-    "reparto": "Diabetologia",
-    "title": "Mancanza di corrente",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "Mancanza",
-    "status": "APERTO"
-  },
-  {
     "id": 1793884866628,
     "timestamp": "14:21:06 - 05/11/2026",
     "reparto": "Obci",
