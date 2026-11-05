@@ -29,7 +29,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Test",
-    "status": "SOSPESO",
-    "note": "Prova"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   }
 ]
