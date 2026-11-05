@@ -1,5 +1,15 @@
 [
   {
+    "id": 1793862989191,
+    "timestamp": "08:16:29 - 05/11/2026",
+    "reparto": "Oncologia",
+    "title": "Mancanza di corrente",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Tutto fermo",
+    "status": "APERTO"
+  },
+  {
     "id": 1793799738629,
     "timestamp": "14:42:18 - 04/11/2026",
     "reparto": "Edificio 8",
