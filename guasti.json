@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793884866628,
-    "timestamp": "14:21:06 - 05/11/2026",
-    "reparto": "Obci",
-    "title": "Mancanza di corrente",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "Tutto",
-    "status": "RISOLTO",
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1793884035749,
     "timestamp": "14:07:15 - 05/11/2026",
     "reparto": "Oncologia",
