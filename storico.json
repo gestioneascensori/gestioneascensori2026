@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "05/11/2026, 11:07:59",
+    "action": "Stato -> SOSPESO",
+    "title": "Test - Controllo Accessi"
+  },
+  {
     "timestamp": "05/11/2026, 11:07:43",
     "action": "Eliminazione",
     "title": "Mancanza di corrente"
