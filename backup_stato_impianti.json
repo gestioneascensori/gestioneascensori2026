@@ -67,7 +67,8 @@
     ]
   },
   "16": {
-    "status": "funzionante"
+    "status": "guasto",
+    "note": "Fermo "
   },
   "17": {
     "status": "fermo",
