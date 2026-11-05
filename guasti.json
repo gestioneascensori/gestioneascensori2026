@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793920289448,
-    "timestamp": "00:11:29 - 06/11/2026",
-    "reparto": "Trddf",
-    "title": "Controllo Accessi",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Ggg",
-    "status": "RISOLTO",
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1793919988581,
     "timestamp": "00:06:28 - 06/11/2026",
     "reparto": "Test",
