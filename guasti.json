@@ -7,8 +7,8 @@
     "ambito": "Idraulico",
     "priority": "Critica",
     "description": "Avvisato dmp",
-    "status": "SOSPESO",
-    "note": "Sospeso per organizzazione lavoro"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   },
   {
     "id": 1793862989191,
