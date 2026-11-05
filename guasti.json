@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Bassa",
     "description": "qweqwe",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   },
   {
     "id": 1793882276676,
