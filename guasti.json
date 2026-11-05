@@ -8,6 +8,17 @@
     "priority": "Critica",
     "description": "Test",
     "status": "SOSPESO",
-    "note": "In attesa di ricambi / verifiche"
+    "note": "prova"
+  },
+  {
+    "id": 1793871710109,
+    "timestamp": "10:41:50 - 05/11/2026",
+    "reparto": "Dietologia",
+    "title": "Mancanza di corrente",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Test",
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   }
 ]
