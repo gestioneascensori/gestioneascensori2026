@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793883518279,
-    "timestamp": "13:58:38 - 05/11/2026",
-    "reparto": "Dietista",
-    "title": "Sensori antincendio",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "Allarme sala",
-    "status": "RISOLTO",
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1793883490896,
     "timestamp": "13:58:10 - 05/11/2026",
     "reparto": "Reparto",
