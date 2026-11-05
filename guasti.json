@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793883490896,
-    "timestamp": "13:58:10 - 05/11/2026",
-    "reparto": "Reparto",
-    "title": "Controllo Accessi",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Ferni",
-    "status": "RISOLTO",
-    "note": "Risolto e testato regolarmente"
-  },
-  {
     "id": 1793883457979,
     "timestamp": "13:57:37 - 05/11/2026",
     "reparto": "Ginecologa",
