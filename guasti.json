@@ -7,6 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Porta non apre",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "prova"
   }
 ]
