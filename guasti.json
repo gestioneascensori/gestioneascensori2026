@@ -7,8 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Tutto fermo",
-    "status": "SOSPESO",
-    "note": "Attivato reperibilità elettrico"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793799738629,
