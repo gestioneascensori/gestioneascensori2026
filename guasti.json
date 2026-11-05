@@ -18,7 +18,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Ferni",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e testato regolarmente"
   },
   {
     "id": 1793883457979,
