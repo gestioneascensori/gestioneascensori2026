@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793883457979,
-    "timestamp": "13:57:37 - 05/11/2026",
-    "reparto": "Ginecologa",
-    "title": "Perdita di Acqua",
-    "ambito": "Idraulico",
-    "priority": "Critica",
-    "description": "Allagamento",
-    "status": "RISOLTO",
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1793883353566,
     "timestamp": "13:55:53 - 05/11/2026",
     "reparto": "Oncologia",
