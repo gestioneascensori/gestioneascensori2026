@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "05/11/2026, 15:41:41",
+    "action": "Eliminazione",
+    "title": "Controllo Accessi"
+  },
+  {
     "timestamp": "05/11/2026, 15:40:25",
     "action": "Stato -> RISOLTO",
     "title": "Laboratorio - Controllo Accessi (Risolto e testato regolarmente)"
