@@ -22,9 +22,7 @@
     "status": "funzionante"
   },
   "5": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "FS terzo piano "
+    "status": "guasto"
   },
   "6": {
     "status": "funzionante"
@@ -75,7 +73,7 @@
   "17": {
     "status": "fermo",
     "ticket": "",
-    "motivation": "Problema porte "
+    "motivation": "Problema porte fermo 3 piano fs"
   },
   "18": {
     "status": "funzionante"
