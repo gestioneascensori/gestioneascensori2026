@@ -28,7 +28,8 @@
     "ambito": "Idraulico",
     "priority": "Critica",
     "description": "Allagamento",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793883353566,
