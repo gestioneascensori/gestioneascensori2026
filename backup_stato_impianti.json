@@ -22,7 +22,9 @@
     "status": "funzionante"
   },
   "5": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Al terzo piano in FS"
   },
   "6": {
     "status": "funzionante"
