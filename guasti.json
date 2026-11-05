@@ -18,7 +18,8 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Test",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793917942908,
