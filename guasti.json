@@ -18,6 +18,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Test",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   }
 ]
