@@ -28,6 +28,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Test",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "Prova"
   }
 ]
