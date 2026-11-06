@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793956897235,
-    "timestamp": "10:21:37 - 06/11/2026",
-    "reparto": "Ginecologia",
-    "title": "Altro: Acqua in reparto",
-    "ambito": "Idraulico",
-    "priority": "Critica",
-    "description": "Chiamato reperibile",
-    "status": "RISOLTO",
-    "note": "Risolto"
-  },
-  {
     "id": 1793955611822,
     "timestamp": "10:00:11 - 06/11/2026",
     "reparto": "Ginecologa",
