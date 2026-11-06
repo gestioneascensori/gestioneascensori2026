@@ -7,6 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "dsdf",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In sospeso"
   }
 ]
