@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793972035361,
-    "timestamp": "14:33:55 - 06/11/2026",
-    "reparto": "Rianimazione",
-    "title": "Altro: Citofono",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Non apre",
-    "status": "RISOLTO",
-    "note": "Risolto"
-  },
-  {
     "id": 1793970536370,
     "timestamp": "14:08:56 - 06/11/2026",
     "reparto": "Oncologia",
