@@ -7,7 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Frigor fermo",
-    "status": "SOSPESO",
-    "note": "In sospeso rrrr"
+    "status": "RISOLTO",
+    "note": "Risolto"
   }
 ]
