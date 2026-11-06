@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793953593313,
-    "timestamp": "09:26:33 - 06/11/2026",
-    "reparto": "oncologia",
-    "title": "Mancanza di corrente",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "LAS",
-    "status": "RISOLTO",
-    "note": "Risolto"
-  },
-  {
     "id": 1793953326601,
     "timestamp": "09:22:06 - 06/11/2026",
     "reparto": "medicina",
