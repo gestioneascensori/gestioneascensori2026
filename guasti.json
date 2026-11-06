@@ -7,7 +7,8 @@
     "ambito": "Idraulico",
     "priority": "Critica",
     "description": "Chiamato reperibile",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto"
   },
   {
     "id": 1793955611822,
