@@ -7,6 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "frigor fermo",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In sospeso"
   }
 ]
