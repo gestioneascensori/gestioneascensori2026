@@ -28,6 +28,7 @@
     "ambito": "Altro",
     "priority": "Media",
     "description": "Ciao",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "chiamato tecnico "
   }
 ]
