@@ -1,18 +1,18 @@
 [
   {
-    "timestamp": "06/11/2026, 20:23:16",
+    "timestamp": "06/11/2026, 20:23:23",
     "action": "Stato -> RISOLTO",
-    "title": "Oncologia - Perdita di Acqua"
+    "title": "Oncologia - Perdita di Acqua (Risolto)"
   },
   {
-    "timestamp": "06/11/2026, 20:22:56",
+    "timestamp": "06/11/2026, 20:22:53",
+    "action": "Stato -> SOSPESO",
+    "title": "Oncologia - Perdita di Acqua (In sospeso)"
+  },
+  {
+    "timestamp": "06/11/2026, 20:22:33",
     "action": "Nuova Segnalazione",
     "title": "Oncologia - Perdita di Acqua"
-  },
-  {
-    "timestamp": "06/11/2026, 20:19:01",
-    "action": "Eliminazione Intervento",
-    "title": "Oncologia - Tgard"
   },
   {
     "timestamp": "06/11/2026, 20:14:13",
