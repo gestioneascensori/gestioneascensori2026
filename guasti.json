@@ -29,7 +29,8 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Gg",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1793949110021,
