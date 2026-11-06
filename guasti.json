@@ -7,6 +7,7 @@
     "ambito": "Idraulico",
     "priority": "Media",
     "description": "Chiamato turista",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In sospeso"
   }
 ]
