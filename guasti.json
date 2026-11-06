@@ -20,16 +20,6 @@
     "status": "APERTO"
   },
   {
-    "id": 1793949349294,
-    "timestamp": "08:15:49 - 06/11/2026",
-    "reparto": "oncologia",
-    "title": "Chiamata infermieri",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "as",
-    "status": "APERTO"
-  },
-  {
     "id": 1793949110021,
     "timestamp": "08:11:50 - 06/11/2026",
     "reparto": "DIABETOLOGIA",
