@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "06/11/2026, 20:02:08",
+    "action": "Eliminazione Intervento",
+    "title": "Test 2 - Sensori antincendio"
+  },
+  {
     "timestamp": "06/11/2026, 19:57:54",
     "action": "Stato -> RISOLTO",
     "title": "Test 2 - Sensori antincendio (Risolto)"
