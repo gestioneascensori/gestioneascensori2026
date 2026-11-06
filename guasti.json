@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1793991769531,
+    "timestamp": "20:02:49 - 06/11/2026",
+    "reparto": "Oncologia",
+    "title": "Tgard",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Frigor Emoteca fermo",
+    "status": "APERTO"
+  }
+]
