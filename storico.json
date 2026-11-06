@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "06/11/2026, 20:38:13",
+    "action": "Nuova Segnalazione",
+    "title": "Test - Porte Automatiche"
+  },
+  {
     "timestamp": "06/11/2026, 20:32:43",
     "action": "Stato -> RISOLTO",
     "title": "Test - Mancanza di corrente (Risolto)"
