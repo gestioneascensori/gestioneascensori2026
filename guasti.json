@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1793945092923,
+    "timestamp": "07:04:52 - 06/11/2026",
+    "reparto": "Priva",
+    "title": "Mancanza di corrente",
+    "ambito": "Elettrico",
+    "priority": "Media",
+    "description": "Yhh",
+    "status": "APERTO"
+  }
+]
