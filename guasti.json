@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Tutto fermo",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto con ticjet \n"
   },
   {
     "id": 1793972035361,
