@@ -49,16 +49,5 @@
     "description": "NON SI COMPRENDE LA CHIAMATA",
     "status": "RISOLTO",
     "note": "Risolto e collaudato"
-  },
-  {
-    "id": 1793948725296,
-    "timestamp": "08:05:25 - 06/11/2026",
-    "reparto": "Oncologia",
-    "title": "UPS",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "Tutto Fe rmo",
-    "status": "RISOLTO",
-    "note": "Risolto e testato regolarmente"
   }
 ]
