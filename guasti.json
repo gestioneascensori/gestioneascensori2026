@@ -18,7 +18,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Ferno tutto",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto"
   },
   {
     "id": 1793953593313,
