@@ -1,8 +1,7 @@
 {
   "1": {
-    "status": "fermo",
-    "ticket": "3305642",
-    "motivation": "Fermo piano 9"
+    "status": "guasto",
+    "note": "Attesa tecnici lunedì 9/11"
   },
   "2": {
     "status": "funzionante",
