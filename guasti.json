@@ -1,5 +1,15 @@
 [
   {
+    "id": 1793953326601,
+    "timestamp": "09:22:06 - 06/11/2026",
+    "reparto": "medicina",
+    "title": "Sensori antincendio",
+    "ambito": "Elettrico",
+    "priority": "Media",
+    "description": "da verificare",
+    "status": "APERTO"
+  },
+  {
     "id": 1793953277304,
     "timestamp": "09:21:17 - 06/11/2026",
     "reparto": "dietologia",
