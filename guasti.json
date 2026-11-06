@@ -18,7 +18,7 @@
     "ambito": "Idraulico",
     "priority": "Media",
     "description": "test",
-    "status": "SOSPESO",
-    "note": "In sospeso test"
+    "status": "RISOLTO",
+    "note": "1Risolto e collaudato"
   }
 ]
