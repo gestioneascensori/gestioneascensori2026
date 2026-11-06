@@ -7,6 +7,7 @@
     "ambito": "Altro",
     "priority": "Media",
     "description": "Test",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto e collaudato"
   }
 ]
