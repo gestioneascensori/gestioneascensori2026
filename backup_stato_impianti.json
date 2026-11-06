@@ -1,6 +1,8 @@
 {
   "1": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Fermo piano 9"
   },
   "2": {
     "status": "funzionante",
