@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "06/11/2026, 19:57:44",
+    "action": "Stato -> RISOLTO",
+    "title": "Test 2 - Sensori antincendio"
+  },
+  {
     "timestamp": "06/11/2026, 19:57:19",
     "action": "Stato -> SOSPESO",
     "title": "Test 2 - Sensori antincendio (In sospeso)"
