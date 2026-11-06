@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "06/11/2026, 09:33:29",
+    "action": "Stato -> RISOLTO",
+    "title": "oncologia - Mancanza di corrente"
+  },
+  {
     "timestamp": "06/11/2026, 09:33:18",
     "action": "Stato -> SOSPESO",
     "title": "oncologia - Mancanza di corrente (In attesa di verifiche)"
