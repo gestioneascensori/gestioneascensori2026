@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793952531063,
-    "timestamp": "09:08:51 - 06/11/2026",
-    "reparto": "test",
-    "title": "Porte REI",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "asdasd",
-    "status": "RISOLTO",
-    "note": "Risolto"
-  },
-  {
     "id": 1793952453134,
     "timestamp": "09:07:33 - 06/11/2026",
     "reparto": "Oncologia",
