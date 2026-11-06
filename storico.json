@@ -1,38 +1,8 @@
 [
   {
-    "timestamp": "06/11/2026, 09:01:31",
-    "action": "Eliminazione Intervento",
+    "timestamp": "06/11/2026, 09:01:35",
+    "action": "Stato -> RISOLTO",
     "title": "Test - Altro: Ok"
-  },
-  {
-    "timestamp": "06/11/2026, 09:01:23",
-    "action": "Eliminazione Intervento",
-    "title": "test - Mancanza di corrente"
-  },
-  {
-    "timestamp": "06/11/2026, 09:01:16",
-    "action": "Eliminazione Intervento",
-    "title": "sadasdasdas - Porte REI"
-  },
-  {
-    "timestamp": "06/11/2026, 09:00:59",
-    "action": "Stato -> RISOLTO",
-    "title": "Test - Altro: Ok (Risolto e collaudato)"
-  },
-  {
-    "timestamp": "06/11/2026, 09:00:55",
-    "action": "Stato -> RISOLTO",
-    "title": "Test - Altro: Ok (Risolto e collaudato)"
-  },
-  {
-    "timestamp": "06/11/2026, 09:00:48",
-    "action": "Stato -> RISOLTO",
-    "title": "test - Mancanza di corrente (Risolto e collaudato)"
-  },
-  {
-    "timestamp": "06/11/2026, 09:00:44",
-    "action": "Stato -> RISOLTO",
-    "title": "test - Mancanza di corrente (Risolto e collaudato)"
   },
   {
     "timestamp": "06/11/2026, 09:00:35",
