@@ -1,5 +1,15 @@
 [
   {
+    "id": 1793993075626,
+    "timestamp": "20:24:35 - 06/11/2026",
+    "reparto": "Oncologia",
+    "title": "Mancanza di corrente",
+    "ambito": "Elettrico",
+    "priority": "Media",
+    "description": "Guasti porte",
+    "status": "APERTO"
+  },
+  {
     "id": 1793992945506,
     "timestamp": "20:22:25 - 06/11/2026",
     "reparto": "Oncologia",
