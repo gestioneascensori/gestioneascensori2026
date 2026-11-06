@@ -1,16 +1,5 @@
 [
   {
-    "id": 1793954755317,
-    "timestamp": "09:45:55 - 06/11/2026",
-    "reparto": "Test",
-    "title": "Mancanza di corrente",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Ferno tutto",
-    "status": "RISOLTO",
-    "note": "Risolto"
-  },
-  {
     "id": 1793953593313,
     "timestamp": "09:26:33 - 06/11/2026",
     "reparto": "oncologia",
