@@ -1,15 +1,5 @@
 [
   {
-    "id": 1793955006975,
-    "timestamp": "09:50:06 - 06/11/2026",
-    "reparto": "test",
-    "title": "Porte Automatiche",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "asas",
-    "status": "APERTO"
-  },
-  {
     "id": 1793954795524,
     "timestamp": "09:46:35 - 06/11/2026",
     "reparto": "Oncologia",
