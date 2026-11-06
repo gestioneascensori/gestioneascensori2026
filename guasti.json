@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1793992386215,
+    "timestamp": "20:13:06 - 06/11/2026",
+    "reparto": "Oncologia",
+    "title": "Tgard",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Frigor fermo",
+    "status": "APERTO"
+  }
+]
