@@ -7,7 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Frigor Emoteca fermo",
-    "status": "SOSPESO",
-    "note": "In sospeso"
+    "status": "RISOLTO",
+    "note": "Risolto con successo"
   }
 ]
