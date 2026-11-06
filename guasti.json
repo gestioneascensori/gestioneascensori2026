@@ -20,16 +20,5 @@
     "description": "NON SI APRONO PORTE",
     "status": "RISOLTO",
     "note": "Risolto e collaudato"
-  },
-  {
-    "id": 1793953218097,
-    "timestamp": "09:20:18 - 06/11/2026",
-    "reparto": "ONCOLOGIA",
-    "title": "Tgard",
-    "ambito": "Elettrico",
-    "priority": "Media",
-    "description": "FRIGOR FERMO",
-    "status": "RISOLTO",
-    "note": "Risolto"
   }
 ]
