@@ -17,7 +17,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Tutto fermo",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto"
   },
   {
     "id": 1793955566858,
