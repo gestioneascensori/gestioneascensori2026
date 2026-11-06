@@ -1,5 +1,15 @@
 [
   {
+    "id": 1793955611822,
+    "timestamp": "10:00:11 - 06/11/2026",
+    "reparto": "Ginecologa",
+    "title": "Mancanza di corrente",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Tutto fermo",
+    "status": "APERTO"
+  },
+  {
     "id": 1793955566858,
     "timestamp": "09:59:26 - 06/11/2026",
     "reparto": "Oncologia",
