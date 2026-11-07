@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Hhg",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In sospeso"
   },
   {
     "id": 1794093597496,
