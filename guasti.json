@@ -1,16 +1,5 @@
 [
   {
-    "id": 1794094232209,
-    "timestamp": "00:30:32 - 08/11/2026",
-    "reparto": "Oncologia",
-    "title": "Sensori antincendio",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Vhhhh",
-    "status": "RISOLTO",
-    "note": "Risolto tuti"
-  },
-  {
     "id": 1794093904067,
     "timestamp": "00:25:04 - 08/11/2026",
     "reparto": "Test",
