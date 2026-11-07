@@ -1,8 +1,13 @@
 [
   {
-    "timestamp": "08/11/2026, 00:04:16",
+    "timestamp": "08/11/2026, 00:12:05",
+    "action": "Nuova Segnalazione",
+    "title": "Ginecologa - Sensori antincendio"
+  },
+  {
+    "timestamp": "08/11/2026, 00:04:17",
     "action": "Stato -> RISOLTO",
-    "title": "Medicina 6B - Mancanza di corrente"
+    "title": "Medicina 6B - Mancanza di corrente (Risolto dal turnista veolia)"
   },
   {
     "timestamp": "08/11/2026, 00:03:57",
