@@ -1,8 +1,13 @@
 [
   {
-    "timestamp": "08/11/2026, 00:31:11",
-    "action": "Stato -> RISOLTO",
+    "timestamp": "08/11/2026, 00:32:12",
+    "action": "Eliminazione Intervento",
     "title": "Oncologia - Sensori antincendio"
+  },
+  {
+    "timestamp": "08/11/2026, 00:31:12",
+    "action": "Stato -> RISOLTO",
+    "title": "Oncologia - Sensori antincendio (Risolto tuti)"
   },
   {
     "timestamp": "08/11/2026, 00:31:02",
