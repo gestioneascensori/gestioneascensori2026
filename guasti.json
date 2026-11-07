@@ -1,16 +1,5 @@
 [
   {
-    "id": 1794093597496,
-    "timestamp": "00:19:57 - 08/11/2026",
-    "reparto": "Test",
-    "title": "Sensori antincendio",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Ciao",
-    "status": "RISOLTO",
-    "note": "Risolto con successo "
-  },
-  {
     "id": 1794093471874,
     "timestamp": "00:17:51 - 08/11/2026",
     "reparto": "Ginecologa",
