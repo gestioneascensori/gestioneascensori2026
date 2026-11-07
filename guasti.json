@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Ciao",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto con successo "
   },
   {
     "id": 1794093471874,
