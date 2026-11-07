@@ -230,6 +230,19 @@
    "deleted": false,
    "files": [],
    "remind": 0
+  },
+  {
+   "id": "mw6i342s76w6gb",
+   "title": "L104/92",
+   "date": "2026-11-18",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1794061820260,
+   "deleted": false,
+   "files": [],
+   "remind": 10
   }
  ]
 }
