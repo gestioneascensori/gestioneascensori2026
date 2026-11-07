@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "08/11/2026, 00:25:20",
+    "action": "Stato -> SOSPESO",
+    "title": "Test - Mancanza di corrente"
+  },
+  {
     "timestamp": "08/11/2026, 00:25:12",
     "action": "Nuova Segnalazione",
     "title": "Test - Mancanza di corrente"
