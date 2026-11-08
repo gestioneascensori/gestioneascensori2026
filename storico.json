@@ -1,8 +1,13 @@
 [
   {
-    "timestamp": "08/11/2026, 01:41:51",
+    "timestamp": "08/11/2026, 01:42:42",
+    "action": "Nuova Segnalazione",
+    "title": "Medicina 6b - Chiamata infermieri"
+  },
+  {
+    "timestamp": "08/11/2026, 01:41:52",
     "action": "Stato -> RISOLTO",
-    "title": "Ginecologa - Controllo Accessi"
+    "title": "Ginecologa - Controllo Accessi (Risolto)"
   },
   {
     "timestamp": "08/11/2026, 01:41:42",
