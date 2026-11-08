@@ -1,6 +1,16 @@
 [
   {
-    "timestamp": "08/11/2026, 02:07:32",
+    "timestamp": "08/11/2026, 02:07:45",
+    "action": "Stato -> RISOLTO",
+    "title": "Test - Mancanza di corrente"
+  },
+  {
+    "timestamp": "08/11/2026, 02:07:45",
+    "action": "Stato -> RISOLTO",
+    "title": "Test - Mancanza di corrente"
+  },
+  {
+    "timestamp": "08/11/2026, 02:07:44",
     "action": "Stato -> RISOLTO",
     "title": "Test - Mancanza di corrente"
   },
