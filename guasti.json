@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Hhh",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In sospeso"
   },
   {
     "id": 1794098605504,
