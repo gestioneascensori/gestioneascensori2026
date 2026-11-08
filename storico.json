@@ -1,8 +1,13 @@
 [
   {
-    "timestamp": "08/11/2026, 01:54:51",
+    "timestamp": "08/11/2026, 01:55:32",
+    "action": "Nuova Segnalazione",
+    "title": "Oncologia - Controllo Accessi"
+  },
+  {
+    "timestamp": "08/11/2026, 01:54:52",
     "action": "Stato -> RISOLTO",
-    "title": "Oncologia - UPS"
+    "title": "Oncologia - UPS (Risolto)"
   },
   {
     "timestamp": "08/11/2026, 01:54:42",
