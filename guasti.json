@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1794124375959,
+    "timestamp": "08:52:55 - 08/11/2026",
+    "reparto": "Oncologia",
+    "title": "Sensori antincendio",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Allarme",
+    "status": "APERTO"
+  }
+]
