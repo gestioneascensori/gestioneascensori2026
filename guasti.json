@@ -7,7 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Allarme",
-    "status": "SOSPESO",
-    "note": "In attesa di verifiche"
+    "status": "RISOLTO",
+    "note": "Risolto"
   }
 ]
