@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Portare campanello",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto portato campanello reparto"
   },
   {
     "id": 1794098496405,
