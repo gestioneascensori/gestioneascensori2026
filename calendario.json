@@ -38,7 +38,7 @@
    "updatedAt": 1793093075512,
    "deleted": true,
    "files": [],
-   "remind": 0
+   "remind": -1
   },
   {
    "id": "mvqh8v64wf3hq9",
@@ -51,7 +51,7 @@
    "updatedAt": 1793093097191,
    "deleted": true,
    "files": [],
-   "remind": 0
+   "remind": -1
   },
   {
    "id": "mvqhd5id3ujxv3",
@@ -79,7 +79,7 @@
      "up": true
     }
    ],
-   "remind": 0
+   "remind": -1
   },
   {
    "id": "mvpza71cekhlds",
@@ -113,7 +113,7 @@
    "updatedAt": 1793170175666,
    "deleted": true,
    "files": [],
-   "remind": 10
+   "remind": -1
   },
   {
    "id": "mvrzt34aaya5rq",
@@ -195,7 +195,7 @@
      "up": true
     }
    ],
-   "remind": 10
+   "remind": -1
   },
   {
    "id": "mvv3pe5cw0aw4h",
@@ -216,7 +216,7 @@
      "up": true
     }
    ],
-   "remind": 60
+   "remind": -1
   },
   {
    "id": "mvvfz6x74dootx",
@@ -229,7 +229,7 @@
    "updatedAt": 1793393150155,
    "deleted": false,
    "files": [],
-   "remind": 0
+   "remind": -1
   },
   {
    "id": "mw6i342s76w6gb",
@@ -242,7 +242,7 @@
    "updatedAt": 1794061820260,
    "deleted": false,
    "files": [],
-   "remind": 10
+   "remind": -1
   },
   {
    "id": "mw6i3d1virbt65",
@@ -255,7 +255,7 @@
    "updatedAt": 1794061831891,
    "deleted": false,
    "files": [],
-   "remind": 10
+   "remind": -1
   },
   {
    "id": "mw9jfavnm5n74l",
@@ -268,7 +268,7 @@
    "updatedAt": 1794245467091,
    "deleted": false,
    "files": [],
-   "remind": 10
+   "remind": -1
   },
   {
    "id": "mw9jfgmkx1qnga",
@@ -281,7 +281,7 @@
    "updatedAt": 1794245474540,
    "deleted": false,
    "files": [],
-   "remind": 10
+   "remind": -1
   }
  ]
 }
