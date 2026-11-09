@@ -1,5 +1,15 @@
 [
   {
+    "id": 1794229288498,
+    "timestamp": "14:01:28 - 09/11/2026",
+    "reparto": "Oncologia",
+    "title": "Sensori antincendio",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Guasto sensore stanza 2",
+    "status": "APERTO"
+  },
+  {
     "id": 1794229177700,
     "timestamp": "13:59:37 - 09/11/2026",
     "reparto": "Rianimazione",
