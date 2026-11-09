@@ -41,7 +41,9 @@
     "status": "funzionante"
   },
   "13": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Spenti"
   },
   "14": {
     "status": "funzionante"
