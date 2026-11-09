@@ -1,16 +1,5 @@
 [
   {
-    "id": 1794232184943,
-    "timestamp": "14:49:44 - 09/11/2026",
-    "reparto": "Oncologia",
-    "title": "Altro: CAMPANELLI",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "GUASTO",
-    "status": "SOSPESO",
-    "note": "GIrato al fornitore"
-  },
-  {
     "id": 1794231619133,
     "timestamp": "14:40:19 - 09/11/2026",
     "reparto": "8d",
