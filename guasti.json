@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "GUASTO",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In sospeso per attesa tecnico"
   },
   {
     "id": 1794231619133,
