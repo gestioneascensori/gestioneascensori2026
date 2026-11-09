@@ -7,7 +7,8 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Guasto sensore stanza 2",
-    "status": "APERTO"
+    "status": "RISOLTO",
+    "note": "Risolto"
   },
   {
     "id": 1794229177700,
