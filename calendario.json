@@ -11,7 +11,8 @@
    "notes": "L104/92",
    "updatedAt": 1793184893688,
    "deleted": true,
-   "files": []
+   "files": [],
+   "remind": -1
   },
   {
    "id": "mvq03q8jx73v70",
@@ -23,7 +24,8 @@
    "notes": "",
    "updatedAt": 1793064163114,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": -1
   },
   {
    "id": "mvqgttuh0lua71",
@@ -35,7 +37,8 @@
    "notes": "",
    "updatedAt": 1793093075512,
    "deleted": true,
-   "files": []
+   "files": [],
+   "remind": 0
   },
   {
    "id": "mvqh8v64wf3hq9",
@@ -47,7 +50,8 @@
    "notes": "Test",
    "updatedAt": 1793093097191,
    "deleted": true,
-   "files": []
+   "files": [],
+   "remind": 0
   },
   {
    "id": "mvqhd5id3ujxv3",
@@ -74,7 +78,8 @@
      "size": 1875380,
      "up": true
     }
-   ]
+   ],
+   "remind": 0
   },
   {
    "id": "mvpza71cekhlds",
@@ -94,7 +99,8 @@
      "size": 1148926,
      "up": true
     }
-   ]
+   ],
+   "remind": -1
   },
   {
    "id": "mvrr75ngm5re38",
@@ -106,7 +112,8 @@
    "notes": "",
    "updatedAt": 1793170175666,
    "deleted": true,
-   "files": []
+   "files": [],
+   "remind": 10
   },
   {
    "id": "mvrzt34aaya5rq",
@@ -133,7 +140,8 @@
      "size": 132852,
      "up": true
     }
-   ]
+   ],
+   "remind": -1
   },
   {
    "id": "mvq05sa83xyz55",
@@ -145,7 +153,8 @@
    "notes": "Test",
    "updatedAt": 1793187314513,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": -1
   },
   {
    "id": "mvpznbpe8pqjbp",
@@ -157,7 +166,8 @@
    "notes": "L104/92 verificare",
    "updatedAt": 1793260070595,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": -1
   },
   {
    "id": "mvuzgdz77ydxjl",
@@ -184,7 +194,8 @@
      "size": 248962,
      "up": true
     }
-   ]
+   ],
+   "remind": 10
   },
   {
    "id": "mvv3pe5cw0aw4h",
@@ -204,7 +215,8 @@
      "size": 73469,
      "up": true
     }
-   ]
+   ],
+   "remind": 60
   },
   {
    "id": "mvvfz6x74dootx",
@@ -216,7 +228,8 @@
    "notes": "",
    "updatedAt": 1793393150155,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": 0
   },
   {
    "id": "mw6i342s76w6gb",
@@ -228,7 +241,8 @@
    "notes": "",
    "updatedAt": 1794061820260,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": 10
   },
   {
    "id": "mw6i3d1virbt65",
@@ -240,7 +254,8 @@
    "notes": "",
    "updatedAt": 1794061831891,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": 10
   },
   {
    "id": "mw9jfavnm5n74l",
@@ -252,7 +267,8 @@
    "notes": "",
    "updatedAt": 1794245467091,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": 10
   },
   {
    "id": "mw9jfgmkx1qnga",
@@ -264,7 +280,8 @@
    "notes": "",
    "updatedAt": 1794245474540,
    "deleted": false,
-   "files": []
+   "files": [],
+   "remind": 10
   }
  ]
 }
