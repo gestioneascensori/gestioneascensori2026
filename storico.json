@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "09/11/2026, 14:05:28",
+    "action": "Eliminazione",
+    "title": "Rianimazione - Controllo Accessi"
+  },
+  {
+    "timestamp": "09/11/2026, 14:05:24",
+    "action": "Eliminazione",
+    "title": "Oncologia - Sensori antincendio"
+  },
+  {
     "timestamp": "09/11/2026, 14:02:22",
     "action": "Stato -> RISOLTO",
     "title": "Rianimazione - Controllo Accessi"
