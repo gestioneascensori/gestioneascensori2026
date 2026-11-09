@@ -7,6 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Alta",
     "description": "qqwq",
-    "status": "APERTO"
+    "status": "SOSPESO",
+    "note": "In sospeso tecnico"
   }
 ]
