@@ -290,6 +290,19 @@
     }
    ],
    "remind": -1
+  },
+  {
+   "id": "mwb3208exyyi1g",
+   "title": "Dentista ore 10 Varedo",
+   "date": "2026-11-20",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1794338905262,
+   "deleted": false,
+   "files": [],
+   "remind": 10
   }
  ]
 }
