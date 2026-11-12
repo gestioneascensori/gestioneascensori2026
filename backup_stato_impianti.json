@@ -4,7 +4,7 @@
     "note": "Attesa tecnici lunedì 9/11"
   },
   "2": {
-    "status": "funzionante",
+    "status": "fermo",
     "history": [
       {
         "date": "29/09/2026, 17:42",
@@ -14,7 +14,9 @@
         "date": "29/09/2026, 17:38",
         "desc": "Stato modificato in: FERMO"
       }
-    ]
+    ],
+    "ticket": "",
+    "motivation": "Test"
   },
   "3": {
     "status": "funzionante"
