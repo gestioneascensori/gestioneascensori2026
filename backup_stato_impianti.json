@@ -237,8 +237,9 @@
     "status": "funzionante"
   },
   "14 DEA": {
-    "status": "guasto",
-    "note": "In Attesa di verifica forza motrice e messa in sicurezza "
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Pompa motore"
   },
   "VIA ASSIETTA - MILANO": {
     "status": "funzionante"
