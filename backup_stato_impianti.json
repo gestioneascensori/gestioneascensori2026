@@ -74,9 +74,7 @@
     "note": "Fermo "
   },
   "17": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Problema porte fermo 3 piano fs"
+    "status": "funzionante"
   },
   "18": {
     "status": "funzionante"
