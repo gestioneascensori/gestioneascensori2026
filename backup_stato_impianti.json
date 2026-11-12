@@ -1,7 +1,6 @@
 {
   "1": {
-    "status": "guasto",
-    "note": "Attesa tecnici lunedì 9/11"
+    "status": "funzionante"
   },
   "2": {
     "status": "funzionante",
