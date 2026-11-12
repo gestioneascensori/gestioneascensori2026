@@ -48,9 +48,7 @@
     "motivation": "Spenti"
   },
   "14": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Pompa motore"
+    "status": "funzionante"
   },
   "15": {
     "status": "funzionante",
