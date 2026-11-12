@@ -4,7 +4,7 @@
     "note": "Attesa tecnici lunedì 9/11"
   },
   "2": {
-    "status": "guasto",
+    "status": "funzionante",
     "history": [
       {
         "date": "29/09/2026, 17:42",
@@ -14,8 +14,7 @@
         "date": "29/09/2026, 17:38",
         "desc": "Stato modificato in: FERMO"
       }
-    ],
-    "note": "Ttt"
+    ]
   },
   "3": {
     "status": "funzionante"
