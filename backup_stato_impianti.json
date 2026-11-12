@@ -34,9 +34,7 @@
     "status": "funzionante"
   },
   "9": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "Test"
+    "status": "funzionante"
   },
   "12": {
     "status": "funzionante"
