@@ -17,7 +17,9 @@
     "note": "Impianto funzionante ma con problema porte-2S tk 3310521"
   },
   "3": {
-    "status": "funzionante"
+    "status": "funzionante",
+    "ticket": "",
+    "motivation": "asdasd"
   },
   "4": {
     "status": "funzionante"
