@@ -73,7 +73,9 @@
     "motivation": "attesa limitatore"
   },
   "17": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "18": {
     "status": "funzionante"
