@@ -124,9 +124,7 @@
     "status": "funzionante"
   },
   "33": {
-    "status": "fermo",
-    "ticket": "3310508",
-    "motivation": "IMPIANTO SPENTO PER URTO PORTE"
+    "status": "funzionante"
   },
   "34": {
     "status": "fermo",
