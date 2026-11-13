@@ -3,7 +3,7 @@
     "status": "funzionante"
   },
   "2": {
-    "status": "funzionante",
+    "status": "guasto",
     "history": [
       {
         "date": "29/09/2026, 17:42",
@@ -13,7 +13,8 @@
         "date": "29/09/2026, 17:38",
         "desc": "Stato modificato in: FERMO"
       }
-    ]
+    ],
+    "note": "Impianto funzionante ma con problema porte-2S tk 3310521"
   },
   "3": {
     "status": "funzionante"
