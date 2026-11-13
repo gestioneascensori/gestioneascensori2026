@@ -22,7 +22,9 @@
     "motivation": "asdasd"
   },
   "4": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": ""
   },
   "5": {
     "status": "funzionante"
