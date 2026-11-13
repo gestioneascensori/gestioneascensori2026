@@ -137,9 +137,7 @@
     "motivation": "IMPIANTO SPENTO PER URTO PORTE"
   },
   "35": {
-    "status": "fermo",
-    "ticket": "",
-    "motivation": "test"
+    "status": "funzionante"
   },
   "36": {
     "status": "funzionante"
