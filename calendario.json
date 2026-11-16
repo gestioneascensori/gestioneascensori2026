@@ -303,6 +303,19 @@
    "deleted": false,
    "files": [],
    "remind": 10
+  },
+  {
+   "id": "mwizb8tfq8cxqm",
+   "title": "Compleanno Enza",
+   "date": "2026-11-16",
+   "start": "09:10",
+   "end": "09:20",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1794816347235,
+   "deleted": false,
+   "files": [],
+   "remind": 0
   }
  ]
 }
