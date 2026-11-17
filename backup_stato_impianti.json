@@ -124,7 +124,9 @@
     "status": "funzionante"
   },
   "33": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "fermo al piano"
   },
   "34": {
     "status": "funzionante"
