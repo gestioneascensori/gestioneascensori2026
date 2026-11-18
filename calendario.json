@@ -316,6 +316,19 @@
    "deleted": false,
    "files": [],
    "remind": 0
+  },
+  {
+   "id": "mwm2d0rh6p1q3c",
+   "title": "Corso Rls",
+   "date": "2026-12-03",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1795002867485,
+   "deleted": false,
+   "files": [],
+   "remind": 10
   }
  ]
 }
