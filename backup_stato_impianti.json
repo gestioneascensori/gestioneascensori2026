@@ -200,7 +200,9 @@
     "status": "funzionante"
   },
   "4 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Con porte aperte "
   },
   "5 DEA": {
     "status": "funzionante"
