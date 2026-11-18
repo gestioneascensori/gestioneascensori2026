@@ -223,7 +223,8 @@
   },
   "10 DEA": {
     "status": "fermo",
-    "motivation": "fermo per\nriparazione (blocco meccanico (--1)\nrotto, pattini scorrimento anta veloce\ncabina fuori binario."
+    "motivation": "fermo per\nriparazione (blocco meccanico (--1)\nrotto, pattini scorrimento anta veloce\ncabina fuori binario.",
+    "ticket": ""
   },
   "11 DEA": {
     "status": "funzionante"
