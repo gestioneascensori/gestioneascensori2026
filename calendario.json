@@ -329,6 +329,19 @@
    "deleted": false,
    "files": [],
    "remind": 10
+  },
+  {
+   "id": "mwowmy1kim8elg",
+   "title": "Dentista ore 14",
+   "date": "2026-11-23",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1795174651352,
+   "deleted": false,
+   "files": [],
+   "remind": 10
   }
  ]
 }
