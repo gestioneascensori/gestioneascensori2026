@@ -8,8 +8,14 @@
     "priority": "Alta",
     "description": "tewst",
     "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "In sospeso1"
+    "statusHistory": [
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso1",
+        "timestamp": "23/11/2026, 20:39:07"
+      }
+    ],
+    "note": "In sospeso2"
   },
   {
     "id": 1795023704556,
