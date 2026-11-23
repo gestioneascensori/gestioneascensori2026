@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 10:25:18",
-    "action": "Stato -> RISOLTO",
-    "title": "oncologia - Porte/cancelli"
-  },
-  {
-    "timestamp": "23/11/2026, 10:24:31",
-    "action": "Aggiornamento Sospeso / Nota",
-    "title": "oncologia - Porte/cancelli (Nota: In sospesorrrr1233)"
-  },
-  {
-    "timestamp": "23/11/2026, 10:18:19",
-    "action": "Stato -> SOSPESO",
-    "title": "oncologia - Porte/cancelli"
-  },
-  {
-    "timestamp": "23/11/2026, 10:17:55",
-    "action": "Aggiornamento Nota Sospeso",
-    "title": "oncologia - Porte/cancelli (Nota: In attesa di verifiche 3)"
-  },
-  {
-    "timestamp": "23/11/2026, 10:16:46",
-    "action": "Stato -> SOSPESO",
-    "title": "oncologia - Porte/cancelli"
-  },
-  {
-    "timestamp": "23/11/2026, 10:16:34",
-    "action": "Stato -> SOSPESO",
-    "title": "oncologia - Porte/cancelli"
-  },
-  {
-    "timestamp": "23/11/2026, 10:16:20",
-    "action": "Stato -> SOSPESO",
-    "title": "oncologia - Porte/cancelli"
-  },
-  {
-    "timestamp": "23/11/2026, 09:57:24",
-    "action": "Ripristino Backup JSON",
-    "title": "Caricati 1 elementi da file"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
