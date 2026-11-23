@@ -331,6 +331,19 @@
    "remind": 10
   },
   {
+   "id": "mwowmy1kim8elg",
+   "title": "Dentista ore 14",
+   "date": "2026-11-23",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1795417711426,
+   "deleted": false,
+   "files": [],
+   "remind": 10
+  },
+  {
    "id": "mwsxbsz6zee10c",
    "title": "MALATTIA",
    "date": "2026-11-18",
@@ -370,19 +383,6 @@
    "remind": 10
   },
   {
-   "id": "mwowmy1kim8elg",
-   "title": "Dentista ore 14",
-   "date": "2026-11-23",
-   "start": "",
-   "end": "",
-   "color": "#0a84ff",
-   "notes": "",
-   "updatedAt": 1795417711426,
-   "deleted": false,
-   "files": [],
-   "remind": 10
-  },
-  {
    "id": "mwsxcxbezyyftn",
    "title": "PERMESSO PER VISITA DA INSERIRE NEL PORTALE",
    "date": "2026-11-23",
@@ -404,6 +404,19 @@
    "color": "#0a84ff",
    "notes": "",
    "updatedAt": 1795417743394,
+   "deleted": false,
+   "files": [],
+   "remind": 10
+  },
+  {
+   "id": "mwszp95zt60w7w",
+   "title": "sarò assente dalle ore 9 alle ore 13 per permesso sindacale RSU",
+   "date": "2026-11-02",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1795421662631,
    "deleted": false,
    "files": [],
    "remind": 10
