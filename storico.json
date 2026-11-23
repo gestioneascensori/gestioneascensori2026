@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 12:26:58",
-    "action": "Eliminazione Intervento",
-    "title": "oncologia - Porte REI"
-  },
-  {
-    "timestamp": "23/11/2026, 12:26:47",
-    "action": "Eliminazione Intervento",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 12:25:22",
-    "action": "Stato -> RISOLTO",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 12:25:04",
-    "action": "Stato -> SOSPESO",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 12:24:23",
-    "action": "Stato -> RISOLTO",
-    "title": "oncologia - Porte REI"
-  },
-  {
-    "timestamp": "23/11/2026, 12:23:59",
-    "action": "Stato -> SOSPESO",
-    "title": "oncologia - Porte REI"
-  },
-  {
-    "timestamp": "23/11/2026, 12:23:49",
-    "action": "Stato -> SOSPESO",
-    "title": "oncologia - Porte REI"
-  },
-  {
-    "timestamp": "23/11/2026, 11:22:59",
-    "action": "Nuova Segnalazione",
-    "title": "oncologia - Porte REI"
-  },
-  {
-    "timestamp": "23/11/2026, 11:21:47",
-    "action": "Eliminazione Intervento",
-    "title": "Oncologia - Controllo Accessi"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
