@@ -1,33 +1,5 @@
 [
   {
-    "id": 1795428644551,
-    "timestamp": "11:10:44 - 23/11/2026",
-    "reparto": "Medicina",
-    "title": "Mancanza di corrente",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Test",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso1",
-        "timestamp": "23/11/2026, 11:11:12"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso 2",
-        "timestamp": "23/11/2026, 11:11:23"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso 3",
-        "timestamp": "23/11/2026, 11:13:37"
-      }
-    ],
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1795428324841,
     "timestamp": "11:05:24 - 23/11/2026",
     "reparto": "Oncologia",
