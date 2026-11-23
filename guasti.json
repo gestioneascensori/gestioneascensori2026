@@ -7,7 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "guasto",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
@@ -28,9 +28,14 @@
         "status": "SOSPESO",
         "note": "In sospeso5",
         "timestamp": "23/11/2026, 10:24:24"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "In sospesorrrr1233",
+        "timestamp": "23/11/2026, 10:25:16"
       }
     ],
-    "note": "In sospesorrrr1233"
+    "note": "Risolto"
   },
   {
     "id": 1795023704556,
