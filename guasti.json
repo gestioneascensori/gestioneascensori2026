@@ -1,28 +1,5 @@
 [
   {
-    "id": 1795427980046,
-    "timestamp": "10:59:40 - 23/11/2026",
-    "reparto": "Ginecologa",
-    "title": "UPS",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Test",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso 1",
-        "timestamp": "23/11/2026, 11:01:21"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso 2",
-        "timestamp": "23/11/2026, 11:02:35"
-      }
-    ],
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1795426847327,
     "timestamp": "10:40:47 - 23/11/2026",
     "reparto": "MEDICINA 4A",
