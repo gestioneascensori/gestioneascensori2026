@@ -1,17 +1,5 @@
 [
   {
-    "id": 1795463541151,
-    "timestamp": "20:52:21 - 23/11/2026",
-    "reparto": "Medicina",
-    "title": "Sensori antincendio",
-    "ambito": "Altro",
-    "priority": "Critica",
-    "description": "Ttg",
-    "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "In sospeso1"
-  },
-  {
     "id": 1795463423466,
     "timestamp": "20:50:23 - 23/11/2026",
     "reparto": "medicina",
