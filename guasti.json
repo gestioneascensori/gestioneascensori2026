@@ -1,28 +1,5 @@
 [
   {
-    "id": 1795463423466,
-    "timestamp": "20:50:23 - 23/11/2026",
-    "reparto": "medicina",
-    "title": "Perdita di Acqua",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "re",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In attesa di verifiche",
-        "timestamp": "23/11/2026, 20:50:54"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso1",
-        "timestamp": "23/11/2026, 20:51:08"
-      }
-    ],
-    "note": "Risolto"
-  },
-  {
     "id": 1795023704556,
     "timestamp": "18:41:44 - 18/11/2026",
     "reparto": "Immuno ematologia",
