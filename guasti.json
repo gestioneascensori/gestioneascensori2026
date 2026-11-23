@@ -7,15 +7,20 @@
     "ambito": "Altro",
     "priority": "Alta",
     "description": "tewst",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
         "note": "In sospeso1",
         "timestamp": "23/11/2026, 20:39:07"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso2",
+        "timestamp": "23/11/2026, 20:39:33"
       }
     ],
-    "note": "In sospeso2"
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1795023704556,
