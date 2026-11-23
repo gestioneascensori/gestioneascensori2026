@@ -1,23 +1,5 @@
 [
   {
-    "id": 1795433081783,
-    "timestamp": "12:24:41 - 23/11/2026",
-    "reparto": "Ginecologia",
-    "title": "Controllo Accessi",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Test",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In sospesor",
-        "timestamp": "23/11/2026, 12:25:20"
-      }
-    ],
-    "note": "Risolto"
-  },
-  {
     "id": 1795429378247,
     "timestamp": "11:22:58 - 23/11/2026",
     "reparto": "oncologia",
