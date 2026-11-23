@@ -7,15 +7,20 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Test",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
         "note": "In attesa di verifiche",
         "timestamp": "23/11/2026, 14:50:20"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "In attesa di verifiche 2",
+        "timestamp": "23/11/2026, 14:50:38"
       }
     ],
-    "note": "In attesa di verifiche 2"
+    "note": "Risolto"
   },
   {
     "id": 1795023704556,
