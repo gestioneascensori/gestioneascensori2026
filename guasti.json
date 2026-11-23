@@ -13,9 +13,14 @@
         "status": "SOSPESO",
         "note": "In attesa di verifiche1",
         "timestamp": "23/11/2026, 15:00:11"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "In attesa di verifiche2",
+        "timestamp": "23/11/2026, 15:00:39"
       }
     ],
-    "note": "In attesa di verifiche2"
+    "note": "In sospeso3"
   },
   {
     "id": 1795023704556,
