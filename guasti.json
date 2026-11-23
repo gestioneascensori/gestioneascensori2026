@@ -7,7 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "aaaa",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
@@ -18,9 +18,14 @@
         "status": "SOSPESO",
         "note": "In sospeso1 ",
         "timestamp": "23/11/2026, 10:42:46"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "CHIMATO REPERIBILE",
+        "timestamp": "23/11/2026, 10:54:46"
       }
     ],
-    "note": "CHIMATO REPERIBILE"
+    "note": "Risolto "
   },
   {
     "id": 1795023704556,
