@@ -1,50 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 11:13:37",
-    "action": "Stato -> RISOLTO",
-    "title": "Medicina - Mancanza di corrente (Nota: Risolto e collaudato)"
-  },
-  {
-    "timestamp": "23/11/2026, 11:11:25",
-    "action": "Stato -> SOSPESO",
-    "title": "Medicina - Mancanza di corrente"
-  },
-  {
-    "timestamp": "23/11/2026, 11:11:14",
-    "action": "Stato -> SOSPESO",
-    "title": "Medicina - Mancanza di corrente"
-  },
-  {
-    "timestamp": "23/11/2026, 11:11:04",
-    "action": "Stato -> SOSPESO",
-    "title": "Medicina - Mancanza di corrente"
-  },
-  {
-    "timestamp": "23/11/2026, 11:10:28",
-    "action": "Stato -> RISOLTO",
-    "title": "Oncologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 11:05:55",
-    "action": "Stato -> SOSPESO",
-    "title": "Oncologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 11:05:42",
-    "action": "Stato -> SOSPESO",
-    "title": "Oncologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 11:04:56",
-    "action": "Eliminazione Intervento",
-    "title": "MEDICINA 4A - UPS"
-  },
-  {
-    "timestamp": "23/11/2026, 11:04:48",
-    "action": "Eliminazione Intervento",
-    "title": "Ginecologa - UPS"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
