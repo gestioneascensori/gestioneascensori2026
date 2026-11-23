@@ -7,9 +7,15 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Ttg",
-    "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "In sospeso"
+    "status": "RISOLTO",
+    "statusHistory": [
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso",
+        "timestamp": "23/11/2026, 21:03:32"
+      }
+    ],
+    "note": "Risolto"
   },
   {
     "id": 1795023704556,
