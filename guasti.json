@@ -7,15 +7,20 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Fermo",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
         "note": "In attesa di verifiche1",
         "timestamp": "23/11/2026, 15:26:53"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso2",
+        "timestamp": "23/11/2026, 15:27:26"
       }
     ],
-    "note": "In sospeso2"
+    "note": "Risolto e collaudato"
   },
   {
     "id": 1795023704556,
