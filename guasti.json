@@ -7,8 +7,9 @@
     "ambito": "Altro",
     "priority": "Critica",
     "description": "Test",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "SOSPESO",
+    "statusHistory": [],
+    "note": "In sospeso"
   },
   {
     "id": 1795023704556,
