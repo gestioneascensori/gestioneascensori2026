@@ -8,8 +8,14 @@
     "priority": "Critica",
     "description": "re",
     "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "In attesa di verifiche"
+    "statusHistory": [
+      {
+        "status": "SOSPESO",
+        "note": "In attesa di verifiche",
+        "timestamp": "23/11/2026, 20:50:54"
+      }
+    ],
+    "note": "In sospeso1"
   },
   {
     "id": 1795023704556,
