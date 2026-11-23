@@ -7,9 +7,15 @@
     "ambito": "Altro",
     "priority": "Critica",
     "description": "Test",
-    "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "In sospeso"
+    "status": "RISOLTO",
+    "statusHistory": [
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso",
+        "timestamp": "23/11/2026, 20:59:05"
+      }
+    ],
+    "note": "Risolto"
   },
   {
     "id": 1795023704556,
