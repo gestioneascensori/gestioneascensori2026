@@ -1,20 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 20:53:16",
-    "action": "Eliminazione Intervento",
-    "title": "medicina - Perdita di Acqua"
-  },
-  {
-    "timestamp": "23/11/2026, 20:53:08",
-    "action": "Eliminazione Intervento",
-    "title": "Medicina - Sensori antincendio"
-  },
-  {
-    "timestamp": "23/11/2026, 20:52:46",
-    "action": "Stato -> SOSPESO",
-    "title": "Medicina - Sensori antincendio"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
