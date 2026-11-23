@@ -7,9 +7,15 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Test",
-    "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "In sospesor"
+    "status": "RISOLTO",
+    "statusHistory": [
+      {
+        "status": "SOSPESO",
+        "note": "In sospesor",
+        "timestamp": "23/11/2026, 12:25:20"
+      }
+    ],
+    "note": "Risolto"
   },
   {
     "id": 1795429378247,
