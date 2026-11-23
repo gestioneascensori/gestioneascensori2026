@@ -342,6 +342,19 @@
    "deleted": false,
    "files": [],
    "remind": 10
+  },
+  {
+   "id": "mwsxbsz6zee10c",
+   "title": "MALATTIA",
+   "date": "2026-11-18",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1795417675890,
+   "deleted": false,
+   "files": [],
+   "remind": 10
   }
  ]
 }
