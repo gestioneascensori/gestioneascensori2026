@@ -331,19 +331,6 @@
    "remind": 10
   },
   {
-   "id": "mwowmy1kim8elg",
-   "title": "Dentista ore 14",
-   "date": "2026-11-23",
-   "start": "",
-   "end": "",
-   "color": "#0a84ff",
-   "notes": "",
-   "updatedAt": 1795174651352,
-   "deleted": false,
-   "files": [],
-   "remind": 10
-  },
-  {
    "id": "mwsxbsz6zee10c",
    "title": "MALATTIA",
    "date": "2026-11-18",
@@ -378,6 +365,19 @@
    "color": "#0a84ff",
    "notes": "",
    "updatedAt": 1795417692290,
+   "deleted": false,
+   "files": [],
+   "remind": 10
+  },
+  {
+   "id": "mwowmy1kim8elg",
+   "title": "Dentista ore 14",
+   "date": "2026-11-23",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1795417711426,
    "deleted": false,
    "files": [],
    "remind": 10
