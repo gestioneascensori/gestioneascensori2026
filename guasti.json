@@ -1,33 +1,5 @@
 [
   {
-    "id": 1795442314581,
-    "timestamp": "14:58:34 - 23/11/2026",
-    "reparto": "Ginecologia",
-    "title": "Controllo Accessi",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Test",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In attesa di verifiche1",
-        "timestamp": "23/11/2026, 15:00:11"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In attesa di verifiche2",
-        "timestamp": "23/11/2026, 15:00:39"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso3",
-        "timestamp": "23/11/2026, 15:01:01"
-      }
-    ],
-    "note": "Risolto"
-  },
-  {
     "id": 1795023704556,
     "timestamp": "18:41:44 - 18/11/2026",
     "reparto": "Immuno ematologia",
