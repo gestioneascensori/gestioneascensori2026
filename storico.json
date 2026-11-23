@@ -1,45 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 15:01:32",
-    "action": "Eliminazione Intervento",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 15:01:03",
-    "action": "Stato -> RISOLTO",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 15:00:41",
-    "action": "Stato -> SOSPESO",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 15:00:11",
-    "action": "Stato -> SOSPESO",
-    "title": "Ginecologia - Controllo Accessi (Nota: In attesa di verifiche2)"
-  },
-  {
-    "timestamp": "23/11/2026, 15:00:00",
-    "action": "Stato -> SOSPESO",
-    "title": "Ginecologia - Controllo Accessi (Nota: In attesa di verifiche1)"
-  },
-  {
-    "timestamp": "23/11/2026, 14:58:35",
-    "action": "Nuova Segnalazione",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 14:55:54",
-    "action": "Eliminazione Intervento",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 14:55:27",
-    "action": "Nuova Segnalazione",
-    "title": "Ginecologia - Controllo Accessi"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
