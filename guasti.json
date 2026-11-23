@@ -7,8 +7,9 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "re",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "SOSPESO",
+    "statusHistory": [],
+    "note": "In attesa di verifiche"
   },
   {
     "id": 1795023704556,
