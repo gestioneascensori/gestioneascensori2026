@@ -1,25 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 20:51:10",
-    "action": "Stato -> RISOLTO",
-    "title": "medicina - Perdita di Acqua"
-  },
-  {
-    "timestamp": "23/11/2026, 20:50:56",
-    "action": "Stato -> SOSPESO",
-    "title": "medicina - Perdita di Acqua"
-  },
-  {
-    "timestamp": "23/11/2026, 20:50:36",
-    "action": "Stato -> SOSPESO",
-    "title": "medicina - Perdita di Acqua (Nota: In attesa di verifiche)"
-  },
-  {
-    "timestamp": "23/11/2026, 20:50:24",
-    "action": "Nuova Segnalazione",
-    "title": "medicina - Perdita di Acqua"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
