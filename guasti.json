@@ -7,8 +7,9 @@
     "ambito": "Fabbro",
     "priority": "Alta",
     "description": "Tutto bloccato",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "SOSPESO",
+    "statusHistory": [],
+    "note": "In sospeso 1"
   },
   {
     "id": 1795023704556,
