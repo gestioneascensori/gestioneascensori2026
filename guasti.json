@@ -8,8 +8,14 @@
     "priority": "Media",
     "description": "TEST",
     "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "In sospeso1"
+    "statusHistory": [
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso1",
+        "timestamp": "23/11/2026, 12:23:57"
+      }
+    ],
+    "note": "In sospeso 2"
   },
   {
     "id": 1795023704556,
