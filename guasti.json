@@ -7,8 +7,9 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Ttg",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "SOSPESO",
+    "statusHistory": [],
+    "note": "In sospeso"
   },
   {
     "id": 1795023704556,
