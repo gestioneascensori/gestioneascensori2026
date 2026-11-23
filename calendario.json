@@ -381,6 +381,19 @@
    "deleted": false,
    "files": [],
    "remind": 10
+  },
+  {
+   "id": "mwsxcxbezyyftn",
+   "title": "PERMESSO PER VISITA DA INSERIRE NEL PORTALE",
+   "date": "2026-11-23",
+   "start": "",
+   "end": "",
+   "color": "#0a84ff",
+   "notes": "",
+   "updatedAt": 1795417728171,
+   "deleted": false,
+   "files": [],
+   "remind": 10
   }
  ]
 }
