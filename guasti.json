@@ -7,8 +7,9 @@
     "ambito": "Altro",
     "priority": "Critica",
     "description": "Ttg",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "SOSPESO",
+    "statusHistory": [],
+    "note": "In sospeso1"
   },
   {
     "id": 1795463423466,
