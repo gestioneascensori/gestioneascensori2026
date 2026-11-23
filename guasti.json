@@ -18,6 +18,11 @@
         "status": "SOSPESO",
         "note": "In attesa di verifiche 2",
         "timestamp": "23/11/2026, 14:50:38"
+      },
+      {
+        "status": "RISOLTO",
+        "note": "Risolto",
+        "timestamp": "23/11/2026, 14:50:41"
       }
     ],
     "note": "Risolto"
