@@ -1,33 +1,5 @@
 [
   {
-    "id": 1795426847327,
-    "timestamp": "10:40:47 - 23/11/2026",
-    "reparto": "MEDICINA 4A",
-    "title": "UPS",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "aaaa",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In attesa di verifiche 1",
-        "timestamp": "23/11/2026, 10:42:10"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso1 ",
-        "timestamp": "23/11/2026, 10:42:46"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "CHIMATO REPERIBILE",
-        "timestamp": "23/11/2026, 10:54:46"
-      }
-    ],
-    "note": "Risolto "
-  },
-  {
     "id": 1795023704556,
     "timestamp": "18:41:44 - 18/11/2026",
     "reparto": "Immuno ematologia",
