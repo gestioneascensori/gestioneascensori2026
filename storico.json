@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 20:49:26",
-    "action": "Eliminazione Intervento",
-    "title": "Medicina - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 20:48:45",
-    "action": "Stato -> RISOLTO",
-    "title": "Medicina - Controllo Accessi (Nota: Risolto e collaudato)"
-  },
-  {
-    "timestamp": "23/11/2026, 20:48:24",
-    "action": "Stato -> SOSPESO",
-    "title": "Medicina - Controllo Accessi"
-  },
-  {
-    "timestamp": "23/11/2026, 20:40:00",
-    "action": "Eliminazione Intervento",
-    "title": "ONCOLOGIA - Tgard"
-  },
-  {
-    "timestamp": "23/11/2026, 20:39:33",
-    "action": "Stato -> RISOLTO",
-    "title": "ONCOLOGIA - Tgard (Nota: Risolto e collaudato)"
-  },
-  {
-    "timestamp": "23/11/2026, 20:39:09",
-    "action": "Stato -> SOSPESO",
-    "title": "ONCOLOGIA - Tgard"
-  },
-  {
-    "timestamp": "23/11/2026, 20:39:02",
-    "action": "Stato -> SOSPESO",
-    "title": "ONCOLOGIA - Tgard"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
