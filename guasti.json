@@ -7,7 +7,7 @@
     "ambito": "Altro",
     "priority": "Media",
     "description": "TEST",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
@@ -15,7 +15,7 @@
         "timestamp": "23/11/2026, 12:23:57"
       }
     ],
-    "note": "In sospeso 2"
+    "note": "Risolto"
   },
   {
     "id": 1795023704556,
