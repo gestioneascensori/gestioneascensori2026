@@ -1,40 +1,5 @@
 [
   {
-    "timestamp": "23/11/2026, 11:02:35",
-    "action": "Stato -> RISOLTO",
-    "title": "Ginecologa - UPS (Nota: Risolto e collaudato)"
-  },
-  {
-    "timestamp": "23/11/2026, 11:01:23",
-    "action": "Stato -> SOSPESO",
-    "title": "Ginecologa - UPS"
-  },
-  {
-    "timestamp": "23/11/2026, 11:00:17",
-    "action": "Stato -> SOSPESO",
-    "title": "Ginecologa - UPS"
-  },
-  {
-    "timestamp": "23/11/2026, 10:54:49",
-    "action": "Stato -> RISOLTO",
-    "title": "MEDICINA 4A - UPS"
-  },
-  {
-    "timestamp": "23/11/2026, 10:42:46",
-    "action": "Stato -> SOSPESO",
-    "title": "MEDICINA 4A - UPS (Nota: CHIMATO REPERIBILE)"
-  },
-  {
-    "timestamp": "23/11/2026, 10:42:12",
-    "action": "Stato -> SOSPESO",
-    "title": "MEDICINA 4A - UPS"
-  },
-  {
-    "timestamp": "23/11/2026, 10:41:50",
-    "action": "Stato -> SOSPESO",
-    "title": "MEDICINA 4A - UPS (Nota: In attesa di verifiche 1)"
-  },
-  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
