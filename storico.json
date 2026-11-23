@@ -1,5 +1,10 @@
 [
   {
+    "timestamp": "23/11/2026, 14:50:05",
+    "action": "Stato -> SOSPESO",
+    "title": "Medicina - Sensori antincendio (Nota: In attesa di verifiche)"
+  },
+  {
     "timestamp": "23/11/2026, 09:10:00",
     "action": "Stato -> RISOLTO",
     "title": "Immuno ematologia - Tgard (Motivo: Risolto da Battaglia)"
