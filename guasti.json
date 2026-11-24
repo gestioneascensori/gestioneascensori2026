@@ -7,7 +7,7 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Test funzionale app",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
@@ -18,9 +18,14 @@
         "status": "SOSPESO",
         "note": "In sospeso2",
         "timestamp": "24/11/2026, 20:39:56"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso3",
+        "timestamp": "24/11/2026, 20:40:15"
       }
     ],
-    "note": "In sospeso3"
+    "note": "Risolto"
   },
   {
     "id": 1795023704556,
