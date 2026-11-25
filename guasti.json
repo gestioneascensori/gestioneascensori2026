@@ -7,8 +7,9 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Grace",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "RISOLTO",
+    "statusHistory": [],
+    "note": "Risolto"
   },
   {
     "id": 1795610899282,
