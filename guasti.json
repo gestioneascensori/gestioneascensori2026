@@ -1,28 +1,5 @@
 [
   {
-    "id": 1795628084053,
-    "timestamp": "18:34:44 - 25/11/2026",
-    "reparto": "ONCOLOGIA",
-    "title": "Porte Automatiche",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "test",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso1",
-        "timestamp": "25/11/2026, 18:35:10"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In sospeso2",
-        "timestamp": "25/11/2026, 18:35:37"
-      }
-    ],
-    "note": "Risolto e  "
-  },
-  {
     "id": 1795023704556,
     "timestamp": "18:41:44 - 18/11/2026",
     "reparto": "Immuno ematologia",
