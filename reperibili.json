@@ -156,21 +156,11 @@
   ],
   "custom": [
     {
-      "id": "custom_1795608352224",
-      "name": "prova",
-      "search": "prova 122 121",
+      "id": "custom_1795608532432",
+      "name": "TEST AGGIUNTA",
+      "search": "test aggiunta  ",
       "lines": [
-        "122: <a href=\"tel:1212\">1212</a>",
-        "121: <a href=\"tel:121\">121</a>"
-      ]
-    },
-    {
-      "id": "custom_1795608355000",
-      "name": "prova",
-      "search": "prova 122 121",
-      "lines": [
-        "122: <a href=\"tel:1212\">1212</a>",
-        "121: <a href=\"tel:121\">121</a>"
+        "Tel: <a href=\"tel:02020202\">02020202</a>"
       ]
     }
   ]
