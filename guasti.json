@@ -7,8 +7,9 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Test",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "SOSPESO",
+    "statusHistory": [],
+    "note": "In sospeso1"
   },
   {
     "id": 1795023704556,
