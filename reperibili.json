@@ -154,5 +154,14 @@
       ]
     }
   ],
-  "custom": []
+  "custom": [
+    {
+      "id": "custom_1795610320835",
+      "name": "CENTRALINO PRESIDIO SAN CARLO",
+      "search": "centralino presidio san carlo  ",
+      "lines": [
+        "Tel: <a href=\"tel:0240221\">0240221</a>"
+      ]
+    }
+  ]
 }
