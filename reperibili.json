@@ -1,0 +1,177 @@
+{
+  "defaults": [
+    {
+      "id": "def_1",
+      "name": "Siram (Man. Interna - H16)",
+      "search": "siram man interna h16 meccanico elettrico",
+      "lines": [
+        "Meccanico: <a href='tel:3481210206'>3481210206</a> (H16)",
+        "Elettrico: <a href='tel:3408477499'>3408477499</a>"
+      ]
+    },
+    {
+      "id": "def_2",
+      "name": "Nippon Gases (Gas Medicali)",
+      "search": "nippon gases gas medicali reperibile",
+      "lines": [
+        "Reperibile 1: <a href='tel:3490549820'>3490549820</a>",
+        "Reperibile 2: <a href='tel:366670197'>366670197</a>"
+      ]
+    },
+    {
+      "id": "def_3",
+      "name": "Vigilanza",
+      "search": "vigilanza tel",
+      "lines": [
+        "Tel: <a href='tel:0240222922'>0240222922</a>"
+      ]
+    },
+    {
+      "id": "def_4",
+      "name": "Ing. Clinica",
+      "search": "ing clinica tguard tubo aria compressa",
+      "lines": [
+        "Tel: <a href='tel:3387128964'>3387128964</a> (T-Guard – Tubo Aria Compressa)",
+        "Tel: <a href='tel:024022131'>024022131</a> (fino a 18.30 – e Sabato mezza giornata mattina)"
+      ]
+    },
+    {
+      "id": "def_5",
+      "name": "Air-Fire (Antincendio)",
+      "search": "air fire antincendio elettrico idraulico meccanico",
+      "lines": [
+        "Rep. Elettrico: <a href='tel:3357788762'>3357788762</a>",
+        "Rep. Idraulico – Meccanico: <a href='tel:3469696244'>3469696244</a>"
+      ]
+    },
+    {
+      "id": "def_6",
+      "name": "Dosoli (Fabbro e Falegname)",
+      "search": "dosoli fabbro falegname",
+      "lines": [
+        "Tel: <a href='tel:3383261904'>3383261904</a>"
+      ]
+    },
+    {
+      "id": "def_7",
+      "name": "Del Bo (Ascensori)",
+      "search": "del bo ascensori h24 resp sig di mauro",
+      "lines": [
+        "Tel: <a href='tel:800646110'>800646110</a> (H24)",
+        "Resp. Sig. Di Mauro: <a href='tel:0289152812'>0289152812</a>"
+      ]
+    },
+    {
+      "id": "def_8",
+      "name": "Elisicilia (Primo int. Ascensori con Persone – Primo int. Antincendio)",
+      "search": "elisicilia primo int ascensori con persone antincendio",
+      "lines": [
+        "Tel: <a href='tel:3394523594'>3394523594</a>"
+      ]
+    },
+    {
+      "id": "def_9",
+      "name": "Dussmann (Pulizie)",
+      "search": "dussmann pulizie silvia",
+      "lines": [
+        "Rep: <a href='tel:3316788231'>3316788231</a>",
+        "Silvia: <a href='tel:3394561887'>3394561887</a> - Int. 2668"
+      ]
+    },
+    {
+      "id": "def_10",
+      "name": "Catena del Freddo",
+      "search": "catena del freddo mirco bailini rico",
+      "lines": [
+        "Mirco Bailini: <a href='tel:3387606200'>3387606200</a> (Rico se non risponde Rep. Elet. Freddo)",
+        "Rep. Elettrico Sedi Esterno: <a href='tel:3405995116'>3405995116</a>",
+        "Rep. San. Catena del Freddo: <a href='tel:3334911847'>3334911847</a>"
+      ]
+    },
+    {
+      "id": "def_11",
+      "name": "Riva Giardini (Verde)",
+      "search": "riva giardini verde villa",
+      "lines": [
+        "Tel: <a href='tel:3783013045'>3783013045</a> (Villa)"
+      ]
+    },
+    {
+      "id": "def_12",
+      "name": "SIA (Servizi Inf.)",
+      "search": "sia servizi inf desk",
+      "lines": [
+        "Tel: <a href='tel:0240222760'>0240222760</a> – <a href='tel:800971790'>800971790</a> (Desk)"
+      ]
+    },
+    {
+      "id": "def_13",
+      "name": "Posta Pneumatica",
+      "search": "posta pneumatica sig tiraboschi",
+      "lines": [
+        "Tel: <a href='tel:3205699900'>3205699900</a> (Sig. Tiraboschi)"
+      ]
+    },
+    {
+      "id": "def_14",
+      "name": "DiSystem (Chiamata Infermieri)",
+      "search": "disystem chiamata infermieri lorenzo cortellini",
+      "lines": [
+        "Tel: <a href='tel:3382805997'>3382805997</a>",
+        "Lorenzo Cortellini: <a href='tel:3388483299'>3388483299</a>"
+      ]
+    },
+    {
+      "id": "def_15",
+      "name": "Plantronic",
+      "search": "plantronic",
+      "lines": [
+        "Rep: <a href='tel:3487118462'>3487118462</a>"
+      ]
+    },
+    {
+      "id": "def_16",
+      "name": "Centralino San Carlo",
+      "search": "centralino san carlo",
+      "lines": [
+        "Tel: <a href='tel:0240221'>0240221</a>"
+      ]
+    },
+    {
+      "id": "def_17",
+      "name": "Reperibile U.T. San Paolo",
+      "search": "reperibile ut san paolo",
+      "lines": [
+        "Tel: <a href='tel:3487104075'>3487104075</a>"
+      ]
+    },
+    {
+      "id": "def_18",
+      "name": "Filippo Antonio (Ufficio Tecnico)",
+      "search": "filippo antonio ufficio tecnico",
+      "lines": [
+        "Tel: <a href='tel:3299061502'>3299061502</a>"
+      ]
+    }
+  ],
+  "custom": [
+    {
+      "id": "custom_1795608352224",
+      "name": "prova",
+      "search": "prova 122 121",
+      "lines": [
+        "122: <a href=\"tel:1212\">1212</a>",
+        "121: <a href=\"tel:121\">121</a>"
+      ]
+    },
+    {
+      "id": "custom_1795608355000",
+      "name": "prova",
+      "search": "prova 122 121",
+      "lines": [
+        "122: <a href=\"tel:1212\">1212</a>",
+        "121: <a href=\"tel:121\">121</a>"
+      ]
+    }
+  ]
+}
