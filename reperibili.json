@@ -154,5 +154,14 @@
       ]
     }
   ],
-  "custom": []
+  "custom": [
+    {
+      "id": "custom_1795609931747",
+      "name": "TEST",
+      "search": "test  ",
+      "lines": [
+        "Tel: <a href=\"tel:66546456456\">66546456456</a>"
+      ]
+    }
+  ]
 }
