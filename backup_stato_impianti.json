@@ -205,7 +205,9 @@
     "motivation": "Con porte aperte - 23/11 sollecito intervento  attesa ricambio "
   },
   "5 DEA": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Porte aperte piano 1"
   },
   "6 DEA": {
     "status": "fermo",
