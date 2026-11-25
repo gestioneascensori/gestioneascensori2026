@@ -162,6 +162,14 @@
       "lines": [
         "Tel: <a href=\"tel:0202002\">0202002</a>"
       ]
+    },
+    {
+      "id": "custom_1795608990806",
+      "name": "Test 2",
+      "search": "test 2  ",
+      "lines": [
+        "Tel: <a href=\"tel:qwewqwqeqw\">qwewqwqeqw</a>"
+      ]
     }
   ]
 }
