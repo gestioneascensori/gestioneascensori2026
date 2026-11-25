@@ -154,14 +154,5 @@
       ]
     }
   ],
-  "custom": [
-    {
-      "id": "custom_1795608828510",
-      "name": "test",
-      "search": "test  ",
-      "lines": [
-        "Tel: <a href=\"tel:0202002\">0202002</a>"
-      ]
-    }
-  ]
+  "custom": []
 }
