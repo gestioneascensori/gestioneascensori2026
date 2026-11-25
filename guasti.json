@@ -7,15 +7,20 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Test",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
         "note": "In sospeso1",
         "timestamp": "25/11/2026, 13:49:21"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "In sospeso2",
+        "timestamp": "25/11/2026, 13:49:37"
       }
     ],
-    "note": "In sospeso2"
+    "note": "Risolto"
   },
   {
     "id": 1795023704556,
