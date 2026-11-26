@@ -7,15 +7,20 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Sensore pazzo",
-    "status": "SOSPESO",
+    "status": "RISOLTO",
     "statusHistory": [
       {
         "status": "SOSPESO",
         "note": "hhhh",
         "timestamp": "26/11/2026, 12:56:23"
+      },
+      {
+        "status": "SOSPESO",
+        "note": "24/11/26",
+        "timestamp": "26/11/2026, 12:56:49"
       }
     ],
-    "note": "24/11/26"
+    "note": "Risolto"
   },
   {
     "id": 1795694069532,
