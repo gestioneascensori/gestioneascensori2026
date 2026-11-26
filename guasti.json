@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795694290325,
+    "timestamp": "12:58:10 - 26/11/2026",
+    "reparto": "Dea",
+    "title": "Allarmi antintrusione",
+    "ambito": "Elettrico",
+    "priority": "Media",
+    "description": "Problema password",
+    "status": "APERTO",
+    "statusHistory": []
+  },
+  {
     "id": 1795694071841,
     "timestamp": "12:54:31 - 26/11/2026",
     "reparto": "Dea",
