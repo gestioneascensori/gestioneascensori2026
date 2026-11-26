@@ -7,8 +7,9 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Sensore pazzo",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "SOSPESO",
+    "statusHistory": [],
+    "note": "hhhh"
   },
   {
     "id": 1795694069532,
