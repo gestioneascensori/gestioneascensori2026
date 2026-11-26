@@ -12,29 +12,6 @@
     "note": "Risolto"
   },
   {
-    "id": 1795694071841,
-    "timestamp": "12:54:31 - 26/11/2026",
-    "reparto": "Dea",
-    "title": "Allarmi antintrusione",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Sensore pazzo",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "hhhh",
-        "timestamp": "26/11/2026, 12:56:23"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "24/11/26",
-        "timestamp": "26/11/2026, 12:56:49"
-      }
-    ],
-    "note": "Risolto"
-  },
-  {
     "id": 1795023704556,
     "timestamp": "18:41:44 - 18/11/2026",
     "reparto": "Immuno ematologia",
