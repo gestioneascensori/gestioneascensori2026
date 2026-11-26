@@ -1,5 +1,16 @@
 [
   {
+    "id": 1795694071841,
+    "timestamp": "12:54:31 - 26/11/2026",
+    "reparto": "Dea",
+    "title": "Allarmi antintrusione",
+    "ambito": "Elettrico",
+    "priority": "Critica",
+    "description": "Sensore pazzo",
+    "status": "APERTO",
+    "statusHistory": []
+  },
+  {
     "id": 1795694069532,
     "timestamp": "12:54:29 - 26/11/2026",
     "reparto": "Dea",
