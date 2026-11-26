@@ -7,8 +7,9 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Problema password",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "RISOLTO",
+    "statusHistory": [],
+    "note": "Risolto"
   },
   {
     "id": 1795694071841,
