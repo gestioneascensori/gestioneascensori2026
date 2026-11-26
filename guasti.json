@@ -47,34 +47,6 @@
     "note": "Risolto"
   },
   {
-    "id": 1795693661991,
-    "timestamp": "12:47:41 - 26/11/2026",
-    "reparto": "Oncologia",
-    "title": "Controllo Accessi",
-    "ambito": "Elettrico",
-    "priority": "Critica",
-    "description": "Test",
-    "status": "RISOLTO",
-    "statusHistory": [
-      {
-        "status": "SOSPESO",
-        "note": "In attesa di verifiche1",
-        "timestamp": "26/11/2026, 12:49:11"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In attesa di verifiche 2",
-        "timestamp": "26/11/2026, 12:49:29"
-      },
-      {
-        "status": "SOSPESO",
-        "note": "In attesa di verifiche3",
-        "timestamp": "26/11/2026, 12:49:58"
-      }
-    ],
-    "note": "Risolto e collaudato"
-  },
-  {
     "id": 1795023704556,
     "timestamp": "18:41:44 - 18/11/2026",
     "reparto": "Immuno ematologia",
