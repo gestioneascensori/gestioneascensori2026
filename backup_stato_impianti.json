@@ -292,7 +292,8 @@
     "status": "funzionante"
   },
   "VIA STROMBOLI 19": {
-    "status": "funzionante"
+    "status": "guasto",
+    "note": ""
   },
   "VIA MASANIELLO 23": {
     "status": "funzionante"
