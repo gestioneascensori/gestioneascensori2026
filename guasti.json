@@ -8,8 +8,14 @@
     "priority": "Critica",
     "description": "Sensore pazzo",
     "status": "SOSPESO",
-    "statusHistory": [],
-    "note": "hhhh"
+    "statusHistory": [
+      {
+        "status": "SOSPESO",
+        "note": "hhhh",
+        "timestamp": "26/11/2026, 12:56:23"
+      }
+    ],
+    "note": "24/11/26"
   },
   {
     "id": 1795694069532,
