@@ -18,8 +18,9 @@
     "ambito": "Elettrico",
     "priority": "Critica",
     "description": "Sensore pazzo",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "RISOLTO",
+    "statusHistory": [],
+    "note": "Risolto"
   },
   {
     "id": 1795693661991,
