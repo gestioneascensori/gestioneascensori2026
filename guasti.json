@@ -7,8 +7,9 @@
     "ambito": "Elettrico",
     "priority": "Media",
     "description": "Test",
-    "status": "APERTO",
-    "statusHistory": []
+    "status": "RISOLTO",
+    "statusHistory": [],
+    "note": "12345Risolto e collaudato"
   },
   {
     "id": 1795023704556,
