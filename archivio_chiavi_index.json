@@ -1,1 +1,1 @@
-{"app":"gestione_chiavi_monthly","months":["2026_11"],"partitions":{"archivio_chiavi_2026_11.json":{"monthKey":"2026_11","file":"archivio_chiavi_2026_11.json","count":1,"updatedAt":"2026-11-27T01:24:57.841Z"}},"updatedAt":"2026-11-27T01:24:57.841Z"}
+{"app":"gestione_chiavi_monthly","months":["2026_11"],"partitions":{"archivio_chiavi_2026_11.json":{"monthKey":"2026_11","file":"archivio_chiavi_2026_11.json","count":2,"updatedAt":"2026-11-27T14:40:51.276Z"}},"updatedAt":"2026-11-27T14:40:51.276Z"}
