@@ -37,7 +37,9 @@
     "status": "funzionante"
   },
   "12": {
-    "status": "funzionante"
+    "status": "fermo",
+    "ticket": "",
+    "motivation": "Chiamato del Bo per ripristino "
   },
   "13": {
     "status": "funzionante"
